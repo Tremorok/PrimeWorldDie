@@ -1,0 +1,943 @@
+Local time: +3:00 UTC
+ProcessId: 11068
+(16244) 14:01:45.327  d: System runned under native Windows
+(16244) 14:01:45.327  m: Starting in normal mode
+(16244) 14:01:45.327  m: Executing "default.cfg"
+(16244) 14:01:45.327  m: setvar app_always_active = "0"
+(16244) 14:01:45.327  m: setvar bloomEnable = "1"
+(16244) 14:01:45.327  m: setvar gfx_fullscreen = "1"
+(16244) 14:01:45.328  m: setvar gfx_refreshrate = "0"
+(16244) 14:01:45.328  d: Could not parse screen resolution settings, using defaults
+(16244) 14:01:45.330  m: setvar gfx_resolution = "1920x1080"
+(16244) 14:01:45.330  m: setvar gfx_vsync = "1"
+(16244) 14:01:45.330  m: setvar grass_fade_distance = "100"
+(16244) 14:01:45.330  m: setvar language = "ru-RU"
+(16244) 14:01:45.330  m: setvar pfx_enable = "1"
+(16244) 14:01:45.330  m: setvar pfx_sharp_enable = "1"
+(16244) 14:01:45.330  m: setvar shadows = "1"
+(16244) 14:01:45.330  m: setvar shadow_terrain = "1"
+(16244) 14:01:45.330  m: setvar shadowPCF4_enable = "1"
+(16244) 14:01:45.330  m: setvar waterrefl = "1"
+(16244) 14:01:45.330  m: Executing "user.cfg"
+(16244) 14:01:45.330  m: setvar app_always_active = "0"
+(16244) 14:01:45.330  m: setvar bloomEnable = "1"
+(16244) 14:01:45.330  m: setvar camera_link_to_hero = "-1"
+(16244) 14:01:45.330  m: setvar camera_pitch = "58.75"
+(16244) 14:01:45.330  m: setvar camera_rod = "70"
+(16244) 14:01:45.330  m: setvar casual_control_style = "1"
+(16244) 14:01:45.330  m: setvar common_graphics_quality = "1"
+(16244) 14:01:45.330  m: setvar common_volume = "1"
+(16244) 14:01:45.330  m: setvar console_limit = "100"
+(16244) 14:01:45.330  m: setvar console_opacity = "0.4"
+(16244) 14:01:45.331  m: setvar console_peep = "0"
+(16244) 14:01:45.331  m: setvar console_size = "0.5"
+(16244) 14:01:45.331  m: setvar console_sweep_time = "0.25"
+(16244) 14:01:45.331  m: setvar current_pet = "-1"
+(16244) 14:01:45.331  m: setvar enableRESZ = "0"
+(16244) 14:01:45.331  m: setvar enable_cursor_clip = "1"
+(16244) 14:01:45.331  m: setvar enable_replay = "1"
+(16244) 14:01:45.331  m: setvar gfx_fullscreen = "1"
+(16244) 14:01:45.331  m: setvar gfx_refreshrate = "0"
+(16244) 14:01:45.331  m: setvar gfx_resolution = "1920x1080"
+(16244) 14:01:45.331  m: setvar gfx_scale3D = "1"
+(16244) 14:01:45.331  m: setvar gfx_skip_mip_levels = "0"
+(16244) 14:01:45.331  m: setvar gfx_vsync = "1"
+(16244) 14:01:45.331  m: setvar grass_fade_distance = "100"
+(16244) 14:01:45.331  m: setvar grass_fade_length = "100"
+(16244) 14:01:45.331  m: setvar last_map = ""
+(16244) 14:01:45.331  m: setvar lock_actionbar = "1"
+(16244) 14:01:45.331  m: setvar lock_camera = "0"
+(16244) 14:01:45.331  m: setvar minimap_rotate = "0"
+(16244) 14:01:45.331  m: setvar music_volume = "0"
+(16244) 14:01:45.331  m: setvar pfx_enable = "1"
+(16244) 14:01:45.331  m: setvar pfx_read_enable = "1"
+(16244) 14:01:45.331  m: setvar pfx_sharp_enable = "1"
+(16244) 14:01:45.331  m: setvar register_replay_extention = "1"
+(16244) 14:01:45.331  m: setvar rndr_disableTriLinear = "0"
+(16244) 14:01:45.331  m: setvar screenshot_ext = "jpg"
+(16244) 14:01:45.331  m: setvar session_camera = ""
+(16244) 14:01:45.331  m: setvar session_chat_off = "0"
+(16244) 14:01:45.331  m: setvar shadowMapScale = "0.625"
+(16244) 14:01:45.331  m: setvar shadowPCF4_enable = "1"
+(16244) 14:01:45.331  m: setvar shadowTest = "1"
+(16244) 14:01:45.331  m: setvar shadow_terrain = "1"
+(16244) 14:01:45.331  m: setvar shadows = "1"
+(16244) 14:01:45.331  m: setvar sound_background_enable = "0"
+(16244) 14:01:45.331  m: setvar sound_volume = "0.121212"
+(16244) 14:01:45.331  m: setvar use_badwords_filter = "0"
+(16244) 14:01:45.331  m: setvar voice_volume = "0"
+(16244) 14:01:45.331  m: setvar waterReflCoeff = "0.5"
+(16244) 14:01:45.331  m: setvar waterrefl = "1"
+(16244) 14:01:45.331  m: setvar window_pos_x = "963"
+(16244) 14:01:45.331  m: setvar window_pos_y = "565"
+(16244) 14:01:45.332  m: Executing "lang.cfg"
+(16244) 14:01:45.332  m: setvar language = "ru-RU"
+(16244) 14:01:45.332  m: Executing "social.cfg"
+(16244) 14:01:45.332  m: setvar social_login_address = "http://ru.pwcastle.nivalnetwork.com:88/"
+(16244) 14:01:45.332  d: Fullscreen: 1
+(16244) 14:01:45.443  d: Connection with lobby established
+(16244) 14:01:45.443  d: ComPtr: GetAddr
+(16244) 14:01:45.634  d: ComPtr: GetAddr
+(16244) 14:01:45.634  d: ComPtr: Assign 163785c INC
+(16244) 14:01:45.635  d: ComPtr: Assign 163785c INC
+(16244) 14:01:45.635  d: ComPtr: Free 163785c DEC
+(16244) 14:01:45.635  d: ComPtr: Free 163785c DEC
+(16244) 14:01:45.635  d: ComPtr: GetAddr
+(16244) 14:01:45.637  d: ComPtr: Assign 1637a9c INC
+(16244) 14:01:45.638  d: ComPtr: Assign 163785c INC
+(16244) 14:01:45.638  d: ComPtr: Assign 1637a9c INC
+(16244) 14:01:45.638  d: ComPtr: Free 163785c DEC
+(16244) 14:01:45.638  d: ComPtr: Free 1637a9c DEC
+(16244) 14:01:45.638  d: ComPtr: Free 1637a9c DEC
+(16244) 14:01:45.669  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data06.pile' found
+(16244) 14:01:45.676  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data05.pile' found
+(16244) 14:01:45.678  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data04.pile' found
+(16244) 14:01:45.682  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data03.pile' found
+(16244) 14:01:45.685  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data02.pile' found
+(16244) 14:01:45.690  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data01.pile' found
+(16244) 14:01:45.732  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\_data.pile' found
+(16244) 14:01:45.732  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Data\Localization\ru-RU\localisation_files.pile' found
+(16244) 14:01:45.924  m: Executing "game.cfg"
+(16244) 14:01:45.924  m: setvar stat_client_url = "http://gs.playpw.com/gstat0/"
+(16244) 14:01:45.924  m: Value 'use_smooth_turns' is not registered
+(16244) 14:01:45.924  m: setvar use_smooth_turns = "1"
+(16244) 14:01:45.924  m: setvar rdp_log_events = "3079"
+(16244) 14:01:45.938  m: Executing "input.cfg"
+(16244) 14:01:45.941  m: Unknown command or variable "parentWidth"
+(16244) 14:01:45.941  m: Type 'help' to list available commands
+(16244) 14:01:45.941  m: Executing "input.cfg"
+(16244) 14:01:45.992  m: Executing "smart_chat.cfg"
+(16244) 14:01:46.335  m: UDP transport login address: 92.242.35.3:35006@10
+(16244) 14:01:46.336  d: Previous SO_SNDBUF=65536
+(16244) 14:01:46.336  d: New SO_SNDBUF=65536
+(16244) 14:01:46.336  d: Previous SO_RCVBUF=65536
+(16244) 14:01:46.336  d: New SO_RCVBUF=65536
+(16244) 14:01:46.336  m: Socket opened. addr=34990, sock=1944
+(16244) 14:01:46.336  m: Starting outgoing connection. local=34990, remote=92.242.35.3:35006, mux=10
+(16244) 14:01:46.336  m: Cannot read configuration file "D:\Games\Prime World Ч копи€\PvP\Profiles\autoexec.cfg"
+(11568) 14:01:46.338  m: Sending INIT. descr=(92.242.35.3:35006 49394:10), seq=7068
+(8020) 14:01:46.342  m: UDP socket perfomance debug. addr=34990, recv=1, recv_tm=0.02, deliver_tm=0.00, send=1, send_tm=0.00
+(11568) 14:01:46.344  m: ACK sent. descr=(92.242.35.3:35006 49394:10), seq=7068, stage=Active_WaitingInitAck
+(11568) 14:01:46.344  m: Active connection handshake completed. descr=(92.242.35.3:35006 49394:10), seq=7068
+(11568) 14:01:46.360  m: LoginClient: Got login reply. code=Success(5), uid=5599879, welcome=ru1/lobby/1
+(16244) 14:01:46.709  d: OnDeviceChanged
+(16244) 14:01:46.709  d: NotifyDeviceCreate
+(16244) 14:01:46.779  d: DepthFormat: INTZ
+(16244) 14:01:46.783  m: setvar mipmaplodbias = "0"
+(16244) 14:01:47.375  d: FMOD Init OK
+(16932) 14:01:47.404  m: Recieving permitted event data
+(16932) 14:01:47.404  m: Initializing CURLlib...
+(16932) 14:01:47.404  m: Performing HTTP GET: url_len=28, url='http://gs.playpw.com/gstat0/'
+(16932) 14:01:47.584  d: HTTP GET performed
+(16932) 14:01:47.584  m: Recieved permitted event data. size=52
+(16932) 14:01:47.584  m: Got permitted events data. size=52
+(16932) 14:01:47.584  m: Got permitted events. methods=5, sessionEvents=6
+(16244) 14:01:47.646  d: Movie::SetViewport (w,h) = (1281, 1025)
+(16244) 14:01:48.018  d: Failed to open file  with error 3.
+(16244) 14:01:48.018  d: Cannot load ttf font: DejaVu LGC Sans
+(16244) 14:01:48.093  d: Failed to open file  with error 3.
+(16244) 14:01:48.094  d: Cannot load ttf font: _sans
+(16244) 14:01:48.117  d: Window FlashScreen got focus
+(16244) 14:01:48.117  d: Movie::SetViewport (w,h) = (1281, 1025)
+(16244) 14:01:48.120  d: Movie::SetViewport (w,h) = (1821, 1025)
+(16244) 14:01:48.123  d: Pref value too low. Please, check config variable 'prefs_common_graphics_quality'
+(16244) 14:01:48.123  d: Pref value too low. Please, check config variable 'prefs_common_graphics_quality'
+(16244) 14:01:48.308  d: Movie::SetViewport (w,h) = (1821, 1025)
+(16244) 14:01:48.334  m: Virtual Memory Usage: 254 mb
+(16244) 14:01:48.391  d: Command send: StartRender
+
+(16244) 14:01:48.392  d: Collected 0 persistent events
+(16244) 14:01:48.392  m: Connecting to lobby server...
+(16244) 14:01:48.392  m: Lobby service path: 'ru1/lobby/1'
+(16244) 14:01:48.392  m: Lobby service node id: 'lobby/1'
+(16244) 14:01:48.409  m: LoginClient: Creating outgoing service channel. svcid=lobby/1, req_id=1
+(16244) 14:01:48.409  d: GateKeeper: Generated pipeid(s= t=lobby/1 c=5599879 p=lobby/1)
+(16244) 14:01:48.409  m: GateKeeper: Pipe created for service. name=lobby/1
+(16244) 14:01:48.409  m: Node requested successfully(svcid=lobby/1)
+(16244) 14:01:48.409  m: Query rpc interface(svcid=lobby/1 iface=lobby:entrance)
+(11568) 14:01:48.430  m: LoginClient: Got svc reqest reply. svcid=lobby/1, req_id=1, code=0, addr=92.242.35.2:35010@100
+(11568) 14:01:48.430  m: ClientChannel: Connection details arrived. code=Ok(0), svcid=lobby/1, req_id=1, addr=92.242.35.2:35010@100
+(11568) 14:01:48.430  m: ClientChannel: Connecting to sevice. svcid=lobby/1, addr=92.242.35.2:35010, mux=100, req_id=1
+(11568) 14:01:48.430  m: Starting outgoing connection. local=34990, remote=92.242.35.2:35010, mux=100
+(11568) 14:01:48.430  m: Sending INIT. descr=(92.242.35.2:35010 34288:100), seq=32539
+(11568) 14:01:48.436  m: ACK sent. descr=(92.242.35.2:35010 34288:100), seq=32539, stage=Active_WaitingInitAck
+(11568) 14:01:48.436  m: Active connection handshake completed. descr=(92.242.35.2:35010 34288:100), seq=32539
+(11568) 14:01:48.436  m: ClientChannel: Connection established. svcid=lobby/1, req_id=1
+(11568) 14:01:48.436  m: RdpChannel: Channel connection established. src=, tgt=lobby/1, uid=5599879, remote=0.0.0.0:0
+(11568) 14:01:48.442  m: ClientChannel: Got service ack. svcid=lobby/1, req_id=1, code=Ok(0), state=2
+(11568) 14:01:48.442  m: RdpChannel: Delayed active channel established. src=, tgt=lobby/1, uid=5599879, remote=0.0.0.0:0
+(16244) 14:01:48.468  m: Iface received. svcid=lobby/1, iface=lobby:entrance
+(16244) 14:01:48.468  m: Entered lobby, requesting instance...
+(16244) 14:01:48.485  m: Got lobby instance
+(16244) 14:01:49.166  m: Joining social game...
+(16244) 14:01:49.181  m: Starting game session. map='Maps/Multiplayer/MOBA/_.ADMPDSCR.xdb', players=10, gameid=5b98a144000568a1, custom=false, gs_svcid=gamesvc/1, gs_instid=gsi0000191551f6bfce
+(16244) 14:01:49.181  m:   Player info. uid=3613052, sex=1, nick=[N_H]yiuhdfgdl, type=1, team=0, hero=freeze, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=5599879, sex=1, nick=[minus]???? ???????????, type=1, team=0, hero=ratcatcher, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=5599951, sex=1, nick=[minus]??????, type=1, team=0, hero=zealot, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=315614, sex=2, nick=[ALR]Rockenroll2014, type=1, team=0, hero=frogenglut, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=4593014, sex=1, nick=canykul, type=1, team=0, hero=rifleman, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=5580305, sex=1, nick=[X_X_L]???_, type=1, team=1, hero=firefox, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=5580512, sex=1, nick=[X_X_L]???????????_?????????, type=1, team=1, hero=invisible, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=5580303, sex=1, nick=[X_X_L]??_???, type=1, team=1, hero=snowqueen, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=278883, sex=1, nick=[Bang]sma, type=1, team=1, hero=gunslinger, bot_skin=
+(16244) 14:01:49.181  m:   Player info. uid=2507256, sex=1, nick=[mym]??????????, type=1, team=1, hero=alchemist, bot_skin=
+(16244) 14:01:49.182  m: Connecting to game server. svcid=gamesvc/1, instid=gsi0000191551f6bfce
+(16244) 14:01:49.182  m: Got lobby operation result: Ok(0)
+(16244) 14:01:49.182  m: LoginClient: Creating outgoing service channel. svcid=gamesvc/1, req_id=2
+(16244) 14:01:49.182  d: GateKeeper: Generated pipeid(s= t=gamesvc/1 c=5599879 p=gamesvc/1)
+(16244) 14:01:49.182  m: GateKeeper: Pipe created for service. name=gamesvc/1
+(16244) 14:01:49.182  m: Node requested successfully(svcid=gamesvc/1)
+(16244) 14:01:49.182  m: Query rpc interface(svcid=gamesvc/1 iface=gsi0000191551f6bfce)
+(11568) 14:01:49.200  m: LoginClient: Got svc reqest reply. svcid=gamesvc/1, req_id=2, code=0, addr=92.242.35.4:35010@100
+(11568) 14:01:49.200  m: ClientChannel: Connection details arrived. code=Ok(0), svcid=gamesvc/1, req_id=2, addr=92.242.35.4:35010@100
+(11568) 14:01:49.200  m: ClientChannel: Connecting to sevice. svcid=gamesvc/1, addr=92.242.35.4:35010, mux=100, req_id=2
+(11568) 14:01:49.200  m: Starting outgoing connection. local=34990, remote=92.242.35.4:35010, mux=100
+(11568) 14:01:49.200  m: Sending INIT. descr=(92.242.35.4:35010 35864:100), seq=598
+(11568) 14:01:49.206  m: ACK sent. descr=(92.242.35.4:35010 35864:100), seq=598, stage=Active_WaitingInitAck
+(11568) 14:01:49.206  m: Active connection handshake completed. descr=(92.242.35.4:35010 35864:100), seq=598
+(11568) 14:01:49.206  m: ClientChannel: Connection established. svcid=gamesvc/1, req_id=2
+(11568) 14:01:49.206  m: RdpChannel: Channel connection established. src=, tgt=gamesvc/1, uid=5599879, remote=0.0.0.0:0
+(11568) 14:01:49.212  m: ClientChannel: Got service ack. svcid=gamesvc/1, req_id=2, code=Ok(0), state=2
+(11568) 14:01:49.212  m: RdpChannel: Delayed active channel established. src=, tgt=gamesvc/1, uid=5599879, remote=0.0.0.0:0
+(16244) 14:01:49.234  m: Iface received. svcid=gamesvc/1, iface=gsi0000191551f6bfce
+(16244) 14:01:49.234  m: Connected to game service
+(16244) 14:01:49.234  m: Adding client to game server...
+(16244) 14:01:49.235  d: Client 5599879 : GameClient created
+(16244) 14:01:49.235  d: [ResourceCollection] collect talents
+(16244) 14:01:50.324  d: [ResourceCollection] collect consumables
+(16244) 14:01:50.362  d: [ResourceCollection] collect marketingItems
+(16244) 14:01:50.383  m: Reading "C:\Users\Terem\Documents\My Games\Prime World\0000000000557287.ignore"
+(16244) 14:01:50.645  d: Loaded info for map 'Maps/Multiplayer/MOBA/_.ADMP.xdb', max players per team: 5 / 5
+(16244) 14:01:50.648  m: ServerNode: Starting game (sid=5b98a144000568a1)
+(16244) 14:01:50.648  m: gameclient: Player info. uid=3613052, castle_lvl=39, hero_lvl=9, prating=1585.92, hrating=1379.00, party_id=1
+(16244) 14:01:50.648  m: gameclient: Player info. uid=5599879, castle_lvl=37, hero_lvl=22, prating=1501.26, hrating=1489.04, party_id=1
+(16244) 14:01:50.648  m: gameclient: Player info. uid=5599951, castle_lvl=28, hero_lvl=18, prating=1397.20, hrating=1364.71, party_id=1
+(16244) 14:01:50.648  m: gameclient: Player info. uid=315614, castle_lvl=40, hero_lvl=12, prating=1672.15, hrating=1453.65, party_id=0
+(16244) 14:01:50.648  m: gameclient: Player info. uid=4593014, castle_lvl=40, hero_lvl=18, prating=1775.42, hrating=1441.72, party_id=0
+(16244) 14:01:50.648  m: gameclient: Player info. uid=5580305, castle_lvl=13, hero_lvl=16, prating=1174.00, hrating=1174.00, party_id=4
+(16244) 14:01:50.648  m: gameclient: Player info. uid=5580512, castle_lvl=17, hero_lvl=17, prating=1330.72, hrating=1249.12, party_id=4
+(16244) 14:01:50.648  m: gameclient: Player info. uid=5580303, castle_lvl=18, hero_lvl=21, prating=1482.00, hrating=1432.00, party_id=4
+(16244) 14:01:50.648  m: gameclient: Player info. uid=278883, castle_lvl=40, hero_lvl=20, prating=1806.43, hrating=1472.85, party_id=0
+(16244) 14:01:50.648  m: gameclient: Player info. uid=2507256, castle_lvl=40, hero_lvl=25, prating=1728.10, hrating=1466.55, party_id=0
+(16244) 14:01:50.649  d: Starting game for 10 players on map 'Maps/Multiplayer/MOBA/_.ADMPDSCR.xdb' (client)...
+(16244) 14:01:50.871  d:  AddUser: 1183970330 freeze
+(16244) 14:01:50.883  d:  AddUser: 3460740689 ratcatcher
+(16244) 14:01:50.886  d:  AddUser: 637171033 firefox
+(16244) 14:01:50.904  d:  AddUser: 1039341398 zealot
+(16244) 14:01:50.907  d:  AddUser: 987473347 frogenglut
+(16244) 14:01:50.927  d:  AddUser: 2366472002 rifleman
+(16244) 14:01:50.960  d:  AddUser: 880060159 invisible
+(16244) 14:01:50.963  d:  AddUser: 3847232485 snowqueen
+(16244) 14:01:50.989  d:  AddUser: 2844819872 gunslinger
+(16244) 14:01:51.000  d:  AddUser: 4165883822 alchemist
+(16244) 14:01:54.070  d: MemoryPool: megapool; allocated size: 20971520; payload: 20889600
+(16244) 14:01:54.070  d: MemoryPool: megapool; new allocated size: 31457280
+(16244) 14:01:55.778  d: MemoryPool: megapool; allocated size: 31457280; payload: 31252992
+(16244) 14:01:55.778  d: MemoryPool: megapool; new allocated size: 41943040
+(16244) 14:01:56.823  d: MemoryPool: megapool; allocated size: 41943040; payload: 41936384
+(16244) 14:01:56.823  d: MemoryPool: megapool; new allocated size: 52428800
+(16244) 14:01:57.590  d: MemoryPool: megapool; allocated size: 52428800; payload: 52427776
+(16244) 14:01:57.591  d: MemoryPool: megapool; new allocated size: 62914560
+(16244) 14:01:58.230  d: MemoryPool: megapool; allocated size: 62914560; payload: 62872064
+(16244) 14:01:58.230  d: MemoryPool: megapool; new allocated size: 73400320
+(16244) 14:01:58.855  d: MemoryPool: megapool; allocated size: 73400320; payload: 73397248
+(16244) 14:01:58.855  d: MemoryPool: megapool; new allocated size: 83886080
+(16244) 14:01:59.354  d: MemoryPool: megapool; allocated size: 83886080; payload: 83884032
+(16244) 14:01:59.354  d: MemoryPool: megapool; new allocated size: 94371840
+(16244) 14:01:59.469  d: Player behaviour tracking is enabled for this game
+(12656) 14:01:59.471  d: P: start
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 0 userID 3613052
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 1 userID 5599879
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 2 userID 5580305
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 3 userID 5599951
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 4 userID 315614
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 5 userID 4593014
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 6 userID 5580512
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 7 userID 5580303
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 8 userID 278883
+(16244) 14:01:59.475  d: complaintsToday 0 complaintsMax 2 playerId 9 userID 2507256
+(16244) 14:01:59.475  d: Player [N_H]yiuhdfgdl with hero ‘риз team 0
+(16244) 14:01:59.475  d: Player [minus]¬ера «аморочкина with hero  рысолов team 0 (local)
+(16244) 14:01:59.475  d: Player [X_X_L]шта_ with hero –ыжий хвост team 1
+(16244) 14:01:59.475  d: Player [minus]Ёксома with hero ‘анатик team 0
+(16244) 14:01:59.475  d: Player [ALR]Rockenroll2014 with hero ∆абий наездник team 0
+(16244) 14:01:59.475  d: Player canykul with hero ѕутник team 0
+(16244) 14:01:59.475  d: Player [X_X_L]ћозговистый_ѕельмешек with hero Ќевидимка team 1
+(16244) 14:01:59.475  d: Player [X_X_L]ни_шта with hero ¬ьюга team 1
+(16244) 14:01:59.475  d: Player [Bang]sma with hero ќфицер team 1
+(16244) 14:01:59.475  d: Player [mym]јнтилекарь with hero ƒоктрина team 1
+(16244) 14:01:59.475  d: GameClient.StartingGame
+(16244) 14:01:59.475  m: Frame time histo: {0; [0.0, 2.0]: 1; [2.0, 10.0]: 0; [10.0, 20.0]: 0; [20.0, 30.0]: 0; [30.0, 40.0]: 0; [40.0, 50.0]: 0; 0}
+(16244) 14:01:59.594  d: Movie::SetViewport (w,h) = (1281, 1027)
+(16244) 14:01:59.722  d: Overriding font 2314 name 'DejaVu LGC Sans' with 'DejaVu LGC Sans Bold'
+(16244) 14:02:00.423  d: Failed to open file  with error 3.
+(16244) 14:02:00.423  d: Cannot load ttf font: DejaVu LGC Sans Bold
+(16244) 14:02:00.728  d: Window FlashScreen losing focus
+(16244) 14:02:00.728  d: Window FlashScreen got focus
+(16244) 14:02:00.728  d: Movie::SetViewport (w,h) = (1281, 1027)
+(16244) 14:02:00.741  d: Movie::SetViewport (w,h) = (1821, 1027)
+(16244) 14:02:00.763  d: SmartChat: ready
+(16244) 14:02:00.775  d: GameClient.LoadingMap
+(16244) 14:02:00.794  m: LoginClient: Creating outgoing service channel. svcid=chat, req_id=3
+(16244) 14:02:00.794  d: GateKeeper: Generated pipeid(s= t=chat c=5599879 p=chat)
+(16244) 14:02:00.794  m: GateKeeper: Pipe created for service. name=chat
+(16244) 14:02:00.794  m: Node requested successfully(svcid=chat)
+(16244) 14:02:00.794  m: Query rpc interface(svcid=chat iface=chat.client.iface)
+(11568) 14:02:00.821  m: LoginClient: Got svc reqest reply. svcid=chat, req_id=3, code=0, addr=92.242.35.3:35010@100
+(11568) 14:02:00.821  m: ClientChannel: Connection details arrived. code=Ok(0), svcid=chat, req_id=3, addr=92.242.35.3:35010@100
+(11568) 14:02:00.821  m: ClientChannel: Connecting to sevice. svcid=chat, addr=92.242.35.3:35010, mux=100, req_id=3
+(11568) 14:02:00.821  m: Starting outgoing connection. local=34990, remote=92.242.35.3:35010, mux=100
+(11568) 14:02:00.821  m: Sending INIT. descr=(92.242.35.3:35010 59980:100), seq=18716
+(11568) 14:02:00.827  m: ACK sent. descr=(92.242.35.3:35010 59980:100), seq=18716, stage=Active_WaitingInitAck
+(11568) 14:02:00.827  m: Active connection handshake completed. descr=(92.242.35.3:35010 59980:100), seq=18716
+(11568) 14:02:00.827  m: ClientChannel: Connection established. svcid=chat, req_id=3
+(11568) 14:02:00.827  m: RdpChannel: Channel connection established. src=, tgt=chat, uid=5599879, remote=0.0.0.0:0
+(11568) 14:02:00.835  m: ClientChannel: Got service ack. svcid=chat, req_id=3, code=Ok(0), state=2
+(11568) 14:02:00.835  m: RdpChannel: Delayed active channel established. src=, tgt=chat, uid=5599879, remote=0.0.0.0:0
+(16244) 14:02:00.899  m: Chat client iface OPENED
+(16244) 14:02:00.899  m: Iface received. svcid=chat, iface=chat.client.iface
+(16244) 14:02:00.961  m: gamechat::Client::OnRegisterUser(sidL=283452 chatUserid=2565591 rc=0)
+(16244) 14:02:00.961  m: gamechat::Client::OnJoinChannel(sid=283452 chnlname=Session)
+(16244) 14:02:00.961  m: gamechat::Client::OnJoinChannel: channel registered successfully(sid=283452 chnlname=Session chnltype=2)
+(16244) 14:02:00.961  m: gamechat::Client::OnJoinChannel(sid=283452 chnlname=Left)
+(16244) 14:02:00.961  m: gamechat::Client::OnJoinChannel: channel registered successfully(sid=283452 chnlname=Left chnltype=1)
+(16244) 14:02:00.961  m: gamechat::Client::OnJoinChannel(sid=283452 chnlname=Left_SmartChat)
+(16244) 14:02:00.961  m: gamechat::Client::OnJoinChannel: channel registered successfully(sid=283452 chnlname=Left_SmartChat chnltype=3)
+(16244) 14:02:00.961  m: gamechat::Client::OnRegisterUserReturn(rc=0 userid=5599879 rpcsts=1)
+(11676) 14:02:01.034  m: Loading baked geometry from file: /Maps/Multiplayer/MOBA/_.baked_terrain
+(11676) 14:02:01.766  d: WarFogUnblock: 0.000
+(11676) 14:02:03.010  d: SimpleObject: 1.244
+(11676) 14:02:03.010  d: GameObject: 0.000
+(11676) 14:02:03.154  d: Road: 0.144
+(11676) 14:02:03.187  d: Flagpole: 0.032
+(11676) 14:02:03.187  d: Flagpole: 0.000
+(11676) 14:02:03.457  d: AdvMapCreepSpawner: 0.270
+(11676) 14:02:03.628  d: MemoryPool: megapool; allocated size: 94371840; payload: 94350848
+(11676) 14:02:03.628  d: MemoryPool: megapool; new allocated size: 104857600
+(11676) 14:02:03.824  d: AdvMapNeutralCreepSpawner: 0.368
+(11676) 14:02:04.405  d: TreeObject: 0.581
+(11676) 14:02:05.239  d: MultiStateObject: 0.833
+(11676) 14:02:05.239  d: UsableBuilding: 0.000
+(11676) 14:02:05.697  d: Building: 0.458
+(11676) 14:02:05.697  d: GlyphSpawner: 0.000
+(11676) 14:02:05.817  d: MemoryPool: megapool; allocated size: 104857600; payload: 104680448
+(11676) 14:02:05.817  d: MemoryPool: megapool; new allocated size: 115343360
+(11676) 14:02:06.056  d: Shop: 0.358
+(11676) 14:02:06.207  d: MinigamePlace: 0.151
+(11676) 14:02:06.232  d: Critter: 0.025
+(11676) 14:02:06.407  d: Tower: 0.175
+(11676) 14:02:06.411  d: AdvMapObstacle: 0.004
+(11676) 14:02:07.079  d: SpawnHeroes:FindPlayers: 0.000
+(11676) 14:02:07.079  d: SpawnHeroes:FindPlace: 0.000
+(11676) 14:02:07.208  d: MemoryPool: megapool; allocated size: 115343360; payload: 115335168
+(11676) 14:02:07.209  d: MemoryPool: megapool; new allocated size: 125829120
+(11676) 14:02:07.244  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:07.321  d: SpawnHeroes:CreateHero:0: 0.242
+(11676) 14:02:07.398  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:07.462  d: SpawnHeroes:CreateHero:1: 0.141
+(11676) 14:02:07.565  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:07.817  d: SpawnHeroes:CreateHero:3: 0.355
+(11676) 14:02:07.913  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:07.973  d: SpawnHeroes:CreateHero:4: 0.156
+(11676) 14:02:08.044  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:08.079  d: SpawnHeroes:CreateHero:5: 0.106
+(11676) 14:02:08.142  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:08.355  d: SpawnHeroes:CreateHero:2: 0.275
+(11676) 14:02:08.411  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:08.486  d: SpawnHeroes:CreateHero:6: 0.131
+(11676) 14:02:08.583  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:08.759  d: SpawnHeroes:CreateHero:7: 0.273
+(11676) 14:02:08.838  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:08.909  d: SpawnHeroes:CreateHero:8: 0.151
+(11676) 14:02:08.951  d: Start preloading hero's (Dummy name) resources
+(11676) 14:02:09.209  d: SpawnHeroes:CreateHero:9: 0.299
+(11676) 14:02:09.360  d: resources[0]: Creeps/A/SuperHeavy/InventorSummon.CREEP.xdb
+(11676) 14:02:09.465  d: MemoryPool: megapool; allocated size: 125829120; payload: 125826560
+(11676) 14:02:09.465  d: MemoryPool: megapool; new allocated size: 136314880
+(16244) 14:02:09.516  m: Frame time histo: {0; [0.0, 2.0]: 1; [2.0, 10.0]: 1; [10.0, 20.0]: 146; [20.0, 30.0]: 0; [30.0, 40.0]: 0; [40.0, 50.0]: 0; 0}
+(11676) 14:02:10.131  d: Map StatsCoeffFromForce = 1.488
+(11676) 14:02:10.138  d: Map 'Maps/Multiplayer/MOBA/_.ADMP.xdb' loaded
+(16244) 14:02:10.151  d: Stopping thread. tid=11676, from_tid=16244, ptr=40c8ea70
+(16244) 14:02:10.151  d: Thread stopped. tid=11676, ptr=40c8ea70
+(16244) 14:02:10.973  d: Easel::PrefetchData: 0.784
+(16244) 14:02:11.028  d: complaintsToday 2 complaintsMax 2
+(16244) 14:02:11.044  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.045  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.059  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.059  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.059  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.073  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.073  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.087  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.088  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.103  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.103  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.117  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.118  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.133  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.133  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.148  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.148  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.163  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.163  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.177  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.177  d:  TRACE FROM FLASH SetHero 
+(16244) 14:02:11.213  m: GameClient.MapLoadCooldown, clientId is 5599879
+(16244) 14:02:11.213  m: SENDING our (5599879) progress: 100
+(16244) 14:02:14.056  d: GameClient.ClientReady
+(16244) 14:02:14.260  d: Pump messages lag
+(16244) 14:02:14.607  d: Window FlashScreen losing focus
+(16244) 14:02:14.607  d: Window FlashScreen got focus
+(11568) 14:02:15.012  m: RDP perfomance debug. dg_sent=233, dg_recv=229, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:02:15.012  m: RDP perfomance debug. polls={0; [0, 1]: 14341; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:02:15.012  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 9592; [2, 5]: 4750; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:02:16.411  m: UDP socket perfomance debug. addr=34990, recv=290, recv_tm=100.04, deliver_tm=0.00, send=252, send_tm=0.03
+(16244) 14:02:18.338  m: Virtual Memory Usage: 1561 mb
+(16244) 14:02:19.523  m: Frame time histo: {0; [0.0, 2.0]: 1; [2.0, 10.0]: 0; [10.0, 20.0]: 11; [20.0, 30.0]: 2; [30.0, 40.0]: 0; [40.0, 50.0]: 0; 497}
+(16244) 14:02:28.426  m: gamechat::Client::SendMsg(msg=?????, ????? ??????? ??? ??????? chnltype=2)
+(16244) 14:02:28.454  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=?????, ????? ??????? ??? ???????)
+(11568) 14:02:45.013  m: RDP perfomance debug. dg_sent=374, dg_recv=374, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:02:45.013  m: RDP perfomance debug. polls={0; [0, 1]: 15027; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:02:45.013  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10270; [2, 5]: 4757; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:02:46.412  m: UDP socket perfomance debug. addr=34990, recv=374, recv_tm=99.99, deliver_tm=0.01, send=374, send_tm=0.05
+(16244) 14:02:48.340  m: Virtual Memory Usage: 1562 mb
+(16244) 14:02:57.356  m: gamechat::Client::SendMsg(msg=??????? ???? chnltype=2)
+(16244) 14:02:57.389  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=??????? ????)
+(16244) 14:02:58.340  m: gamechat::Client::SendMsg(msg=??? chnltype=2)
+(16244) 14:02:58.356  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=???)
+(16244) 14:02:59.891  m: gamechat::Client::SendMsg(msg=???? chnltype=2)
+(16244) 14:02:59.907  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=????)
+(16244) 14:03:07.561  d: GameClient.Running
+(16244) 14:03:07.744  d: HideLoadingScreen
+(16244) 14:03:07.753  d:  TRACE FROM FLASH Ignore -1 
+(16244) 14:03:07.753  d: GameStatistics:LogPvxLogin
+(16244) 14:03:07.753  d: LogPvxLogin: relayAddress = 92.242.35.3:35006
+(16244) 14:03:07.753  d: Start segment step: 609 (0 commands)
+(16244) 14:03:07.814  d: Movie::SetViewport (w,h) = (1821, 1027)
+(16244) 14:03:09.543  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 2; [10.0, 20.0]: 0; [20.0, 30.0]: 4; [30.0, 40.0]: 1; [40.0, 50.0]: 1; 552}
+(16244) 14:03:12.527  d: ServerNode: Queue lags details: {0; [0.0, 2.0]: 0; [2.0, 5.0]: 0; [5.0, 10.0]: 1; [10.0, 20.0]: 42; [20.0, 50.0]: 2; [50.0, 100.0]: 1; [100.0, 200.0]: 2; [200.0, 500.0]: 2; 0}
+(16244) 14:03:12.527  d: ServerNode: Queue lags detected: min:9 average:31 max:354 count:4
+(16244) 14:03:12.527  d: ServerNode: Queue lags detected: start:17:03:07 end:17:03:12 step:658 fopens:11 screenshots:0
+(16244) 14:03:12.626  d: ServerNode: Lags detected: min:0 average:97 max:424 count:1
+(16244) 14:03:12.626  d: ServerNode: Lags detected: start:17:03:07 end:17:03:12 step:659 fopens:11 screenshots:0
+(16244) 14:03:12.626  d: ServerNode: Lags detected: RPC ping:405 transport ping:2
+(11568) 14:03:15.013  m: RDP perfomance debug. dg_sent=474, dg_recv=474, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:03:15.013  m: RDP perfomance debug. polls={0; [0, 1]: 15026; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:03:15.013  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10277; [2, 5]: 4749; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:03:16.431  m: UDP socket perfomance debug. addr=34990, recv=488, recv_tm=100.00, deliver_tm=0.01, send=489, send_tm=0.07
+(16244) 14:03:18.355  m: Virtual Memory Usage: 1609 mb
+(16244) 14:03:30.326  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[X_X_L]???????????_????????? msg=???? ?????? ?? ???? ?????????)
+(16244) 14:03:30.928  d: Nature map advance, A on Center targeted at 4
+(16244) 14:03:30.928  d: Nature map state, A @ 0->0->0, B @ 0->0->0
+(16244) 14:03:31.144  d: Stopping thread. tid=10020, from_tid=16244, ptr=20352298
+(16244) 14:03:31.144  d: Thread stopped. tid=10020, ptr=20352298
+(16244) 14:03:35.245  d: Window FlashScreen got focus
+(16244) 14:03:36.810  d: Segment step: 900 (1 commands)
+(16244) 14:03:37.827  d: Nature map advance, A on Center targeted at 10
+(16244) 14:03:37.827  d: Nature map state, A @ 48->50->50, B @ 0->0->0
+(16244) 14:03:40.910  d: Nature map advance, B on Top targeted at 27
+(16244) 14:03:40.910  d: Nature map state, A @ 0->0->0, B @ 0->0->0
+(16244) 14:03:42.344  m: gamechat::Client::SendMsg(msg=205 chnltype=2)
+(16244) 14:03:42.377  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=205)
+(11568) 14:03:45.013  m: RDP perfomance debug. dg_sent=702, dg_recv=701, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:03:45.013  m: RDP perfomance debug. polls={0; [0, 1]: 14998; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:03:45.013  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10497; [2, 5]: 4500; [5, 10]: 1; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(16244) 14:03:45.311  d: Nature map advance, B on Center targeted at 26
+(16244) 14:03:45.311  d: Nature map state, A @ 107->110->110, B @ 0->0->0
+(8020) 14:03:46.508  m: UDP socket perfomance debug. addr=34990, recv=701, recv_tm=100.23, deliver_tm=0.01, send=700, send_tm=0.09
+(16244) 14:03:48.113  d: Nature map advance, A on Center targeted at 15
+(16244) 14:03:48.113  d: Nature map state, A @ 107->110->110, B @ 48->50->50
+(16244) 14:03:48.357  m: Virtual Memory Usage: 1617 mb
+(16244) 14:03:49.560  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 0; [40.0, 50.0]: 31; 566}
+(16244) 14:03:49.613  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[N_H]yiuhdfgdl msg=61 ???)
+(16244) 14:03:54.612  d: Nature map advance, B on Top targeted at 21
+(16244) 14:03:54.612  d: Nature map state, A @ 0->0->0, B @ 39->40->40
+(16244) 14:03:55.714  m: gamechat::Client::SendMsg(msg=2005 chnltype=2)
+(16244) 14:03:55.727  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=2005)
+(16244) 14:03:56.012  d: Nature map advance, B on Center targeted at 20
+(16244) 14:03:56.012  d: Nature map state, A @ 158->160->160, B @ 48->50->50
+(16244) 14:03:57.728  d: GameClient: Lags detected: min:1 average:5 max:115 count:1
+(16244) 14:03:57.728  d: GameClient: Lags detected: start:17:03:52 end:17:03:57 step:1108 fopens:0
+(16244) 14:03:59.562  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 1; [10.0, 20.0]: 0; [20.0, 30.0]: 0; [30.0, 40.0]: 1; [40.0, 50.0]: 26; 566}
+(16244) 14:04:00.912  d: Nature map advance, B on Bottom targeted at 26
+(16244) 14:04:00.912  d: Nature map state, A @ 0->0->0, B @ 0->0->0
+(16244) 14:04:06.812  d: Segment step: 1200 (0 commands)
+(16244) 14:04:07.015  d: GameClient: Ping statistics: start:17:03:07, end:17:04:07
+(16244) 14:04:07.015  d: GameClient: Long ping (RPC): samples:1, min:405, max:405, avg:405
+(16244) 14:04:07.015  d: GameClient: Norm ping (RPC): samples:11, min:13, max:17, avg:15
+(16244) 14:04:07.015  d: GameClient: Long ping (TGS): samples:0, min:0, max:0, avg:0
+(16244) 14:04:07.015  d: GameClient: Norm ping (TGS): samples:1, min:1, max:1, avg:1
+(16244) 14:04:07.015  d: GameClient: Long ping (TLS): samples:0, min:0, max:0, avg:0
+(16244) 14:04:07.015  d: GameClient: Norm ping (TLS): samples:5, min:2, max:3, avg:2
+(16244) 14:04:07.719  d: Nature map advance, B on Top targeted at 15
+(16244) 14:04:07.719  d: Nature map state, A @ 0->0->0, B @ 97->100->100
+(16244) 14:04:08.412  d: Nature map advance, A on Bottom targeted at 3
+(16244) 14:04:08.412  d: Nature map state, A @ 0->0->0, B @ 48->50->50
+(16244) 14:04:12.714  d: Nature map advance, B on Bottom targeted at 21
+(16244) 14:04:12.715  d: Nature map state, A @ 39->40->40, B @ 48->50->50
+(16244) 14:04:13.913  d: Nature map advance, A on Top targeted at 4
+(16244) 14:04:13.913  d: Nature map state, A @ 0->0->0, B @ 157->160->160
+(11568) 14:04:15.014  m: RDP perfomance debug. dg_sent=751, dg_recv=751, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:04:15.014  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:04:15.014  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10380; [2, 5]: 4621; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:04:16.508  m: UDP socket perfomance debug. addr=34990, recv=756, recv_tm=99.98, deliver_tm=0.01, send=756, send_tm=0.10
+(16244) 14:04:18.358  m: Virtual Memory Usage: 1628 mb
+(16244) 14:04:24.061  m: gamechat::Client::SendMsg(msg=?? ??? chnltype=2)
+(16244) 14:04:24.078  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=?? ???)
+(16244) 14:04:24.813  d: Nature map advance, A on Bottom targeted at 9
+(16244) 14:04:24.813  d: Nature map state, A @ 39->40->40, B @ 98->100->100
+(16244) 14:04:26.013  d: Nature map advance, A on Top targeted at 9
+(16244) 14:04:26.013  d: Nature map state, A @ 48->50->50, B @ 157->160->160
+(16244) 14:04:26.079  m: gamechat::Client::SendMsg(msg=2002 chnltype=2)
+(16244) 14:04:26.112  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=2002)
+(16244) 14:04:36.814  d: Segment step: 1500 (1 commands)
+(11568) 14:04:45.015  m: RDP perfomance debug. dg_sent=729, dg_recv=729, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:04:45.015  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:04:45.015  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10653; [2, 5]: 4348; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:04:46.469  m: UDP socket perfomance debug. addr=34990, recv=728, recv_tm=99.85, deliver_tm=0.01, send=729, send_tm=0.09
+(16244) 14:04:48.358  m: Virtual Memory Usage: 1634 mb
+(16244) 14:05:06.814  d: Segment step: 1800 (0 commands)
+(11568) 14:05:15.016  m: RDP perfomance debug. dg_sent=765, dg_recv=765, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:05:15.016  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:05:15.016  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10894; [2, 5]: 4106; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:05:16.435  m: UDP socket perfomance debug. addr=34990, recv=768, recv_tm=99.87, deliver_tm=0.01, send=768, send_tm=0.10
+(16244) 14:05:18.360  m: Virtual Memory Usage: 1638 mb
+(16244) 14:05:29.649  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 10; [40.0, 50.0]: 83; 494}
+(16244) 14:05:36.834  d: Segment step: 2100 (3 commands)
+(16244) 14:05:40.036  d: Nature map advance, B on Top targeted at 21
+(16244) 14:05:40.036  d: Nature map state, A @ 98->100->100, B @ 157->160->160
+(11568) 14:05:45.017  m: RDP perfomance debug. dg_sent=739, dg_recv=741, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:05:45.017  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:05:45.017  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10955; [2, 5]: 4045; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:05:46.516  m: UDP socket perfomance debug. addr=34990, recv=736, recv_tm=100.19, deliver_tm=0.01, send=735, send_tm=0.10
+(16244) 14:05:48.362  m: Virtual Memory Usage: 1647 mb
+(16244) 14:06:05.534  d: Nature map advance, A on Top targeted at 15
+(16244) 14:06:05.534  d: Nature map state, A @ 98->100->100, B @ 103->100->100
+(16244) 14:06:06.834  d: Segment step: 2400 (2 commands)
+(16244) 14:06:08.737  d: Nature map advance, B on Bottom targeted at 15
+(16244) 14:06:08.738  d: Nature map state, A @ 97->100->100, B @ 98->100->100
+(16244) 14:06:10.237  d: Nature map advance, A on Center targeted at 10
+(16244) 14:06:10.237  d: Nature map state, A @ 158->160->160, B @ 107->110->110
+(11568) 14:06:15.019  m: RDP perfomance debug. dg_sent=729, dg_recv=728, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:06:15.019  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:06:15.019  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10387; [2, 5]: 4614; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:06:16.522  m: UDP socket perfomance debug. addr=34990, recv=727, recv_tm=100.00, deliver_tm=0.01, send=727, send_tm=0.10
+(16244) 14:06:18.362  m: Virtual Memory Usage: 1649 mb
+(16244) 14:06:36.833  d: Segment step: 2700 (2 commands)
+(11568) 14:06:45.019  m: RDP perfomance debug. dg_sent=727, dg_recv=727, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:06:45.019  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:06:45.019  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10615; [2, 5]: 4386; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:06:46.474  m: UDP socket perfomance debug. addr=34990, recv=732, recv_tm=99.82, deliver_tm=0.01, send=733, send_tm=0.10
+(16244) 14:06:48.364  m: Virtual Memory Usage: 1650 mb
+(16244) 14:06:59.718  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 2; [20.0, 30.0]: 1; [30.0, 40.0]: 12; [40.0, 50.0]: 73; 503}
+(16244) 14:07:06.837  d: Segment step: 3000 (1 commands)
+(16244) 14:07:10.838  d: Nature map advance, B on Bottom targeted at 21
+(16244) 14:07:10.838  d: Nature map state, A @ 97->100->100, B @ 157->160->160
+(11568) 14:07:15.021  m: RDP perfomance debug. dg_sent=770, dg_recv=770, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:07:15.021  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:07:15.021  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10988; [2, 5]: 4013; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:07:16.540  m: UDP socket perfomance debug. addr=34990, recv=772, recv_tm=99.92, deliver_tm=0.01, send=772, send_tm=0.10
+(16244) 14:07:18.365  m: Virtual Memory Usage: 1653 mb
+(16244) 14:07:29.742  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 4; [40.0, 50.0]: 90; 502}
+(16244) 14:07:33.537  d: Nature map advance, A on Bottom targeted at 15
+(16244) 14:07:33.537  d: Nature map state, A @ 97->100->100, B @ 103->100->100
+(16244) 14:07:36.837  d: Segment step: 3300 (1 commands)
+(11568) 14:07:45.022  m: RDP perfomance debug. dg_sent=719, dg_recv=719, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:07:45.022  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:07:45.022  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10655; [2, 5]: 4346; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:07:46.540  m: UDP socket perfomance debug. addr=34990, recv=714, recv_tm=99.99, deliver_tm=0.01, send=714, send_tm=0.09
+(16244) 14:07:48.370  m: Virtual Memory Usage: 1654 mb
+(16244) 14:07:49.759  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 6; [40.0, 50.0]: 90; 494}
+(16244) 14:07:59.760  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 5; [40.0, 50.0]: 88; 502}
+(16244) 14:08:06.839  d: Segment step: 3600 (3 commands)
+(16244) 14:08:09.760  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 2; [20.0, 30.0]: 0; [30.0, 40.0]: 11; [40.0, 50.0]: 77; 497}
+(11568) 14:08:15.023  m: RDP perfomance debug. dg_sent=744, dg_recv=744, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:08:15.023  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:08:15.023  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10628; [2, 5]: 4372; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:08:16.626  m: UDP socket perfomance debug. addr=34990, recv=746, recv_tm=100.21, deliver_tm=0.01, send=746, send_tm=0.10
+(16244) 14:08:18.372  m: Virtual Memory Usage: 1655 mb
+(16244) 14:08:36.841  d: Segment step: 3900 (4 commands)
+(11568) 14:08:45.025  m: RDP perfomance debug. dg_sent=772, dg_recv=771, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:08:45.025  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:08:45.025  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10844; [2, 5]: 4156; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:08:46.622  m: UDP socket perfomance debug. addr=34990, recv=771, recv_tm=99.95, deliver_tm=0.01, send=770, send_tm=0.10
+(16244) 14:08:48.385  m: Virtual Memory Usage: 1655 mb
+(16244) 14:08:52.226  d: Nature map advance, A on Bottom targeted at 9
+(16244) 14:08:52.226  d: Nature map state, A @ 157->160->160, B @ 103->100->100
+(16244) 14:09:00.342  d: Nature map advance, B on Center targeted at 15
+(16244) 14:09:00.342  d: Nature map state, A @ 112->110->110, B @ 107->110->110
+(16244) 14:09:06.824  d: Segment step: 4200 (3 commands)
+(11568) 14:09:15.026  m: RDP perfomance debug. dg_sent=772, dg_recv=772, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:09:15.026  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:09:15.026  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10359; [2, 5]: 4642; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:09:16.624  m: UDP socket perfomance debug. addr=34990, recv=773, recv_tm=99.89, deliver_tm=0.01, send=773, send_tm=0.10
+(16244) 14:09:18.387  m: Virtual Memory Usage: 1653 mb
+(16244) 14:09:36.828  d: Segment step: 4500 (1 commands)
+(16244) 14:09:40.635  d: Nature map advance, A on Bottom targeted at 15
+(16244) 14:09:40.635  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(11568) 14:09:45.027  m: RDP perfomance debug. dg_sent=749, dg_recv=750, warn=0, err=0, retr=1, loss=0.2
+(11568) 14:09:45.027  m: RDP perfomance debug. polls={0; [0, 1]: 14998; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:09:45.027  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10903; [2, 5]: 4094; [5, 10]: 1; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:09:46.645  m: UDP socket perfomance debug. addr=34990, recv=749, recv_tm=99.91, deliver_tm=0.01, send=751, send_tm=0.10
+(16244) 14:09:48.389  m: Virtual Memory Usage: 1654 mb
+(16244) 14:09:49.826  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 13; [40.0, 50.0]: 89; 491}
+(16244) 14:10:03.047  d: Nature map advance, B on Center targeted at 20
+(16244) 14:10:03.047  d: Nature map state, A @ 112->110->110, B @ 158->160->160
+(16244) 14:10:06.843  d: Segment step: 4800 (2 commands)
+(11568) 14:10:15.028  m: RDP perfomance debug. dg_sent=747, dg_recv=746, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:10:15.028  m: RDP perfomance debug. polls={0; [0, 1]: 14999; [1, 2]: 1; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:10:15.028  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10676; [2, 5]: 4324; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:10:16.649  m: UDP socket perfomance debug. addr=34990, recv=750, recv_tm=99.99, deliver_tm=0.01, send=750, send_tm=0.10
+(16244) 14:10:18.390  m: Virtual Memory Usage: 1654 mb
+(16244) 14:10:19.850  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 6; [40.0, 50.0]: 91; 495}
+(16244) 14:10:26.144  d: Nature map advance, B on Center targeted at 15
+(16244) 14:10:26.144  d: Nature map state, A @ 112->110->110, B @ 112->110->110
+(16244) 14:10:36.844  d: Segment step: 5100 (3 commands)
+(16244) 14:10:40.096  m: gamechat::Client::SendMsg(msg=??? chnltype=2)
+(16244) 14:10:40.112  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=???)
+(16244) 14:10:41.251  m: gamechat::Client::SendMsg(msg=???? chnltype=2)
+(16244) 14:10:41.266  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=????)
+(16244) 14:10:43.492  m: gamechat::Client::SendMsg(msg=????? chnltype=2)
+(16244) 14:10:43.520  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=?????)
+(11568) 14:10:45.030  m: RDP perfomance debug. dg_sent=735, dg_recv=735, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:10:45.030  m: RDP perfomance debug. polls={0; [0, 1]: 14998; [1, 2]: 2; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:10:45.030  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10604; [2, 5]: 4396; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(16244) 14:10:46.030  m: gamechat::Client::SendMsg(msg=?????????? chnltype=2)
+(16244) 14:10:46.046  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=??????????)
+(8020) 14:10:46.637  m: UDP socket perfomance debug. addr=34990, recv=732, recv_tm=99.93, deliver_tm=0.01, send=732, send_tm=0.11
+(16244) 14:10:48.391  m: Virtual Memory Usage: 1660 mb
+(16244) 14:11:06.845  d: Segment step: 5400 (2 commands)
+(16244) 14:11:10.354  d: Nature map advance, A on Top targeted at 9
+(16244) 14:11:10.354  d: Nature map state, A @ 157->160->160, B @ 103->100->100
+(11568) 14:11:15.031  m: RDP perfomance debug. dg_sent=742, dg_recv=741, warn=0, err=0, retr=1, loss=0.2
+(11568) 14:11:15.031  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:11:15.031  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10636; [2, 5]: 4365; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:11:16.732  m: UDP socket perfomance debug. addr=34990, recv=743, recv_tm=100.24, deliver_tm=0.01, send=743, send_tm=0.10
+(16244) 14:11:18.392  m: Virtual Memory Usage: 1661 mb
+(16244) 14:11:27.349  d: Nature map advance, A on Bottom targeted at 9
+(16244) 14:11:27.349  d: Nature map state, A @ 157->160->160, B @ 103->100->100
+(16244) 14:11:29.649  d: Nature map advance, B on Top targeted at 15
+(16244) 14:11:29.649  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(16244) 14:11:29.879  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 2; [30.0, 40.0]: 9; [40.0, 50.0]: 86; 488}
+(16244) 14:11:31.852  d: Nature map advance, B on Center targeted at 20
+(16244) 14:11:31.852  d: Nature map state, A @ 112->110->110, B @ 158->160->160
+(16244) 14:11:33.167  m: gamechat::Client::SendMsg(msg=???????? ?? chnltype=2)
+(16244) 14:11:33.196  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=???????? ??)
+(16244) 14:11:36.831  d: Segment step: 5700 (1 commands)
+(11568) 14:11:45.033  m: RDP perfomance debug. dg_sent=758, dg_recv=757, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:11:45.033  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:11:45.033  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10890; [2, 5]: 4110; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:11:46.736  m: UDP socket perfomance debug. addr=34990, recv=758, recv_tm=99.75, deliver_tm=0.01, send=759, send_tm=0.10
+(16244) 14:11:48.398  m: Virtual Memory Usage: 1665 mb
+(16244) 14:11:56.433  d: Nature map advance, B on Center targeted at 15
+(16244) 14:11:56.433  d: Nature map state, A @ 112->110->110, B @ 112->110->110
+(16244) 14:12:06.833  d: Segment step: 6000 (1 commands)
+(16244) 14:12:07.635  d: Nature map advance, B on Top targeted at 21
+(16244) 14:12:07.635  d: Nature map state, A @ 103->100->100, B @ 157->160->160
+(11568) 14:12:15.034  m: RDP perfomance debug. dg_sent=736, dg_recv=736, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:12:15.034  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:12:15.034  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10480; [2, 5]: 4521; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:12:16.737  m: UDP socket perfomance debug. addr=34990, recv=739, recv_tm=99.98, deliver_tm=0.01, send=739, send_tm=0.10
+(16244) 14:12:18.410  m: Virtual Memory Usage: 1666 mb
+(16244) 14:12:29.916  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 5; [40.0, 50.0]: 89; 497}
+(16244) 14:12:32.333  d: Nature map advance, A on Bottom targeted at 15
+(16244) 14:12:32.333  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(16244) 14:12:33.435  d: Nature map advance, A on Top targeted at 15
+(16244) 14:12:33.435  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(16244) 14:12:36.839  d: Segment step: 6300 (0 commands)
+(11568) 14:12:45.035  m: RDP perfomance debug. dg_sent=775, dg_recv=776, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:12:45.035  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:12:45.035  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10887; [2, 5]: 4114; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:12:46.826  m: UDP socket perfomance debug. addr=34990, recv=777, recv_tm=100.25, deliver_tm=0.01, send=776, send_tm=0.11
+(16244) 14:12:48.414  m: Virtual Memory Usage: 1667 mb
+(16244) 14:12:49.919  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 11; [40.0, 50.0]: 95; 454}
+(16244) 14:12:54.338  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Left nickname=canykul msg=???)
+(16244) 14:12:59.941  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 10; [40.0, 50.0]: 96; 471}
+(16244) 14:13:00.641  m: gamechat::Client::SendMsg(msg=???? ???? chnltype=2)
+(16244) 14:13:00.671  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=???? ????)
+(16244) 14:13:06.837  d: Segment step: 6600 (0 commands)
+(16932) 14:13:07.795  m: New statistics data chunk. size=3930, msg_num=47, lifetime=600.0
+(16932) 14:13:07.795  m: Dispatching statistics data chunk. size=3930, msg_num=47
+(16932) 14:13:07.796  m: Statistics data chunk written. size=3930, fname=C:\Users\Terem\Documents\My Games\Prime World\statdata\5bba147300000000a7b2a7b7.sta
+(11568) 14:13:15.037  m: RDP perfomance debug. dg_sent=750, dg_recv=749, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:13:15.037  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:13:15.037  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 11148; [2, 5]: 3852; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:13:16.760  m: UDP socket perfomance debug. addr=34990, recv=751, recv_tm=99.76, deliver_tm=0.01, send=752, send_tm=0.10
+(16244) 14:13:18.430  m: Virtual Memory Usage: 1668 mb
+(16244) 14:13:36.835  d: Segment step: 6900 (1 commands)
+(11568) 14:13:45.037  m: RDP perfomance debug. dg_sent=748, dg_recv=748, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:13:45.037  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:13:45.037  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10903; [2, 5]: 4097; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:13:46.829  m: UDP socket perfomance debug. addr=34990, recv=741, recv_tm=100.21, deliver_tm=0.01, send=740, send_tm=0.09
+(16244) 14:13:48.432  m: Virtual Memory Usage: 1669 mb
+(16244) 14:13:54.641  d: Nature map advance, B on Center targeted at 20
+(16244) 14:13:54.641  d: Nature map state, A @ 112->110->110, B @ 158->160->160
+(16244) 14:13:59.138  d: Nature map advance, A on Center targeted at 15
+(16244) 14:13:59.139  d: Nature map state, A @ 112->110->110, B @ 112->110->110
+(16244) 14:14:06.837  d: Segment step: 7200 (3 commands)
+(16244) 14:14:08.540  d: Nature map advance, A on Bottom targeted at 9
+(16244) 14:14:08.540  d: Nature map state, A @ 157->160->160, B @ 103->100->100
+(16244) 14:14:14.139  d: Nature map advance, B on Bottom targeted at 15
+(16244) 14:14:14.139  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(11568) 14:14:15.037  m: RDP perfomance debug. dg_sent=762, dg_recv=761, warn=0, err=0, retr=2, loss=0.4
+(11568) 14:14:15.037  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:14:15.037  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10830; [2, 5]: 4170; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:14:16.842  m: UDP socket perfomance debug. addr=34990, recv=765, recv_tm=99.75, deliver_tm=0.01, send=768, send_tm=0.10
+(16244) 14:14:18.433  m: Virtual Memory Usage: 1671 mb
+(16244) 14:14:36.839  d: Segment step: 7500 (3 commands)
+(11568) 14:14:45.038  m: RDP perfomance debug. dg_sent=736, dg_recv=736, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:14:45.038  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:14:45.038  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10794; [2, 5]: 4207; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:14:46.842  m: UDP socket perfomance debug. addr=34990, recv=740, recv_tm=99.98, deliver_tm=0.01, send=740, send_tm=0.10
+(16244) 14:14:48.433  m: Virtual Memory Usage: 1672 mb
+(16244) 14:14:50.022  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 9; [40.0, 50.0]: 90; 495}
+(16244) 14:15:00.022  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 17; [40.0, 50.0]: 81; 489}
+(16244) 14:15:00.842  d: Nature map advance, A on Center targeted at 10
+(16244) 14:15:00.842  d: Nature map state, A @ 158->160->160, B @ 112->110->110
+(16244) 14:15:06.838  d: Segment step: 7800 (0 commands)
+(16244) 14:15:09.542  d: Nature map advance, B on Bottom targeted at 21
+(16244) 14:15:09.542  d: Nature map state, A @ 103->100->100, B @ 157->160->160
+(11568) 14:15:15.039  m: RDP perfomance debug. dg_sent=736, dg_recv=736, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:15:15.039  m: RDP perfomance debug. polls={0; [0, 1]: 14998; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:15:15.039  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10444; [2, 5]: 4553; [5, 10]: 1; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:15:16.841  m: UDP socket perfomance debug. addr=34990, recv=734, recv_tm=99.97, deliver_tm=0.01, send=734, send_tm=0.10
+(16244) 14:15:18.435  m: Virtual Memory Usage: 1674 mb
+(16244) 14:15:20.048  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 0; [30.0, 40.0]: 8; [40.0, 50.0]: 84; 505}
+(16244) 14:15:30.061  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 2; [30.0, 40.0]: 6; [40.0, 50.0]: 81; 501}
+(16244) 14:15:36.846  d: Segment step: 8100 (4 commands)
+(16244) 14:15:40.069  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 0; [10.0, 20.0]: 1; [20.0, 30.0]: 1; [30.0, 40.0]: 6; [40.0, 50.0]: 106; 440}
+(11568) 14:15:45.041  m: RDP perfomance debug. dg_sent=794, dg_recv=794, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:15:45.041  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:15:45.041  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 11250; [2, 5]: 3751; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:15:46.845  m: UDP socket perfomance debug. addr=34990, recv=792, recv_tm=99.99, deliver_tm=0.01, send=792, send_tm=0.11
+(16244) 14:15:48.437  m: Virtual Memory Usage: 1679 mb
+(16244) 14:15:52.547  d: Nature map advance, B on Bottom targeted at 26
+(16244) 14:15:52.547  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(16244) 14:16:06.843  d: Segment step: 8400 (0 commands)
+(16244) 14:16:09.446  d: Nature map advance, A on Top targeted at 9
+(16244) 14:16:09.446  d: Nature map state, A @ 157->160->160, B @ 103->100->100
+(16244) 14:16:11.043  d: Nature map advance, B on Center targeted at 15
+(16244) 14:16:11.043  d: Nature map state, A @ 112->110->110, B @ 112->110->110
+(16244) 14:16:14.049  d: Nature map advance, A on Bottom targeted at 15
+(16244) 14:16:14.049  d: Nature map state, A @ 103->100->100, B @ 52->50->50
+(11568) 14:16:15.041  m: RDP perfomance debug. dg_sent=733, dg_recv=733, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:16:15.041  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:16:15.041  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10535; [2, 5]: 4465; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:16:16.849  m: UDP socket perfomance debug. addr=34990, recv=733, recv_tm=99.99, deliver_tm=0.01, send=733, send_tm=0.09
+(16244) 14:16:18.438  m: Virtual Memory Usage: 1682 mb
+(16244) 14:16:35.945  d: Nature map advance, B on Center targeted at 20
+(16244) 14:16:35.945  d: Nature map state, A @ 112->110->110, B @ 158->160->160
+(16244) 14:16:36.844  d: Segment step: 8700 (0 commands)
+(16244) 14:16:37.246  d: Player [Name] has started voting
+(16244) 14:16:43.245  d: Nature map advance, B on Bottom targeted at 21
+(16244) 14:16:43.245  d: Nature map state, A @ 157->160->160, B @ 52->50->50
+(11568) 14:16:45.043  m: RDP perfomance debug. dg_sent=757, dg_recv=757, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:16:45.043  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:16:45.043  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10722; [2, 5]: 4278; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:16:46.848  m: UDP socket perfomance debug. addr=34990, recv=758, recv_tm=99.97, deliver_tm=0.01, send=758, send_tm=0.10
+(16244) 14:16:48.440  m: Virtual Memory Usage: 1683 mb
+(16244) 14:16:49.348  d: Command accept surrender
+(16244) 14:16:49.351  d: Faction 2 lost The Game
+(16244) 14:16:49.352  d: Title BestAssister awarded to playerId 0
+(16244) 14:16:49.352  d: Title BestKiller awarded to playerId 1
+(16244) 14:16:49.352  d: Title TopIdleTime awarded to playerId 2
+(16244) 14:16:49.352  d: Title Shinigami awarded to playerId 3
+(16244) 14:16:49.352  d: Title TopTowerKills awarded to playerId 4
+(16244) 14:16:49.352  d: Title TopCreepKills awarded to playerId 5
+(16244) 14:16:49.352  d: Title Ascetic awarded to playerId 6
+(16244) 14:16:49.352  d: Title BestAssister awarded to playerId 7
+(16244) 14:16:49.352  d: Title BestKiller awarded to playerId 8
+(16244) 14:16:49.352  d: Title TopCreepKills awarded to playerId 9
+(16244) 14:16:49.355  d: Final Scoring for team Neutral
+(16244) 14:16:49.357  d:    Destroyed Towers score: 0
+(16244) 14:16:49.358  d:    Boss Kill score: 0
+(16244) 14:16:49.360  d:    Loose score: 0
+(16244) 14:16:49.362  d:    Top Killers team score: 0
+(16244) 14:16:49.362  d:    Top Assisters team score: 0
+(16244) 14:16:49.364  d: Final Scoring for team Freeze
+(16244) 14:16:49.366  d:    Destroyed Towers score: 4
+(16244) 14:16:49.368  d:    Boss Kill score: 0
+(16244) 14:16:49.369  d:    Victory score: 30
+(16244) 14:16:49.388  d:    Top Killers team score: 0
+(16244) 14:16:49.389  d:    Top Assisters team score: 0
+(16244) 14:16:49.390  d: Final Scoring for team Burn
+(16244) 14:16:49.392  d:    Destroyed Towers score: 4
+(16244) 14:16:49.394  d:    Boss Kill score: 0
+(16244) 14:16:49.396  d:    Loose score: 0
+(16244) 14:16:49.397  d:    Top Killers team score: 0
+(16244) 14:16:49.398  d:    Top Assisters team score: 0
+(16244) 14:16:49.399  d: Hero userid 3613052 (playerid 0) has personal score: 38
+(16244) 14:16:49.400  d: Hero userid 5599879 (playerid 1) has personal score: 38
+(16244) 14:16:49.400  d: Hero userid 5599951 (playerid 3) has personal score: 38
+(16244) 14:16:49.400  d: Hero userid 315614 (playerid 4) has personal score: 35
+(16244) 14:16:49.400  d: Hero userid 4593014 (playerid 5) has personal score: 32
+(16244) 14:16:49.400  d: Hero userid 5580305 (playerid 2) has personal score: 32
+(16244) 14:16:49.400  d: Hero userid 5580512 (playerid 6) has personal score: 32
+(16244) 14:16:49.400  d: Hero userid 5580303 (playerid 7) has personal score: 32
+(16244) 14:16:49.400  d: Hero userid 278883 (playerid 8) has personal score: 35
+(16244) 14:16:49.400  d: Hero userid 2507256 (playerid 9) has personal score: 35
+(16244) 14:16:49.400  d: Hero userid 3613052 (playerid 0) got title score: 6
+(16244) 14:16:49.400  d: Hero userid 5599879 (playerid 1) got title score: 7
+(16244) 14:16:49.400  d: Hero userid 5599951 (playerid 3) got title score: 6
+(16244) 14:16:49.400  d: Hero userid 315614 (playerid 4) got title score: 6
+(16244) 14:16:49.400  d: Hero userid 4593014 (playerid 5) got title score: 6
+(16244) 14:16:49.400  d: Hero userid 5580305 (playerid 2) got title score: 2
+(16244) 14:16:49.400  d: Hero userid 5580512 (playerid 6) got title score: 2
+(16244) 14:16:49.400  d: Hero userid 5580303 (playerid 7) got title score: 6
+(16244) 14:16:49.400  d: Hero userid 278883 (playerid 8) got title score: 7
+(16244) 14:16:49.400  d: Hero userid 2507256 (playerid 9) got title score: 6
+(16244) 14:16:49.401  d: Players statistics:
+(16244) 14:16:49.401  d:   player 3613052 got 78 score, 0 special points, 16 level, 0 + 9 / 0 KD, 
+(16244) 14:16:49.401  d:   player 5599879 got 79 score, 0 special points, 18 level, 6 + 5 / 2 KD, 
+(16244) 14:16:49.401  d:   player 5580305 got 38 score, 0 special points, 16 level, 0 + 1 / 2 KD, 
+(16244) 14:16:49.401  d:   player 5599951 got 78 score, 0 special points, 21 level, 5 + 0 / 0 KD, 
+(16244) 14:16:49.401  d:   player 315614 got 75 score, 0 special points, 17 level, 1 + 3 / 1 KD, 
+(16244) 14:16:49.401  d:   player 4593014 got 72 score, 0 special points, 17 level, 0 + 2 / 1 KD, 
+(16244) 14:16:49.401  d:   player 5580512 got 38 score, 0 special points, 13 level, 1 + 2 / 3 KD, 
+(16244) 14:16:49.401  d:   player 5580303 got 42 score, 0 special points, 14 level, 0 + 3 / 3 KD, 
+(16244) 14:16:49.401  d:   player 278883 got 46 score, 0 special points, 17 level, 2 + 1 / 4 KD, 
+(16244) 14:16:49.401  d:   player 2507256 got 45 score, 0 special points, 18 level, 1 + 1 / 0 KD, 
+(16244) 14:16:49.744  d:  TRACE FROM FLASH newPlayerRating = 1505 
+(16244) 14:16:49.744  d:  TRACE FROM FLASH player.LeagueIndex = 0 
+(16244) 14:16:49.744  d:  TRACE FROM FLASH player.LeaguePlace = 0 
+(16244) 14:16:49.744  d:  TRACE FROM FLASH player.newLeaguePlace = 0 
+(16244) 14:16:49.744  d:  TRACE FROM FLASH player.leaguePlaces =  
+(16244) 14:16:49.745  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:49.745  d: recieved award (type=raiting count=16.000000)
+(16244) 14:16:49.745  d: recieved award (type=experience count=500.000000)
+(16244) 14:16:49.745  d: recieved award (type=custom currency id=CC_Pirate count=3.000000)
+(16244) 14:16:49.745  d: recieved award (type=talent count=1.000000 owned=true id=G261 giver = 0)
+(16244) 14:16:49.745  d: recieved award (type=talent count=1.000000 owned=true id=G234 giver = 0)
+(16244) 14:16:49.745  d: recieved award (type=talent count=1.000000 owned=true id=G030 giver = 0)
+(16244) 14:16:49.745  d: recieved award (type=Silver count=1800.000000 owned=true, isTasty b)
+(16244) 14:16:49.745  d: recieved award (type=Resource1 count=317.000000 owned=true, isTasty b)
+(16244) 14:16:49.745  d: recieved award (type=Resource2 count=310.000000 owned=true, isTasty b)
+(16244) 14:16:49.745  d: recieved award (type=Resource3 count=302.000000 owned=true, isTasty b)
+(16244) 14:16:49.745  d: recieved award (type=talent count=1.000000 owned=true id=G422 giver = 5599951)
+(16244) 14:16:49.745  d: recieved award (type=talent count=1.000000 owned=true id=G377 giver = 5599951)
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/Talents/_234.dds, count = 1.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/Talents/_030.dds, count = 1.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/Talents/_261.dds, count = 1.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/Talents/_422.dds, count = 1.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/Talents/_377.dds, count = 1.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/LobbyItems/Wood64.dds, count = 317.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/LobbyItems/Ore64.dds, count = 310.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/LobbyItems/Bread64.dds, count = 302.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/LobbyItems/Silver64.dds, count = 1800.000000
+(16244) 14:16:49.746  d: Call AddAward image = /UI/Styles/Icons/Talents/Pirat_icon64x64.dds, count = 3.000000
+(16244) 14:16:50.126  m: Frame time histo: {0; [0.0, 2.0]: 0; [2.0, 10.0]: 1; [10.0, 20.0]: 0; [20.0, 30.0]: 0; [30.0, 40.0]: 8; [40.0, 50.0]: 88; 490}
+(16244) 14:16:54.409  m: gamechat::Client::SendMsg(msg=???? ???? chnltype=2)
+(16244) 14:16:54.426  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=???? ????)
+(16244) 14:16:55.146  d: SharedD3DBufferST resized to 1051272 bytes
+
+(16244) 14:16:55.163  d: SharedD3DBufferST resized to 1058692 bytes
+
+(16244) 14:16:55.180  d: SharedD3DBufferST resized to 1079860 bytes
+
+(16244) 14:16:55.215  d: SharedD3DBufferST resized to 1080868 bytes
+
+(16244) 14:16:55.248  d: SharedD3DBufferST resized to 1086628 bytes
+
+(16244) 14:16:55.279  d: SharedD3DBufferST resized to 1098004 bytes
+
+(16244) 14:16:55.296  d: SharedD3DBufferST resized to 1103764 bytes
+
+(16244) 14:16:55.312  d: SharedD3DBufferST resized to 1117156 bytes
+
+(16244) 14:16:56.842  m: gamechat::Client::SendMsg(msg=?????? ?? ???? chnltype=2)
+(16244) 14:16:56.858  m: gamechat::Client::OnNewMessage(sid=283452 chnlname=Session nickname=[minus]???? ??????????? msg=?????? ?? ????)
+(16244) 14:16:58.443  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.443  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.443  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.443  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.443  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.444  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.444  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.444  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.444  d:  TRACE FROM FLASH SetHero 
+(16244) 14:16:58.444  d:  TRACE FROM FLASH SetHero 
+(11568) 14:17:15.043  m: RDP perfomance debug. dg_sent=134, dg_recv=134, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:17:15.043  m: RDP perfomance debug. polls={0; [0, 1]: 15001; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:17:15.043  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 10107; [2, 5]: 4894; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:17:17.367  m: UDP socket perfomance debug. addr=34990, recv=175, recv_tm=100.96, deliver_tm=0.00, send=88, send_tm=0.01
+(16244) 14:17:18.441  m: Virtual Memory Usage: 1683 mb
+(16244) 14:17:19.262  m: choose_party_again:
+post_data={"agreed":0,"allies_keys":[3613052,5599879,5599951,315614,4593014],"lock_end_time":1}
+
+(16244) 14:17:19.263  d: Stopping thread. tid=9424, from_tid=16244, ptr=711b6a88
+(16244) 14:17:19.263  d: Thread stopped. tid=9424, ptr=711b6a88
+(16244) 14:17:24.745  m: Game server forcibly disconnects, code 4
+(16244) 14:17:35.063  d: SharedD3DBufferST resized to 1152868 bytes
+
+(16244) 14:17:35.082  d: SharedD3DBufferST resized to 1169716 bytes
+
+(16244) 14:17:35.099  d: SharedD3DBufferST resized to 1193188 bytes
+
+(16244) 14:17:35.116  d: SharedD3DBufferST resized to 1214068 bytes
+
+(16244) 14:17:35.134  d: SharedD3DBufferST resized to 1233220 bytes
+
+(16244) 14:17:35.153  d: SharedD3DBufferST resized to 1241284 bytes
+
+(16244) 14:17:35.170  d: SharedD3DBufferST resized to 1264036 bytes
+
+(16244) 14:17:35.207  d: SharedD3DBufferST resized to 1280596 bytes
+
+(16244) 14:17:35.228  d: SharedD3DBufferST resized to 1280884 bytes
+
+(16244) 14:17:35.245  d: SharedD3DBufferST resized to 1297444 bytes
+
+(16244) 14:17:35.265  d: SharedD3DBufferST resized to 1312852 bytes
+
+(16244) 14:17:35.283  d: SharedD3DBufferST resized to 1329556 bytes
+
+(16244) 14:17:35.304  d: SharedD3DBufferST resized to 1343812 bytes
+
+(16244) 14:17:35.321  d: SharedD3DBufferST resized to 1346404 bytes
+
+(16244) 14:17:35.338  d: SharedD3DBufferST resized to 1348420 bytes
+
+(16244) 14:17:35.356  d: SharedD3DBufferST resized to 1348564 bytes
+
+(16244) 14:17:35.372  d: SharedD3DBufferST resized to 1350724 bytes
+
+(11568) 14:17:45.044  m: RDP perfomance debug. dg_sent=20, dg_recv=20, warn=0, err=0, retr=0, loss=0.0
+(11568) 14:17:45.044  m: RDP perfomance debug. polls={0; [0, 1]: 15000; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(11568) 14:17:45.044  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 9968; [2, 5]: 5032; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(8020) 14:17:47.377  m: UDP socket perfomance debug. addr=34990, recv=113, recv_tm=100.00, deliver_tm=0.00, send=20, send_tm=0.00
+(16244) 14:17:48.458  m: Virtual Memory Usage: 1689 mb
+(16244) 14:17:58.763  m: Chat client iface CLOSED
+(16244) 14:17:58.763  d: [ResourceCollection] destroyed
+(16244) 14:17:58.783  d: Stopping thread. tid=11284, from_tid=16244, ptr=0a74bdc0
+(16244) 14:17:58.834  d: Thread stopped. tid=11284, ptr=0a74bdc0
+(16244) 14:17:58.834  m: Closing connection. descr=(92.242.35.3:35006 49394:10), reason=local
+(16244) 14:17:58.834  d: Stopping thread. tid=14188, from_tid=16244, ptr=0a778338
+(16244) 14:17:58.836  d: Thread stopped. tid=14188, ptr=0a778338
+(16244) 14:17:58.836  d: StreamAllocator: allocated 0, createdNew 0, maxPoolSize 0
+(16244) 14:17:58.836  m: Closing connection. descr=(92.242.35.3:35010 59980:100), reason=local
+(16244) 14:17:58.836  m: Closing connection. descr=(92.242.35.4:35010 35864:100), reason=local
+(16244) 14:17:58.836  m: Closing connection. descr=(92.242.35.2:35010 34288:100), reason=local
+(16244) 14:17:58.836  m: Stopping RDP thread. thread_id=11568
+(16244) 14:17:58.836  d: Stopping thread. tid=11568, from_tid=16244, ptr=0a777cb8
+(16244) 14:17:58.838  d: Thread stopped. tid=11568, ptr=0a777cb8
+(16244) 14:17:58.838  d: Stopping thread (async). tid=8020, from_tid=16244, ptr=0a777a48
+(16244) 14:17:58.840  d: Stopping thread. tid=8020, from_tid=16244, ptr=0a777a48
+(16244) 14:17:58.840  d: Thread stopped. tid=8020, ptr=0a777a48
+(12656) 14:17:58.987  d: P: finish
+(16244) 14:17:59.000  d: ~DumyFemaleMaleAssistEffectFlashConnection()
+(16244) 14:17:59.005  d: ~DumyFemaleMaleAssistEffectFlashConnection()
+(16244) 14:17:59.461  d: Stopping thread. tid=16932, from_tid=16244, ptr=0af34420
+(16932) 14:17:59.479  m: New statistics data chunk. size=888, msg_num=11, lifetime=291.6
+(16932) 14:17:59.480  m: Statistics data chunk written. size=888, fname=C:\Users\Terem\Documents\My Games\Prime World\statdata\5bba159700000000ef5692ff.sta
+(16244) 14:17:59.480  d: Thread stopped. tid=16932, ptr=0af34420
+(16244) 14:17:59.480  m: Shutting CURLlib down...
+(16244) 14:17:59.802  d: Start HwInput::~HwInput
+(16244) 14:17:59.802  d: ComPtr: Free 163785c DEC
+(16244) 14:17:59.802  d: ComPtr: Free 1637a9c DEC
+(16244) 14:17:59.802  d: ComPtr: Free 1632b54 DEC
+(16244) 14:17:59.802  d: Start HwInput::~HwInput OK
+(16244) 14:18:00.107  d: NotifyDeviceLost
+(16244) 14:18:00.107  d: NotifyDeviceDelete
+(16244) 14:18:00.107  d: releasing renderer...
+now we are NOT able to render  :)
+

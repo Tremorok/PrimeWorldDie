@@ -1,0 +1,241 @@
+Local time: +3:00 UTC
+ProcessId: 6964
+(13976) 20:21:37.894  d: System runned under native Windows
+(13976) 20:21:37.894  m: Starting in tutorial mode
+(13976) 20:21:37.895  m: Executing "default.cfg"
+(13976) 20:21:37.895  m: setvar app_always_active = "0"
+(13976) 20:21:37.896  m: setvar bloomEnable = "1"
+(13976) 20:21:37.896  m: setvar gfx_fullscreen = "1"
+(13976) 20:21:37.896  m: setvar gfx_refreshrate = "0"
+(13976) 20:21:37.897  d: Could not parse screen resolution settings, using defaults
+(13976) 20:21:37.897  m: setvar gfx_resolution = "1920x1080"
+(13976) 20:21:37.897  m: setvar gfx_vsync = "1"
+(13976) 20:21:37.898  m: setvar grass_fade_distance = "100"
+(13976) 20:21:37.898  m: setvar language = "ru-RU"
+(13976) 20:21:37.898  m: setvar pfx_enable = "1"
+(13976) 20:21:37.898  m: setvar pfx_sharp_enable = "1"
+(13976) 20:21:37.898  m: setvar shadows = "1"
+(13976) 20:21:37.898  m: setvar shadow_terrain = "1"
+(13976) 20:21:37.898  m: setvar shadowPCF4_enable = "1"
+(13976) 20:21:37.899  m: setvar waterrefl = "1"
+(13976) 20:21:37.911  m: Executing "user.cfg"
+(13976) 20:21:37.911  m: setvar app_always_active = "0"
+(13976) 20:21:37.911  m: setvar bloomEnable = "1"
+(13976) 20:21:37.911  m: setvar camera_link_to_hero = "-1"
+(13976) 20:21:37.911  E: setvar error: camera_pitch value '-0' cannot be verified
+(13976) 20:21:37.911  E: setvar error: camera_rod value '0' cannot be verified
+(13976) 20:21:37.911  m: setvar casual_control_style = "1"
+(13976) 20:21:37.911  m: setvar common_graphics_quality = "1"
+(13976) 20:21:37.911  m: setvar common_volume = "1"
+(13976) 20:21:37.911  m: setvar console_limit = "100"
+(13976) 20:21:37.911  m: setvar console_opacity = "0.4"
+(13976) 20:21:37.911  m: setvar console_peep = "0"
+(13976) 20:21:37.911  m: setvar console_size = "0.5"
+(13976) 20:21:37.911  m: setvar console_sweep_time = "0.25"
+(13976) 20:21:37.911  m: setvar current_pet = "-1"
+(13976) 20:21:37.911  m: setvar enableRESZ = "0"
+(13976) 20:21:37.911  m: setvar enable_cursor_clip = "1"
+(13976) 20:21:37.911  m: setvar enable_replay = "1"
+(13976) 20:21:37.911  m: setvar gfx_fullscreen = "1"
+(13976) 20:21:37.911  m: setvar gfx_refreshrate = "0"
+(13976) 20:21:37.911  m: setvar gfx_resolution = "1920x1080"
+(13976) 20:21:37.911  m: setvar gfx_scale3D = "1"
+(13976) 20:21:37.911  m: setvar gfx_skip_mip_levels = "0"
+(13976) 20:21:37.911  m: setvar gfx_vsync = "1"
+(13976) 20:21:37.911  m: setvar grass_fade_distance = "100"
+(13976) 20:21:37.911  m: setvar grass_fade_length = "100"
+(13976) 20:21:37.911  m: setvar last_map = ""
+(13976) 20:21:37.911  m: setvar lock_actionbar = "0"
+(13976) 20:21:37.912  m: setvar lock_camera = "0"
+(13976) 20:21:37.912  m: setvar minimap_rotate = "0"
+(13976) 20:21:37.912  m: setvar music_volume = "0"
+(13976) 20:21:37.912  m: setvar pfx_enable = "1"
+(13976) 20:21:37.912  m: setvar pfx_read_enable = "1"
+(13976) 20:21:37.912  m: setvar pfx_sharp_enable = "1"
+(13976) 20:21:37.912  m: setvar register_replay_extention = "1"
+(13976) 20:21:37.912  m: setvar rndr_disableTriLinear = "0"
+(13976) 20:21:37.912  m: setvar screenshot_ext = "jpg"
+(13976) 20:21:37.912  m: setvar session_camera = ""
+(13976) 20:21:37.912  m: setvar session_chat_off = "0"
+(13976) 20:21:37.912  m: setvar shadowMapScale = "0.625"
+(13976) 20:21:37.912  m: setvar shadowPCF4_enable = "1"
+(13976) 20:21:37.912  m: setvar shadowTest = "1"
+(13976) 20:21:37.912  m: setvar shadow_terrain = "1"
+(13976) 20:21:37.912  m: setvar shadows = "1"
+(13976) 20:21:37.912  m: setvar sound_background_enable = "0"
+(13976) 20:21:37.912  m: setvar sound_volume = "0.111111"
+(13976) 20:21:37.912  m: setvar use_badwords_filter = "0"
+(13976) 20:21:37.912  m: setvar voice_volume = "0"
+(13976) 20:21:37.912  m: setvar waterReflCoeff = "0.5"
+(13976) 20:21:37.912  m: setvar waterrefl = "1"
+(13976) 20:21:37.912  m: setvar window_pos_x = "963"
+(13976) 20:21:37.912  m: setvar window_pos_y = "565"
+(13976) 20:21:37.913  m: Executing "lang.cfg"
+(13976) 20:21:37.913  m: setvar language = "ru-RU"
+(13976) 20:21:37.914  m: Executing "social.cfg"
+(13976) 20:21:37.914  m: setvar social_login_address = "http://ru.pwcastle.nivalnetwork.com:88/"
+(13976) 20:21:38.027  d: Stopping thread. tid=12396, from_tid=13976, ptr=04c2b448
+(13976) 20:21:38.027  d: Thread stopped. tid=12396, ptr=04c2b448
+(13976) 20:21:38.155  d: Stopping thread. tid=14764, from_tid=13976, ptr=04c2b5a8
+(13976) 20:21:38.155  d: Thread stopped. tid=14764, ptr=04c2b5a8
+(13976) 20:21:39.710  d: Stopping thread. tid=15156, from_tid=13976, ptr=04c514f8
+(13976) 20:21:39.710  d: Thread stopped. tid=15156, ptr=04c514f8
+(13976) 20:21:40.816  d: Stopping thread. tid=16400, from_tid=13976, ptr=04c51540
+(13976) 20:21:40.816  d: Thread stopped. tid=16400, ptr=04c51540
+(13976) 20:21:41.947  d: Stopping thread. tid=11404, from_tid=13976, ptr=04c59078
+(13976) 20:21:41.947  d: Thread stopped. tid=11404, ptr=04c59078
+(13976) 20:21:43.080  d: Stopping thread. tid=18008, from_tid=13976, ptr=04c671a0
+(13976) 20:21:43.080  d: Thread stopped. tid=18008, ptr=04c671a0
+(13976) 20:21:44.207  d: Stopping thread. tid=19956, from_tid=13976, ptr=04c72680
+(13976) 20:21:44.207  d: Thread stopped. tid=19956, ptr=04c72680
+(13976) 20:21:44.207  d: Stopping thread (async). tid=11044, from_tid=13976, ptr=04c2b138
+(13976) 20:21:44.252  d: Stopping thread. tid=11044, from_tid=13976, ptr=04c2b138
+(13976) 20:21:44.252  d: Thread stopped. tid=11044, ptr=04c2b138
+(13976) 20:21:44.252  d: Fullscreen: 1
+(13976) 20:21:44.258  d: ComPtr: GetAddr
+(13976) 20:21:44.297  d: ComPtr: GetAddr
+(13976) 20:21:44.358  d: ComPtr: Assign 16111cc INC
+(13976) 20:21:44.361  d: ComPtr: Assign 16111cc INC
+(13976) 20:21:44.361  d: ComPtr: Free 16111cc DEC
+(13976) 20:21:44.361  d: ComPtr: Free 16111cc DEC
+(13976) 20:21:44.361  d: ComPtr: GetAddr
+(13976) 20:21:44.361  d: ComPtr: Assign 1614d7c INC
+(13976) 20:21:44.364  d: ComPtr: Assign 16111cc INC
+(13976) 20:21:44.364  d: ComPtr: Assign 1614d7c INC
+(13976) 20:21:44.364  d: ComPtr: Free 16111cc DEC
+(13976) 20:21:44.364  d: ComPtr: Free 1614d7c DEC
+(13976) 20:21:44.364  d: ComPtr: Free 1614d7c DEC
+(13976) 20:21:44.398  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\data06.pile' found
+(13976) 20:21:44.442  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\data05.pile' found
+(13976) 20:21:44.460  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\data04.pile' found
+(13976) 20:21:44.479  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\data03.pile' found
+(13976) 20:21:44.519  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\data02.pile' found
+(13976) 20:21:44.557  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\data01.pile' found
+(13976) 20:21:44.618  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Packs\_data.pile' found
+(13976) 20:21:44.625  d: Pile file 'D:\Games\Prime World Ч копи€ (2)\PvP\Data\Localization\ru-RU\localisation_files.pile' found
+(13976) 20:21:44.954  m: Executing "game.cfg"
+(13976) 20:21:44.954  m: setvar stat_client_url = "http://gs.playpw.com/gstat0/"
+(13976) 20:21:44.954  m: Value 'use_smooth_turns' is not registered
+(13976) 20:21:44.954  m: setvar use_smooth_turns = "1"
+(13976) 20:21:44.954  m: setvar rdp_log_events = "3079"
+(13976) 20:21:44.964  m: Executing "input.cfg"
+(13976) 20:21:44.966  m: Unknown command or variable "pw"
+(13976) 20:21:44.966  m: Type 'help' to list available commands
+(13976) 20:21:45.003  m: Executing "input.cfg"
+(13976) 20:21:45.055  m: Executing "smart_chat.cfg"
+(13976) 20:21:46.654  m: UDP transport login address: 213.196.39.251:35002@10
+(13976) 20:21:46.655  d: Previous SO_SNDBUF=65536
+(13976) 20:21:46.655  d: New SO_SNDBUF=65536
+(13976) 20:21:46.655  d: Previous SO_RCVBUF=65536
+(13976) 20:21:46.655  d: New SO_RCVBUF=65536
+(13976) 20:21:46.655  m: Socket opened. addr=34990, sock=1344
+(13976) 20:21:46.655  m: Starting outgoing connection. local=34990, remote=213.196.39.251:35002, mux=10
+(13976) 20:21:46.656  m: Cannot read configuration file "D:\Games\Prime World Ч копи€ (2)\PvP\Profiles\autoexec.cfg"
+(15768) 20:21:46.657  m: Sending INIT. descr=(213.196.39.251:35002 47999:10), seq=26989
+(8064) 20:21:46.707  m: UDP socket perfomance debug. addr=34990, recv=1, recv_tm=0.13, deliver_tm=0.00, send=1, send_tm=0.00
+(15768) 20:21:46.709  m: ACK sent. descr=(213.196.39.251:35002 47999:10), seq=26989, stage=Active_WaitingInitAck
+(15768) 20:21:46.709  m: Active connection handshake completed. descr=(213.196.39.251:35002 47999:10), seq=26989
+(15768) 20:21:46.777  m: LoginClient: Got login reply. code=Success(5), uid=5424540, welcome=eu0/lobby/1
+(13976) 20:21:47.771  d: OnDeviceChanged
+(13976) 20:21:47.773  d: NotifyDeviceCreate
+(13976) 20:21:48.016  d: DepthFormat: INTZ
+(13976) 20:21:48.033  m: setvar mipmaplodbias = "0"
+(13976) 20:21:48.899  d: FMOD Init OK
+(18316) 20:21:48.939  m: Recieving permitted event data
+(18316) 20:21:48.939  m: Initializing CURLlib...
+(18316) 20:21:48.939  m: Performing HTTP GET: url_len=28, url='http://gs.playpw.com/gstat0/'
+(18316) 20:21:49.107  d: HTTP GET performed
+(18316) 20:21:49.107  m: Recieved permitted event data. size=52
+(18316) 20:21:49.107  m: Got permitted events data. size=52
+(18316) 20:21:49.107  m: Got permitted events. methods=5, sessionEvents=6
+(13976) 20:21:49.264  d: Movie::SetViewport (w,h) = (1281, 1025)
+(13976) 20:21:49.766  d: Failed to open file  with error 3.
+(13976) 20:21:49.766  d: Cannot load ttf font: DejaVu LGC Sans
+(13976) 20:21:49.838  d: Failed to open file  with error 3.
+(13976) 20:21:49.838  d: Cannot load ttf font: _sans
+(13976) 20:21:49.863  d: Window FlashScreen got focus
+(13976) 20:21:49.863  d: Movie::SetViewport (w,h) = (1281, 1025)
+(13976) 20:21:49.865  d: Movie::SetViewport (w,h) = (1821, 1025)
+(13976) 20:21:49.869  d: Pref value too low. Please, check config variable 'prefs_common_graphics_quality'
+(13976) 20:21:49.869  d: Pref value too low. Please, check config variable 'prefs_common_graphics_quality'
+(13976) 20:21:50.084  d: Movie::SetViewport (w,h) = (1821, 1025)
+(13976) 20:21:50.121  m: Virtual Memory Usage: 257 mb
+(13976) 20:21:50.257  d: Collected 0 persistent events
+(13976) 20:21:50.257  m: Connecting to lobby server...
+(13976) 20:21:50.257  m: Lobby service path: 'eu0/lobby/1'
+(13976) 20:21:50.257  m: Lobby service node id: 'lobby/1'
+(13976) 20:21:50.276  m: LoginClient: Creating outgoing service channel. svcid=lobby/1, req_id=1
+(13976) 20:21:50.277  d: GateKeeper: Generated pipeid(s= t=lobby/1 c=5424540 p=lobby/1)
+(13976) 20:21:50.277  m: GateKeeper: Pipe created for service. name=lobby/1
+(13976) 20:21:50.277  m: Node requested successfully(svcid=lobby/1)
+(13976) 20:21:50.277  m: Query rpc interface(svcid=lobby/1 iface=lobby:entrance)
+(15768) 20:21:50.344  m: LoginClient: Got svc reqest reply. svcid=lobby/1, req_id=1, code=0, addr=213.196.39.251:35011@100
+(15768) 20:21:50.344  m: ClientChannel: Connection details arrived. code=Ok(0), svcid=lobby/1, req_id=1, addr=213.196.39.251:35011@100
+(15768) 20:21:50.344  m: ClientChannel: Connecting to sevice. svcid=lobby/1, addr=213.196.39.251:35011, mux=100, req_id=1
+(15768) 20:21:50.344  m: Starting outgoing connection. local=34990, remote=213.196.39.251:35011, mux=100
+(15768) 20:21:50.344  m: Sending INIT. descr=(213.196.39.251:35011 56240:100), seq=11016
+(15768) 20:21:50.394  m: ACK sent. descr=(213.196.39.251:35011 56240:100), seq=11016, stage=Active_WaitingInitAck
+(15768) 20:21:50.394  m: Active connection handshake completed. descr=(213.196.39.251:35011 56240:100), seq=11016
+(15768) 20:21:50.394  m: ClientChannel: Connection established. svcid=lobby/1, req_id=1
+(15768) 20:21:50.394  m: RdpChannel: Channel connection established. src=, tgt=lobby/1, uid=5424540, remote=0.0.0.0:0
+(15768) 20:21:50.442  m: ClientChannel: Got service ack. svcid=lobby/1, req_id=1, code=Ok(0), state=2
+(15768) 20:21:50.442  m: RdpChannel: Delayed active channel established. src=, tgt=lobby/1, uid=5424540, remote=0.0.0.0:0
+(13976) 20:21:50.514  m: Iface received. svcid=lobby/1, iface=lobby:entrance
+(13976) 20:21:50.514  m: Entered lobby, requesting instance...
+(13976) 20:21:50.564  m: Got lobby instance
+(13976) 20:21:51.398  m: Joining social game...
+(13976) 20:21:51.463  m: Starting game session. map='Maps/Multiplayer/MOBA/Tutorial/_.ADMPDSCR.xdb', players=1, gameid=5bbd92db000139c6, custom=false, gs_svcid=gamesvc/3, gs_instid=gsi0000030693b31142
+(13976) 20:21:51.463  m:   Player info. uid=5424540, sex=1, nick=, type=1, team=0, hero=firefox, bot_skin=
+(13976) 20:21:51.463  m: Connecting to game server. svcid=gamesvc/3, instid=gsi0000030693b31142
+(13976) 20:21:51.463  m: Got lobby operation result: Ok(0)
+(13976) 20:21:51.463  m: LoginClient: Creating outgoing service channel. svcid=gamesvc/3, req_id=2
+(13976) 20:21:51.463  d: GateKeeper: Generated pipeid(s= t=gamesvc/3 c=5424540 p=gamesvc/3)
+(13976) 20:21:51.463  m: GateKeeper: Pipe created for service. name=gamesvc/3
+(13976) 20:21:51.463  m: Node requested successfully(svcid=gamesvc/3)
+(13976) 20:21:51.463  m: Query rpc interface(svcid=gamesvc/3 iface=gsi0000030693b31142)
+(15768) 20:21:51.527  m: LoginClient: Got svc reqest reply. svcid=gamesvc/3, req_id=2, code=0, addr=213.196.39.251:35015@100
+(15768) 20:21:51.527  m: ClientChannel: Connection details arrived. code=Ok(0), svcid=gamesvc/3, req_id=2, addr=213.196.39.251:35015@100
+(15768) 20:21:51.527  m: ClientChannel: Connecting to sevice. svcid=gamesvc/3, addr=213.196.39.251:35015, mux=100, req_id=2
+(15768) 20:21:51.527  m: Starting outgoing connection. local=34990, remote=213.196.39.251:35015, mux=100
+(15768) 20:21:51.527  m: Sending INIT. descr=(213.196.39.251:35015 52911:100), seq=28839
+(15768) 20:21:51.581  m: ACK sent. descr=(213.196.39.251:35015 52911:100), seq=28839, stage=Active_WaitingInitAck
+(15768) 20:21:51.581  m: Active connection handshake completed. descr=(213.196.39.251:35015 52911:100), seq=28839
+(15768) 20:21:51.581  m: ClientChannel: Connection established. svcid=gamesvc/3, req_id=2
+(15768) 20:21:51.581  m: RdpChannel: Channel connection established. src=, tgt=gamesvc/3, uid=5424540, remote=0.0.0.0:0
+(15768) 20:21:51.633  m: ClientChannel: Got service ack. svcid=gamesvc/3, req_id=2, code=Ok(0), state=2
+(15768) 20:21:51.633  m: RdpChannel: Delayed active channel established. src=, tgt=gamesvc/3, uid=5424540, remote=0.0.0.0:0
+(13976) 20:21:51.696  m: Iface received. svcid=gamesvc/3, iface=gsi0000030693b31142
+(13976) 20:21:51.696  m: Connected to game service
+(13976) 20:21:51.696  m: Adding client to game server...
+(13976) 20:21:51.696  d: Client 5424540 : GameClient created
+(13976) 20:21:51.696  d: [ResourceCollection] collect talents
+(13976) 20:21:53.030  d: [ResourceCollection] collect consumables
+(13976) 20:21:53.077  d: [ResourceCollection] collect marketingItems
+(13976) 20:21:53.521  d: Loaded info for map 'Maps/Multiplayer/MOBA/_.ADMP.xdb', max players per team: 5 / 5
+(13976) 20:21:53.611  m: ServerNode: Starting game (sid=5bbd92db000139c6)
+(13976) 20:21:53.611  m: gameclient: Player info. uid=5424540, castle_lvl=1, hero_lvl=1, prating=1100.00, hrating=1100.00, party_id=0
+(13976) 20:21:53.611  d: Starting game for 1 players on map 'Maps/Multiplayer/MOBA/Tutorial/_.ADMPDSCR.xdb' (client)...
+(13976) 20:21:53.804  d:  AddUser: 637171033 firefox
+(13976) 20:21:53.840  d:  AddUser: 3847232485 snowqueen
+(13976) 20:21:53.864  d:  AddUser: 3144650918 rockman
+(13976) 20:21:53.877  d:  AddUser: 1617033593 healer
+(13976) 20:21:53.888  d:  AddUser: 242966457 archeress
+(13976) 20:21:53.911  d:  AddUser: 1591502017 witcher
+(13976) 20:21:53.929  d:  AddUser: 1160508680 mowgly
+(13976) 20:21:53.947  d:  AddUser: 1523535311 highlander
+(13976) 20:21:53.956  d:  AddUser: 2930311094 bard
+(13976) 20:21:53.976  d:  AddUser: 2444502040 warlord
+(13976) 20:21:59.340  d: MemoryPool: megapool; allocated size: 20971520; payload: 20889600
+(13976) 20:21:59.341  d: MemoryPool: megapool; new allocated size: 31457280
+(13976) 20:22:02.521  d: MemoryPool: megapool; allocated size: 31457280; payload: 31252992
+(13976) 20:22:02.522  d: MemoryPool: megapool; new allocated size: 41943040
+(13976) 20:22:06.350  d: MemoryPool: megapool; allocated size: 41943040; payload: 41936384
+(13976) 20:22:06.350  d: MemoryPool: megapool; new allocated size: 52428800
+(15768) 20:22:07.582  m: RDP perfomance debug. dg_sent=44, dg_recv=41, warn=0, err=0, retr=0, loss=0.0
+(15768) 20:22:07.582  m: RDP perfomance debug. polls={0; [0, 1]: 10462; [1, 2]: 0; [2, 5]: 0; [5, 10]: 0; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(15768) 20:22:07.582  m: RDP perfomance debug. sleep={0; [0, 1]: 0; [1, 2]: 7095; [2, 5]: 3367; [5, 10]: 1; [10, 20]: 0; [20, 50]: 0; [50, 100]: 0; [100, 200]: 0; [200, 500]: 0; 0}
+(13976) 20:22:15.922  d: MemoryPool: megapool; allocated size: 52428800; payload: 52427776
+(13976) 20:22:15.923  d: MemoryPool: megapool; new allocated size: 62914560
+(8064) 20:22:17.031  m: UDP socket perfomance debug. addr=34990, recv=135, recv_tm=100.83, deliver_tm=0.00, send=43, send_tm=0.00
+(13976) 20:22:20.067  d: MemoryPool: megapool; allocated size: 62914560; payload: 62872064
+(13976) 20:22:20.067  d: MemoryPool: megapool; new allocated size: 73400320

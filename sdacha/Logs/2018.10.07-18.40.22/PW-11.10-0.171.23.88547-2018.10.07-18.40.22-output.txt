@@ -1,0 +1,2561 @@
+Local time: +3:00 UTC
+ProcessId: 12428
+(17996) 18:40:22.797  d: SteamAPI_Init() failed
+
+(17996) 18:40:22.823  d: System runned under native Windows
+(17996) 18:40:22.823  m: Starting in replay mode
+(17996) 18:40:22.823  m: Executing "default.cfg"
+(17996) 18:40:22.823  m: setvar app_always_active = "0"
+(17996) 18:40:22.823  m: setvar bloomEnable = "1"
+(17996) 18:40:22.823  m: setvar gfx_fullscreen = "1"
+(17996) 18:40:22.823  m: setvar gfx_refreshrate = "0"
+(17996) 18:40:22.823  d: Could not parse screen resolution settings, using defaults
+(17996) 18:40:22.825  m: setvar gfx_resolution = "1920x1080"
+(17996) 18:40:22.825  m: setvar gfx_vsync = "1"
+(17996) 18:40:22.825  m: setvar grass_fade_distance = "100"
+(17996) 18:40:22.825  m: setvar language = "ru-RU"
+(17996) 18:40:22.825  m: setvar pfx_enable = "1"
+(17996) 18:40:22.825  m: setvar pfx_sharp_enable = "1"
+(17996) 18:40:22.825  m: setvar shadows = "1"
+(17996) 18:40:22.825  m: setvar shadow_terrain = "1"
+(17996) 18:40:22.825  m: setvar shadowPCF4_enable = "1"
+(17996) 18:40:22.825  m: setvar waterrefl = "1"
+(17996) 18:40:22.826  m: Executing "user.cfg"
+(17996) 18:40:22.826  m: setvar app_always_active = "0"
+(17996) 18:40:22.826  m: setvar bloomEnable = "1"
+(17996) 18:40:22.826  m: setvar camera_link_to_hero = "-1"
+(17996) 18:40:22.826  m: setvar camera_pitch = "57.7328"
+(17996) 18:40:22.826  m: setvar camera_rod = "67.2875"
+(17996) 18:40:22.826  m: setvar casual_control_style = "1"
+(17996) 18:40:22.826  m: setvar common_graphics_quality = "1"
+(17996) 18:40:22.826  m: setvar common_volume = "1"
+(17996) 18:40:22.826  m: setvar console_limit = "100"
+(17996) 18:40:22.826  m: setvar console_opacity = "0.4"
+(17996) 18:40:22.826  m: setvar console_peep = "0"
+(17996) 18:40:22.826  m: setvar console_size = "0.5"
+(17996) 18:40:22.826  m: setvar console_sweep_time = "0.25"
+(17996) 18:40:22.826  m: setvar current_pet = "-1"
+(17996) 18:40:22.826  m: setvar enableRESZ = "0"
+(17996) 18:40:22.826  m: setvar enable_cursor_clip = "1"
+(17996) 18:40:22.826  m: setvar enable_replay = "1"
+(17996) 18:40:22.826  m: setvar gfx_fullscreen = "1"
+(17996) 18:40:22.826  m: setvar gfx_refreshrate = "0"
+(17996) 18:40:22.826  m: setvar gfx_resolution = "1920x1080"
+(17996) 18:40:22.826  m: setvar gfx_scale3D = "1"
+(17996) 18:40:22.826  m: setvar gfx_skip_mip_levels = "0"
+(17996) 18:40:22.826  m: setvar gfx_vsync = "1"
+(17996) 18:40:22.826  m: setvar grass_fade_distance = "100"
+(17996) 18:40:22.826  m: setvar grass_fade_length = "100"
+(17996) 18:40:22.826  m: setvar last_map = ""
+(17996) 18:40:22.826  m: setvar lock_actionbar = "0"
+(17996) 18:40:22.826  m: setvar lock_camera = "0"
+(17996) 18:40:22.826  m: setvar minimap_rotate = "0"
+(17996) 18:40:22.826  m: setvar music_volume = "0"
+(17996) 18:40:22.826  m: setvar pfx_enable = "1"
+(17996) 18:40:22.827  m: setvar pfx_read_enable = "1"
+(17996) 18:40:22.827  m: setvar pfx_sharp_enable = "1"
+(17996) 18:40:22.827  m: setvar register_replay_extention = "1"
+(17996) 18:40:22.827  m: setvar rndr_disableTriLinear = "0"
+(17996) 18:40:22.827  m: setvar screenshot_ext = "jpg"
+(17996) 18:40:22.827  m: setvar session_camera = ""
+(17996) 18:40:22.827  m: setvar session_chat_off = "0"
+(17996) 18:40:22.827  m: setvar shadowMapScale = "0.625"
+(17996) 18:40:22.827  m: setvar shadowPCF4_enable = "1"
+(17996) 18:40:22.827  m: setvar shadowTest = "1"
+(17996) 18:40:22.827  m: setvar shadow_terrain = "1"
+(17996) 18:40:22.827  m: setvar shadows = "1"
+(17996) 18:40:22.827  m: setvar sound_background_enable = "0"
+(17996) 18:40:22.827  m: setvar sound_volume = "0.121212"
+(17996) 18:40:22.827  m: setvar use_badwords_filter = "0"
+(17996) 18:40:22.827  m: setvar voice_volume = "0"
+(17996) 18:40:22.827  m: setvar waterReflCoeff = "0.5"
+(17996) 18:40:22.827  m: setvar waterrefl = "1"
+(17996) 18:40:22.827  m: setvar window_pos_x = "963"
+(17996) 18:40:22.827  m: setvar window_pos_y = "565"
+(17996) 18:40:22.827  m: Executing "lang.cfg"
+(17996) 18:40:22.827  m: setvar language = "ru-RU"
+(17996) 18:40:22.827  m: Executing "social.cfg"
+(17996) 18:40:22.827  m: setvar social_login_address = "http://ru.pwcastle.nivalnetwork.com:88/"
+(17996) 18:40:22.827  d: Fullscreen: 1
+(17996) 18:40:22.886  d: ComPtr: GetAddr
+(17996) 18:40:22.896  d: ComPtr: GetAddr
+(17996) 18:40:22.896  d: ComPtr: Assign 14ef6d4 INC
+(17996) 18:40:22.896  d: ComPtr: Assign 14ef6d4 INC
+(17996) 18:40:22.896  d: ComPtr: Free 14ef6d4 DEC
+(17996) 18:40:22.896  d: ComPtr: Free 14ef6d4 DEC
+(17996) 18:40:22.896  d: ComPtr: GetAddr
+(17996) 18:40:22.900  d: ComPtr: Assign 14f975c INC
+(17996) 18:40:22.900  d: ComPtr: Assign 14ef6d4 INC
+(17996) 18:40:22.900  d: ComPtr: Assign 14f975c INC
+(17996) 18:40:22.900  d: ComPtr: Free 14ef6d4 DEC
+(17996) 18:40:22.900  d: ComPtr: Free 14f975c DEC
+(17996) 18:40:22.901  d: ComPtr: Free 14f975c DEC
+(17996) 18:40:22.938  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data06.pile' found
+(17996) 18:40:22.945  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data05.pile' found
+(17996) 18:40:22.947  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data04.pile' found
+(17996) 18:40:22.951  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data03.pile' found
+(17996) 18:40:22.954  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data02.pile' found
+(17996) 18:40:22.959  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\data01.pile' found
+(17996) 18:40:22.977  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Packs\_data.pile' found
+(17996) 18:40:22.977  d: Pile file 'D:\Games\Prime World Ч копи€\PvP\Data\Localization\ru-RU\localisation_files.pile' found
+(17996) 18:40:23.072  m: Executing "game.cfg"
+(17996) 18:40:23.072  m: setvar stat_client_url = "http://gs.playpw.com/gstat0/"
+(17996) 18:40:23.073  m: Value 'use_smooth_turns' is not registered
+(17996) 18:40:23.073  m: setvar use_smooth_turns = "1"
+(17996) 18:40:23.073  m: setvar rdp_log_events = "3079"
+(17996) 18:40:23.073  m: Executing "input.cfg"
+(17996) 18:40:23.075  m: Unknown command or variable "C:\Users\Terem\Documents\My Games\Prime World\Replays\PW-11.10-0.171.23.88547-2018.10.07-18.22.16-5b98a14400057a1c.pwrp"
+(17996) 18:40:23.075  m: Type 'help' to list available commands
+(17996) 18:40:23.075  m: Executing "input.cfg"
+(17996) 18:40:23.126  m: Executing "smart_chat.cfg"
+(17996) 18:40:23.126  m: Executing "spectator.cfg"
+(17996) 18:40:23.163  d: [ResourceCollection] collect talents
+(17996) 18:40:24.054  d: [ResourceCollection] collect consumables
+(17996) 18:40:24.089  d: [ResourceCollection] collect marketingItems
+(17996) 18:40:24.960  m: Cannot read configuration file "D:\Games\Prime World Ч копи€\PvP\Profiles\autoexec.cfg"
+(17996) 18:40:25.203  d: OnDeviceChanged
+(17996) 18:40:25.203  d: NotifyDeviceCreate
+(17996) 18:40:25.221  d: DepthFormat: INTZ
+(17996) 18:40:25.225  m: setvar mipmaplodbias = "0"
+(17996) 18:40:25.661  d: FMOD Init OK
+(17996) 18:40:26.339  d: Loaded info for map 'Maps/Multiplayer/MOBA/_.ADMP.xdb', max players per team: 5 / 5
+(17996) 18:40:26.340  m: Executing "replay.cfg"
+(17996) 18:40:26.379  m: Executing "spectator.cfg"
+(17996) 18:40:26.396  d: [ResourceCollection] collect talents
+(17996) 18:40:26.425  d: [ResourceCollection] collect consumables
+(17996) 18:40:27.469  d: MemoryPool: megapool; allocated size: 20971520; payload: 20889600
+(17996) 18:40:27.469  d: MemoryPool: megapool; new allocated size: 31457280
+(17996) 18:40:28.187  d: MemoryPool: megapool; allocated size: 31457280; payload: 31252992
+(17996) 18:40:28.187  d: MemoryPool: megapool; new allocated size: 41943040
+(17996) 18:40:29.170  d: MemoryPool: megapool; allocated size: 41943040; payload: 41936384
+(17996) 18:40:29.170  d: MemoryPool: megapool; new allocated size: 52428800
+(17996) 18:40:29.953  d: MemoryPool: megapool; allocated size: 52428800; payload: 52427776
+(17996) 18:40:29.953  d: MemoryPool: megapool; new allocated size: 62914560
+(17996) 18:40:30.616  d: MemoryPool: megapool; allocated size: 62914560; payload: 62872064
+(17996) 18:40:30.616  d: MemoryPool: megapool; new allocated size: 73400320
+(17996) 18:40:31.271  d: MemoryPool: megapool; allocated size: 73400320; payload: 73397248
+(17996) 18:40:31.271  d: MemoryPool: megapool; new allocated size: 83886080
+(17996) 18:40:32.204  d: MemoryPool: megapool; allocated size: 83886080; payload: 83884032
+(17996) 18:40:32.204  d: MemoryPool: megapool; new allocated size: 94371840
+(17996) 18:40:32.324  d: Player behaviour tracking is disabled in replay mode
+(6472) 18:40:32.326  d: P: start
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 0 userID 5590548
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 1 userID 5590568
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 2 userID 5599951
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 3 userID 5590561
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 4 userID 602269
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 5 userID 1699413
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 6 userID 4608123
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 7 userID 5261694
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 8 userID 5599879
+(17996) 18:40:32.330  d: complaintsToday 0 complaintsMax 2 playerId 9 userID 4279203
+(17996) 18:40:32.338  d: Player [Aka]Enkaar with hero —умрачна€ странница team 0
+(17996) 18:40:32.338  d: Player [Aka]Adkaar with hero ÷елительница team 0
+(17996) 18:40:32.338  d: Player [minus]Ёксома with hero ѕовелитель крыс team 1
+(17996) 18:40:32.339  d: Player [Aka]Hakaar with hero —ледопыт team 0
+(17996) 18:40:32.343  d: Player [AVEN]Asxan with hero ћастер огн€ team 0
+(17996) 18:40:32.343  d: Player [ANKX]maks21rus_2002-krut with hero „умной доктор team 0
+(17996) 18:40:32.343  d: Player [I L]Just Happy with hero –ыжий хвост team 1
+(17996) 18:40:32.343  d: Player [N_H]Notat with hero “анцующий с волками team 1
+(17996) 18:40:32.343  d: Player [minus]¬ера «аморочкина with hero ƒриада team 1 (local)
+(17996) 18:40:32.343  d: Player [бог]Jurjur with hero ƒемонолог team 1
+(17996) 18:40:32.355  d: Movie::SetViewport (w,h) = (1281, 1025)
+(17996) 18:40:32.739  d: Failed to open file  with error 3.
+(17996) 18:40:32.739  d: Cannot load ttf font: DejaVu LGC Sans
+(17996) 18:40:32.815  d: Failed to open file  with error 3.
+(17996) 18:40:32.815  d: Cannot load ttf font: _sans
+(17996) 18:40:32.840  d: Window FlashScreen got focus
+(17996) 18:40:32.841  d: Movie::SetViewport (w,h) = (1281, 1025)
+(17996) 18:40:32.843  d: Movie::SetViewport (w,h) = (1821, 1025)
+(17996) 18:40:32.846  d: Pref value too low. Please, check config variable 'prefs_common_graphics_quality'
+(17996) 18:40:32.847  d: Pref value too low. Please, check config variable 'prefs_common_graphics_quality'
+(17996) 18:40:33.034  d:  AddUser: 242966457 archeress
+(17996) 18:40:33.054  d:  AddUser: 1617033593 healer
+(17996) 18:40:33.068  d:  AddUser: 3460740689 ratcatcher
+(17996) 18:40:33.071  d:  AddUser: 1591502017 witcher
+(17996) 18:40:33.085  d:  AddUser: 637171033 firefox
+(17996) 18:40:33.103  d:  AddUser: 2420796984 plaguedoctor
+(17996) 18:40:33.119  d:  AddUser: 637171033 firefox
+(17996) 18:40:33.123  d:  AddUser: 1160508680 mowgly
+(17996) 18:40:33.140  d:  AddUser: 113238783 dryad
+(17996) 18:40:33.155  d:  AddUser: 1500997085 demonolog
+(17996) 18:40:33.206  m: Virtual Memory Usage: 777 mb
+(17996) 18:40:33.440  d: Movie::SetViewport (w,h) = (1281, 1027)
+(17996) 18:40:33.655  d: Overriding font 2314 name 'DejaVu LGC Sans' with 'DejaVu LGC Sans Bold'
+(17996) 18:40:34.355  d: Failed to open file  with error 3.
+(17996) 18:40:34.355  d: Cannot load ttf font: DejaVu LGC Sans Bold
+(17996) 18:40:34.659  d: Window FlashScreen losing focus
+(17996) 18:40:34.659  d: Window FlashScreen got focus
+(17996) 18:40:34.659  d: Movie::SetViewport (w,h) = (1281, 1027)
+(17996) 18:40:34.670  d: Movie::SetViewport (w,h) = (1821, 1027)
+(17996) 18:40:34.850  d: Movie::SetViewport (w,h) = (1821, 1025)
+(15888) 18:40:35.098  m: Loading baked geometry from file: /Maps/Multiplayer/MOBA/_.baked_terrain
+(15888) 18:40:36.674  d: WarFogUnblock: 0.000
+(15888) 18:40:39.843  d: SimpleObject: 3.169
+(15888) 18:40:39.843  d: GameObject: 0.000
+(15888) 18:40:41.294  d: Road: 1.451
+(15888) 18:40:41.717  d: Flagpole: 0.423
+(15888) 18:40:41.718  d: Flagpole: 0.000
+(15888) 18:40:42.956  d: AdvMapCreepSpawner: 1.238
+(15888) 18:40:49.638  d: MemoryPool: megapool; allocated size: 94371840; payload: 94350848
+(15888) 18:40:49.638  d: MemoryPool: megapool; new allocated size: 104857600
+(15888) 18:40:52.770  d: AdvMapNeutralCreepSpawner: 9.814
+(15888) 18:40:53.569  d: TreeObject: 0.799
+(15888) 18:40:57.772  d: MultiStateObject: 4.203
+(15888) 18:40:57.773  d: UsableBuilding: 0.000
+(15888) 18:41:03.054  d: Building: 5.281
+(15888) 18:41:03.054  d: GlyphSpawner: 0.000
+(17996) 18:41:03.208  m: Virtual Memory Usage: 1313 mb
+(15888) 18:41:03.419  d: MemoryPool: megapool; allocated size: 104857600; payload: 104680448
+(15888) 18:41:03.419  d: MemoryPool: megapool; new allocated size: 115343360
+(15888) 18:41:04.279  d: Shop: 1.225
+(15888) 18:41:04.547  d: MinigamePlace: 0.268
+(15888) 18:41:04.618  d: Critter: 0.071
+(15888) 18:41:05.231  d: Tower: 0.613
+(15888) 18:41:05.235  d: AdvMapObstacle: 0.004
+(15888) 18:41:07.761  d: SpawnHeroes:FindPlayers: 0.000
+(15888) 18:41:07.761  d: SpawnHeroes:FindPlace: 0.000
+(15888) 18:41:09.485  d: MemoryPool: megapool; allocated size: 115343360; payload: 115335680
+(15888) 18:41:09.485  d: MemoryPool: megapool; new allocated size: 125829120
+(15888) 18:41:10.637  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:12.335  d: SpawnHeroes:CreateHero:0: 4.575
+(15888) 18:41:12.596  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:12.819  d: SpawnHeroes:CreateHero:1: 0.484
+(15888) 18:41:13.257  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:13.593  d: SpawnHeroes:CreateHero:3: 0.774
+(15888) 18:41:13.876  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:15.691  d: SpawnHeroes:CreateHero:4: 2.097
+(15888) 18:41:15.890  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:16.193  d: SpawnHeroes:CreateHero:5: 0.502
+(15888) 18:41:16.375  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:16.489  d: SpawnHeroes:CreateHero:2: 0.296
+(15888) 18:41:16.914  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:18.441  d: SpawnHeroes:CreateHero:6: 1.952
+(15888) 18:41:19.359  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:19.625  d: SpawnHeroes:CreateHero:7: 1.184
+(15888) 18:41:19.871  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:20.700  d: SpawnHeroes:CreateHero:8: 1.075
+(15888) 18:41:21.448  d: Start preloading hero's (Dummy name) resources
+(15888) 18:41:25.760  d: SpawnHeroes:CreateHero:9: 5.060
+(15888) 18:41:32.309  d: resources[0]: Creeps/A/SuperHeavy/InventorSummon.CREEP.xdb
+(17996) 18:41:33.211  m: Virtual Memory Usage: 1466 mb
+(15888) 18:41:37.907  d: Map StatsCoeffFromForce = 1.424
+(15888) 18:41:40.178  d: Map 'Maps/Multiplayer/MOBA/_.ADMP.xdb' loaded
+(17996) 18:41:40.347  d: Stopping thread. tid=15888, from_tid=17996, ptr=42c86cb8
+(17996) 18:41:40.347  d: Thread stopped. tid=15888, ptr=42c86cb8
+(17996) 18:41:41.219  d: MemoryPool: megapool; allocated size: 125829120; payload: 125804544
+(17996) 18:41:41.219  d: MemoryPool: megapool; new allocated size: 136314880
+(17996) 18:41:43.254  d: Easel::PrefetchData: 2.254
+(17996) 18:41:43.400  d: complaintsToday 2 complaintsMax 2
+(17996) 18:41:43.551  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:43.553  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.233  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.234  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.477  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.477  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.535  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.535  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.657  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.657  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.907  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.907  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.977  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:44.977  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.008  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.008  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.120  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.120  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.121  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.215  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.215  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:45.382  d: GameStatistics:NULL!
+(17996) 18:41:45.902  d: Movie::SetViewport (w,h) = (1821, 1027)
+(17996) 18:41:49.625  d: Pump messages lag
+(17996) 18:41:49.626  d:  TRACE FROM FLASH ContextItemSwitchToSpectate 4 
+(17996) 18:41:50.415  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.415  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.430  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.430  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.446  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.446  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.461  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.461  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.477  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.477  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.477  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.494  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.495  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.509  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.509  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.525  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.525  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.539  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.539  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.553  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:50.553  d:  TRACE FROM FLASH SetHero 
+(17996) 18:41:52.201  d: Pump messages lag
+(17996) 18:41:52.254  m: timescale: 2.000000
+(17996) 18:41:52.362  m: timescale: 4.000000
+(17996) 18:41:56.275  d: Nature map advance, A on Center targeted at 4
+(17996) 18:41:56.275  d: Nature map state, A @ 0->0->0, B @ 0->0->0
+(17996) 18:41:58.325  d: Nature map advance, A on Bottom targeted at 3
+(17996) 18:41:58.325  d: Nature map state, A @ 0->0->0, B @ 0->0->0
+(17996) 18:41:58.325  d: Nature map advance, A on Center targeted at 10
+(17996) 18:41:58.325  d: Nature map state, A @ 48->50->50, B @ 0->0->0
+(17996) 18:41:58.842  d: Nature map advance, B on Bottom targeted at 26
+(17996) 18:41:58.842  d: Nature map state, A @ 39->40->40, B @ 0->0->0
+(17996) 18:41:59.393  d: Nature map advance, B on Top targeted at 27
+(17996) 18:41:59.393  d: Nature map state, A @ 0->0->0, B @ 0->0->0
+(17996) 18:41:59.542  d: Nature map advance, A on Top targeted at 4
+(17996) 18:41:59.542  d: Nature map state, A @ 0->0->0, B @ 15->18->40
+(17996) 18:42:00.075  d: Nature map advance, A on Center targeted at 15
+(17996) 18:42:00.075  d: Nature map state, A @ 107->110->110, B @ 0->0->0
+(17996) 18:42:01.625  d: Nature map advance, A on Bottom targeted at 9
+(17996) 18:42:01.625  d: Nature map state, A @ 39->40->40, B @ 48->50->50
+(17996) 18:42:01.741  d: Nature map advance, B on Bottom targeted at 21
+(17996) 18:42:01.741  d: Nature map state, A @ 52->55->100, B @ 48->50->50
+(17996) 18:42:02.424  d: Nature map advance, B on Center targeted at 26
+(17996) 18:42:02.424  d: Nature map state, A @ 158->160->160, B @ 0->0->0
+(17996) 18:42:02.525  d: Nature map advance, A on Top targeted at 9
+(17996) 18:42:02.525  d: Nature map state, A @ 48->50->50, B @ 39->40->40
+(17996) 18:42:02.674  d: Nature map advance, B on Top targeted at 21
+(17996) 18:42:02.674  d: Nature map state, A @ 65->68->100, B @ 39->40->40
+(17996) 18:42:03.220  m: Virtual Memory Usage: 1612 mb
+(17996) 18:42:05.092  d: Nature map advance, B on Center targeted at 20
+(17996) 18:42:05.092  d: Nature map state, A @ 158->160->160, B @ 48->50->50
+(17996) 18:42:05.816  d: Nature map advance, A on Top targeted at 15
+(17996) 18:42:05.817  d: Nature map state, A @ 98->100->100, B @ 97->100->100
+(17996) 18:42:06.060  d: Nature map advance, B on Bottom targeted at 15
+(17996) 18:42:06.060  d: Nature map state, A @ 97->100->100, B @ 98->100->100
+(17996) 18:42:33.225  m: Virtual Memory Usage: 1635 mb
+(17996) 18:42:38.628  d: Nature map advance, A on Center targeted at 10
+(17996) 18:42:38.629  d: Nature map state, A @ 158->160->160, B @ 107->110->110
+(17996) 18:42:41.238  m: timescale: 2.000000
+(6472) 18:42:41.732  W: P: failed to allocate result
+(6472) 18:42:41.783  W: P: failed to allocate result
+(6472) 18:42:41.833  W: P: failed to allocate result
+(6472) 18:42:41.884  W: P: failed to allocate result
+(6472) 18:42:41.933  W: P: failed to allocate result
+(6472) 18:42:41.967  W: P: failed to allocate result
+(6472) 18:42:42.016  W: P: failed to allocate result
+(6472) 18:42:42.066  W: P: failed to allocate result
+(6472) 18:42:42.117  W: P: failed to allocate result
+(6472) 18:42:42.168  W: P: failed to allocate result
+(6472) 18:42:42.234  W: P: failed to allocate result
+(6472) 18:42:42.284  W: P: failed to allocate result
+(6472) 18:42:42.317  W: P: failed to allocate result
+(6472) 18:42:42.367  W: P: failed to allocate result
+(6472) 18:42:42.416  W: P: failed to allocate result
+(6472) 18:42:42.466  W: P: failed to allocate result
+(6472) 18:42:42.519  W: P: failed to allocate result
+(6472) 18:42:42.566  W: P: failed to allocate result
+(6472) 18:42:42.617  W: P: failed to allocate result
+(6472) 18:42:42.667  W: P: failed to allocate result
+(6472) 18:42:42.716  W: P: failed to allocate result
+(6472) 18:42:42.766  W: P: failed to allocate result
+(6472) 18:42:42.821  W: P: failed to allocate result
+(6472) 18:42:42.868  W: P: failed to allocate result
+(6472) 18:42:42.916  W: P: failed to allocate result
+(6472) 18:42:42.967  W: P: failed to allocate result
+(6472) 18:42:43.018  W: P: failed to allocate result
+(6472) 18:42:43.067  W: P: failed to allocate result
+(6472) 18:42:43.118  W: P: failed to allocate result
+(6472) 18:42:43.167  W: P: failed to allocate result
+(6472) 18:42:43.217  W: P: failed to allocate result
+(6472) 18:42:43.266  W: P: failed to allocate result
+(6472) 18:42:43.317  W: P: failed to allocate result
+(6472) 18:42:43.366  W: P: failed to allocate result
+(6472) 18:42:43.417  W: P: failed to allocate result
+(6472) 18:42:43.466  W: P: failed to allocate result
+(6472) 18:42:43.517  W: P: failed to allocate result
+(6472) 18:42:43.567  W: P: failed to allocate result
+(6472) 18:42:43.618  W: P: failed to allocate result
+(6472) 18:42:43.667  W: P: failed to allocate result
+(6472) 18:42:43.717  W: P: failed to allocate result
+(6472) 18:42:43.767  W: P: failed to allocate result
+(6472) 18:42:43.818  W: P: failed to allocate result
+(6472) 18:42:43.867  W: P: failed to allocate result
+(6472) 18:42:43.917  W: P: failed to allocate result
+(6472) 18:42:43.966  W: P: failed to allocate result
+(6472) 18:42:44.016  W: P: failed to allocate result
+(6472) 18:42:44.066  W: P: failed to allocate result
+(6472) 18:42:44.117  W: P: failed to allocate result
+(6472) 18:42:44.166  W: P: failed to allocate result
+(6472) 18:42:44.216  W: P: failed to allocate result
+(17996) 18:42:44.227  m: timescale: 1.000000
+(6472) 18:42:44.266  W: P: failed to allocate result
+(6472) 18:42:44.333  W: P: failed to allocate result
+(6472) 18:42:44.407  W: P: failed to allocate result
+(6472) 18:42:44.482  W: P: failed to allocate result
+(6472) 18:42:44.582  W: P: failed to allocate result
+(6472) 18:42:44.683  W: P: failed to allocate result
+(6472) 18:42:44.783  W: P: failed to allocate result
+(6472) 18:42:44.882  W: P: failed to allocate result
+(6472) 18:42:44.983  W: P: failed to allocate result
+(6472) 18:42:45.082  W: P: failed to allocate result
+(6472) 18:42:45.183  W: P: failed to allocate result
+(6472) 18:42:45.281  W: P: failed to allocate result
+(6472) 18:42:45.383  W: P: failed to allocate result
+(6472) 18:42:45.482  W: P: failed to allocate result
+(6472) 18:42:45.586  W: P: failed to allocate result
+(6472) 18:42:45.681  W: P: failed to allocate result
+(6472) 18:42:45.782  W: P: failed to allocate result
+(6472) 18:42:45.888  W: P: failed to allocate result
+(6472) 18:42:45.984  W: P: failed to allocate result
+(6472) 18:42:46.082  W: P: failed to allocate result
+(6472) 18:42:46.183  W: P: failed to allocate result
+(6472) 18:42:46.283  W: P: failed to allocate result
+(6472) 18:42:46.383  W: P: failed to allocate result
+(6472) 18:42:46.484  W: P: failed to allocate result
+(6472) 18:42:46.583  W: P: failed to allocate result
+(6472) 18:42:46.683  W: P: failed to allocate result
+(6472) 18:42:46.782  W: P: failed to allocate result
+(6472) 18:42:46.885  W: P: failed to allocate result
+(6472) 18:42:46.983  W: P: failed to allocate result
+(6472) 18:42:47.082  W: P: failed to allocate result
+(6472) 18:42:47.183  W: P: failed to allocate result
+(6472) 18:42:47.283  W: P: failed to allocate result
+(6472) 18:42:47.431  W: P: failed to allocate result
+(6472) 18:42:47.517  W: P: failed to allocate result
+(6472) 18:42:47.600  W: P: failed to allocate result
+(17996) 18:42:47.680  d: Nature map advance, B on Bottom targeted at 21
+(17996) 18:42:47.680  d: Nature map state, A @ 97->100->100, B @ 157->160->160
+(6472) 18:42:47.686  W: P: failed to allocate result
+(6472) 18:42:47.767  W: P: failed to allocate result
+(6472) 18:42:47.869  W: P: failed to allocate result
+(6472) 18:42:47.967  W: P: failed to allocate result
+(6472) 18:42:48.067  W: P: failed to allocate result
+(6472) 18:42:48.169  W: P: failed to allocate result
+(6472) 18:42:48.287  W: P: failed to allocate result
+(6472) 18:42:48.386  W: P: failed to allocate result
+(6472) 18:42:48.469  W: P: failed to allocate result
+(6472) 18:42:48.568  W: P: failed to allocate result
+(6472) 18:42:48.672  W: P: failed to allocate result
+(6472) 18:42:48.770  W: P: failed to allocate result
+(6472) 18:42:48.867  W: P: failed to allocate result
+(6472) 18:42:48.969  W: P: failed to allocate result
+(6472) 18:42:49.068  W: P: failed to allocate result
+(6472) 18:42:49.185  W: P: failed to allocate result
+(6472) 18:42:49.270  W: P: failed to allocate result
+(6472) 18:42:49.370  W: P: failed to allocate result
+(6472) 18:42:49.469  W: P: failed to allocate result
+(6472) 18:42:49.568  W: P: failed to allocate result
+(6472) 18:42:49.667  W: P: failed to allocate result
+(6472) 18:42:49.769  W: P: failed to allocate result
+(6472) 18:42:49.867  W: P: failed to allocate result
+(6472) 18:42:49.969  W: P: failed to allocate result
+(6472) 18:42:50.067  W: P: failed to allocate result
+(6472) 18:42:50.168  W: P: failed to allocate result
+(6472) 18:42:50.266  W: P: failed to allocate result
+(6472) 18:42:50.366  W: P: failed to allocate result
+(6472) 18:42:50.466  W: P: failed to allocate result
+(6472) 18:42:50.568  W: P: failed to allocate result
+(6472) 18:42:50.667  W: P: failed to allocate result
+(6472) 18:42:50.767  W: P: failed to allocate result
+(6472) 18:42:50.866  W: P: failed to allocate result
+(6472) 18:42:50.969  W: P: failed to allocate result
+(6472) 18:42:51.066  W: P: failed to allocate result
+(6472) 18:42:51.165  W: P: failed to allocate result
+(6472) 18:42:51.271  W: P: failed to allocate result
+(6472) 18:42:51.366  W: P: failed to allocate result
+(6472) 18:42:51.449  W: P: failed to allocate result
+(6472) 18:42:51.569  W: P: failed to allocate result
+(6472) 18:42:51.667  W: P: failed to allocate result
+(6472) 18:42:51.766  W: P: failed to allocate result
+(6472) 18:42:51.867  W: P: failed to allocate result
+(6472) 18:42:51.966  W: P: failed to allocate result
+(6472) 18:42:52.066  W: P: failed to allocate result
+(6472) 18:42:52.168  W: P: failed to allocate result
+(6472) 18:42:52.266  W: P: failed to allocate result
+(6472) 18:42:52.366  W: P: failed to allocate result
+(6472) 18:42:52.451  W: P: failed to allocate result
+(6472) 18:42:52.550  W: P: failed to allocate result
+(6472) 18:42:52.651  W: P: failed to allocate result
+(6472) 18:42:52.751  W: P: failed to allocate result
+(6472) 18:42:52.850  W: P: failed to allocate result
+(6472) 18:42:52.950  W: P: failed to allocate result
+(6472) 18:42:53.049  W: P: failed to allocate result
+(6472) 18:42:53.168  W: P: failed to allocate result
+(6472) 18:42:53.251  W: P: failed to allocate result
+(6472) 18:42:53.351  W: P: failed to allocate result
+(6472) 18:42:53.450  W: P: failed to allocate result
+(6472) 18:42:53.551  W: P: failed to allocate result
+(6472) 18:42:53.651  W: P: failed to allocate result
+(6472) 18:42:53.751  W: P: failed to allocate result
+(6472) 18:42:53.849  W: P: failed to allocate result
+(6472) 18:42:53.949  W: P: failed to allocate result
+(6472) 18:42:54.049  W: P: failed to allocate result
+(6472) 18:42:54.151  W: P: failed to allocate result
+(6472) 18:42:54.250  W: P: failed to allocate result
+(6472) 18:42:54.351  W: P: failed to allocate result
+(6472) 18:42:54.450  W: P: failed to allocate result
+(6472) 18:42:54.549  W: P: failed to allocate result
+(6472) 18:42:54.651  W: P: failed to allocate result
+(6472) 18:42:54.751  W: P: failed to allocate result
+(6472) 18:42:54.851  W: P: failed to allocate result
+(6472) 18:42:54.951  W: P: failed to allocate result
+(6472) 18:42:55.052  W: P: failed to allocate result
+(6472) 18:42:55.153  W: P: failed to allocate result
+(6472) 18:42:55.250  W: P: failed to allocate result
+(6472) 18:42:55.350  W: P: failed to allocate result
+(6472) 18:42:55.450  W: P: failed to allocate result
+(6472) 18:42:55.550  W: P: failed to allocate result
+(6472) 18:42:55.650  W: P: failed to allocate result
+(6472) 18:42:55.762  W: P: failed to allocate result
+(6472) 18:42:55.849  W: P: failed to allocate result
+(6472) 18:42:55.949  W: P: failed to allocate result
+(6472) 18:42:56.052  W: P: failed to allocate result
+(6472) 18:42:56.149  W: P: failed to allocate result
+(6472) 18:42:56.258  W: P: failed to allocate result
+(6472) 18:42:56.350  W: P: failed to allocate result
+(6472) 18:42:56.449  W: P: failed to allocate result
+(6472) 18:42:56.550  W: P: failed to allocate result
+(6472) 18:42:56.651  W: P: failed to allocate result
+(6472) 18:42:56.751  W: P: failed to allocate result
+(6472) 18:42:56.849  W: P: failed to allocate result
+(6472) 18:42:56.950  W: P: failed to allocate result
+(6472) 18:42:57.050  W: P: failed to allocate result
+(6472) 18:42:57.150  W: P: failed to allocate result
+(6472) 18:42:57.250  W: P: failed to allocate result
+(6472) 18:42:57.350  W: P: failed to allocate result
+(6472) 18:42:57.450  W: P: failed to allocate result
+(6472) 18:42:57.550  W: P: failed to allocate result
+(6472) 18:42:57.651  W: P: failed to allocate result
+(6472) 18:42:57.750  W: P: failed to allocate result
+(6472) 18:42:57.850  W: P: failed to allocate result
+(6472) 18:42:57.950  W: P: failed to allocate result
+(6472) 18:42:58.051  W: P: failed to allocate result
+(6472) 18:42:58.152  W: P: failed to allocate result
+(6472) 18:42:58.251  W: P: failed to allocate result
+(6472) 18:42:58.351  W: P: failed to allocate result
+(6472) 18:42:58.450  W: P: failed to allocate result
+(6472) 18:42:58.550  W: P: failed to allocate result
+(6472) 18:42:58.650  W: P: failed to allocate result
+(6472) 18:42:58.750  W: P: failed to allocate result
+(6472) 18:42:58.850  W: P: failed to allocate result
+(6472) 18:42:58.950  W: P: failed to allocate result
+(6472) 18:42:59.049  W: P: failed to allocate result
+(6472) 18:42:59.150  W: P: failed to allocate result
+(6472) 18:42:59.251  W: P: failed to allocate result
+(6472) 18:42:59.350  W: P: failed to allocate result
+(6472) 18:42:59.450  W: P: failed to allocate result
+(6472) 18:42:59.550  W: P: failed to allocate result
+(6472) 18:42:59.648  W: P: failed to allocate result
+(6472) 18:42:59.749  W: P: failed to allocate result
+(6472) 18:42:59.848  W: P: failed to allocate result
+(6472) 18:42:59.950  W: P: failed to allocate result
+(6472) 18:43:00.049  W: P: failed to allocate result
+(6472) 18:43:00.150  W: P: failed to allocate result
+(6472) 18:43:00.249  W: P: failed to allocate result
+(6472) 18:43:00.349  W: P: failed to allocate result
+(6472) 18:43:00.450  W: P: failed to allocate result
+(6472) 18:43:00.549  W: P: failed to allocate result
+(6472) 18:43:00.650  W: P: failed to allocate result
+(6472) 18:43:00.750  W: P: failed to allocate result
+(6472) 18:43:00.850  W: P: failed to allocate result
+(6472) 18:43:00.950  W: P: failed to allocate result
+(6472) 18:43:01.050  W: P: failed to allocate result
+(6472) 18:43:01.152  W: P: failed to allocate result
+(6472) 18:43:01.248  W: P: failed to allocate result
+(6472) 18:43:01.348  W: P: failed to allocate result
+(6472) 18:43:01.449  W: P: failed to allocate result
+(6472) 18:43:01.549  W: P: failed to allocate result
+(6472) 18:43:01.651  W: P: failed to allocate result
+(6472) 18:43:01.750  W: P: failed to allocate result
+(6472) 18:43:01.851  W: P: failed to allocate result
+(6472) 18:43:01.948  W: P: failed to allocate result
+(6472) 18:43:02.050  W: P: failed to allocate result
+(6472) 18:43:02.150  W: P: failed to allocate result
+(6472) 18:43:02.250  W: P: failed to allocate result
+(6472) 18:43:02.350  W: P: failed to allocate result
+(6472) 18:43:02.450  W: P: failed to allocate result
+(6472) 18:43:02.548  W: P: failed to allocate result
+(6472) 18:43:02.649  W: P: failed to allocate result
+(6472) 18:43:02.748  W: P: failed to allocate result
+(6472) 18:43:02.848  W: P: failed to allocate result
+(6472) 18:43:02.950  W: P: failed to allocate result
+(6472) 18:43:03.049  W: P: failed to allocate result
+(6472) 18:43:03.148  W: P: failed to allocate result
+(17996) 18:43:03.238  m: Virtual Memory Usage: 1643 mb
+(6472) 18:43:03.250  W: P: failed to allocate result
+(6472) 18:43:03.349  W: P: failed to allocate result
+(6472) 18:43:03.449  W: P: failed to allocate result
+(6472) 18:43:03.549  W: P: failed to allocate result
+(6472) 18:43:03.651  W: P: failed to allocate result
+(6472) 18:43:03.749  W: P: failed to allocate result
+(6472) 18:43:03.849  W: P: failed to allocate result
+(6472) 18:43:03.949  W: P: failed to allocate result
+(6472) 18:43:04.052  W: P: failed to allocate result
+(6472) 18:43:04.150  W: P: failed to allocate result
+(6472) 18:43:04.249  W: P: failed to allocate result
+(6472) 18:43:04.349  W: P: failed to allocate result
+(6472) 18:43:04.450  W: P: failed to allocate result
+(6472) 18:43:04.549  W: P: failed to allocate result
+(6472) 18:43:04.651  W: P: failed to allocate result
+(6472) 18:43:04.749  W: P: failed to allocate result
+(6472) 18:43:04.851  W: P: failed to allocate result
+(6472) 18:43:04.950  W: P: failed to allocate result
+(6472) 18:43:05.060  W: P: failed to allocate result
+(6472) 18:43:05.149  W: P: failed to allocate result
+(6472) 18:43:05.250  W: P: failed to allocate result
+(6472) 18:43:05.349  W: P: failed to allocate result
+(6472) 18:43:05.450  W: P: failed to allocate result
+(6472) 18:43:05.551  W: P: failed to allocate result
+(6472) 18:43:05.651  W: P: failed to allocate result
+(6472) 18:43:05.752  W: P: failed to allocate result
+(6472) 18:43:05.849  W: P: failed to allocate result
+(6472) 18:43:05.950  W: P: failed to allocate result
+(6472) 18:43:06.050  W: P: failed to allocate result
+(6472) 18:43:06.151  W: P: failed to allocate result
+(6472) 18:43:06.253  W: P: failed to allocate result
+(6472) 18:43:06.348  W: P: failed to allocate result
+(6472) 18:43:06.452  W: P: failed to allocate result
+(17996) 18:43:06.544  d: Nature map advance, A on Center targeted at 15
+(17996) 18:43:06.544  d: Nature map state, A @ 112->110->110, B @ 107->110->110
+(6472) 18:43:06.552  W: P: failed to allocate result
+(6472) 18:43:06.653  W: P: failed to allocate result
+(6472) 18:43:06.752  W: P: failed to allocate result
+(6472) 18:43:06.851  W: P: failed to allocate result
+(6472) 18:43:06.951  W: P: failed to allocate result
+(6472) 18:43:07.052  W: P: failed to allocate result
+(6472) 18:43:07.152  W: P: failed to allocate result
+(6472) 18:43:07.252  W: P: failed to allocate result
+(6472) 18:43:07.354  W: P: failed to allocate result
+(6472) 18:43:07.452  W: P: failed to allocate result
+(6472) 18:43:07.553  W: P: failed to allocate result
+(6472) 18:43:07.653  W: P: failed to allocate result
+(6472) 18:43:07.753  W: P: failed to allocate result
+(17996) 18:43:07.845  d: Nature map advance, A on Bottom targeted at 15
+(17996) 18:43:07.845  d: Nature map state, A @ 97->100->100, B @ 103->100->100
+(6472) 18:43:07.854  W: P: failed to allocate result
+(6472) 18:43:07.953  W: P: failed to allocate result
+(6472) 18:43:08.051  W: P: failed to allocate result
+(6472) 18:43:08.153  W: P: failed to allocate result
+(6472) 18:43:08.253  W: P: failed to allocate result
+(6472) 18:43:08.352  W: P: failed to allocate result
+(6472) 18:43:08.454  W: P: failed to allocate result
+(6472) 18:43:08.564  W: P: failed to allocate result
+(6472) 18:43:08.641  W: P: failed to allocate result
+(6472) 18:43:08.737  W: P: failed to allocate result
+(6472) 18:43:08.835  W: P: failed to allocate result
+(6472) 18:43:08.952  W: P: failed to allocate result
+(6472) 18:43:09.052  W: P: failed to allocate result
+(6472) 18:43:09.154  W: P: failed to allocate result
+(6472) 18:43:09.252  W: P: failed to allocate result
+(6472) 18:43:09.354  W: P: failed to allocate result
+(6472) 18:43:09.453  W: P: failed to allocate result
+(6472) 18:43:09.552  W: P: failed to allocate result
+(6472) 18:43:09.652  W: P: failed to allocate result
+(6472) 18:43:09.752  W: P: failed to allocate result
+(6472) 18:43:09.850  W: P: failed to allocate result
+(6472) 18:43:09.951  W: P: failed to allocate result
+(6472) 18:43:10.050  W: P: failed to allocate result
+(6472) 18:43:10.136  W: P: failed to allocate result
+(6472) 18:43:10.234  W: P: failed to allocate result
+(6472) 18:43:10.334  W: P: failed to allocate result
+(6472) 18:43:10.451  W: P: failed to allocate result
+(6472) 18:43:10.551  W: P: failed to allocate result
+(6472) 18:43:10.650  W: P: failed to allocate result
+(6472) 18:43:10.750  W: P: failed to allocate result
+(6472) 18:43:10.850  W: P: failed to allocate result
+(6472) 18:43:10.950  W: P: failed to allocate result
+(6472) 18:43:11.051  W: P: failed to allocate result
+(6472) 18:43:11.151  W: P: failed to allocate result
+(6472) 18:43:11.256  W: P: failed to allocate result
+(6472) 18:43:11.383  W: P: failed to allocate result
+(6472) 18:43:11.469  W: P: failed to allocate result
+(6472) 18:43:11.551  W: P: failed to allocate result
+(6472) 18:43:11.635  W: P: failed to allocate result
+(6472) 18:43:11.750  W: P: failed to allocate result
+(6472) 18:43:11.834  W: P: failed to allocate result
+(6472) 18:43:11.934  W: P: failed to allocate result
+(6472) 18:43:12.035  W: P: failed to allocate result
+(6472) 18:43:12.134  W: P: failed to allocate result
+(6472) 18:43:12.250  W: P: failed to allocate result
+(6472) 18:43:12.335  W: P: failed to allocate result
+(6472) 18:43:12.436  W: P: failed to allocate result
+(6472) 18:43:12.536  W: P: failed to allocate result
+(6472) 18:43:12.634  W: P: failed to allocate result
+(6472) 18:43:12.734  W: P: failed to allocate result
+(6472) 18:43:12.836  W: P: failed to allocate result
+(6472) 18:43:12.938  W: P: failed to allocate result
+(6472) 18:43:13.033  W: P: failed to allocate result
+(6472) 18:43:13.133  W: P: failed to allocate result
+(6472) 18:43:13.234  W: P: failed to allocate result
+(6472) 18:43:13.334  W: P: failed to allocate result
+(6472) 18:43:13.434  W: P: failed to allocate result
+(6472) 18:43:13.534  W: P: failed to allocate result
+(6472) 18:43:13.635  W: P: failed to allocate result
+(6472) 18:43:13.734  W: P: failed to allocate result
+(6472) 18:43:13.834  W: P: failed to allocate result
+(6472) 18:43:13.934  W: P: failed to allocate result
+(6472) 18:43:14.034  W: P: failed to allocate result
+(6472) 18:43:14.135  W: P: failed to allocate result
+(6472) 18:43:14.235  W: P: failed to allocate result
+(6472) 18:43:14.341  W: P: failed to allocate result
+(6472) 18:43:14.436  W: P: failed to allocate result
+(6472) 18:43:14.536  W: P: failed to allocate result
+(6472) 18:43:14.635  W: P: failed to allocate result
+(6472) 18:43:14.735  W: P: failed to allocate result
+(6472) 18:43:14.834  W: P: failed to allocate result
+(6472) 18:43:14.934  W: P: failed to allocate result
+(6472) 18:43:15.033  W: P: failed to allocate result
+(6472) 18:43:15.133  W: P: failed to allocate result
+(6472) 18:43:15.234  W: P: failed to allocate result
+(6472) 18:43:15.333  W: P: failed to allocate result
+(6472) 18:43:15.438  W: P: failed to allocate result
+(6472) 18:43:15.534  W: P: failed to allocate result
+(6472) 18:43:15.633  W: P: failed to allocate result
+(6472) 18:43:15.737  W: P: failed to allocate result
+(6472) 18:43:15.838  W: P: failed to allocate result
+(6472) 18:43:15.935  W: P: failed to allocate result
+(6472) 18:43:16.035  W: P: failed to allocate result
+(6472) 18:43:16.134  W: P: failed to allocate result
+(6472) 18:43:16.236  W: P: failed to allocate result
+(6472) 18:43:16.334  W: P: failed to allocate result
+(6472) 18:43:16.435  W: P: failed to allocate result
+(6472) 18:43:16.517  W: P: failed to allocate result
+(6472) 18:43:16.641  W: P: failed to allocate result
+(6472) 18:43:16.735  W: P: failed to allocate result
+(6472) 18:43:16.836  W: P: failed to allocate result
+(6472) 18:43:16.919  W: P: failed to allocate result
+(6472) 18:43:17.018  W: P: failed to allocate result
+(6472) 18:43:17.119  W: P: failed to allocate result
+(6472) 18:43:17.217  W: P: failed to allocate result
+(6472) 18:43:17.319  W: P: failed to allocate result
+(6472) 18:43:17.417  W: P: failed to allocate result
+(6472) 18:43:17.524  W: P: failed to allocate result
+(6472) 18:43:17.635  W: P: failed to allocate result
+(6472) 18:43:17.734  W: P: failed to allocate result
+(6472) 18:43:17.816  W: P: failed to allocate result
+(6472) 18:43:17.916  W: P: failed to allocate result
+(6472) 18:43:18.017  W: P: failed to allocate result
+(17996) 18:43:18.114  d: Nature map advance, A on Top targeted at 9
+(17996) 18:43:18.114  d: Nature map state, A @ 157->160->160, B @ 97->100->100
+(6472) 18:43:18.120  W: P: failed to allocate result
+(6472) 18:43:18.220  W: P: failed to allocate result
+(6472) 18:43:18.319  W: P: failed to allocate result
+(6472) 18:43:18.419  W: P: failed to allocate result
+(6472) 18:43:18.525  W: P: failed to allocate result
+(6472) 18:43:18.619  W: P: failed to allocate result
+(6472) 18:43:18.721  W: P: failed to allocate result
+(6472) 18:43:18.819  W: P: failed to allocate result
+(6472) 18:43:18.919  W: P: failed to allocate result
+(6472) 18:43:19.021  W: P: failed to allocate result
+(6472) 18:43:19.120  W: P: failed to allocate result
+(6472) 18:43:19.220  W: P: failed to allocate result
+(6472) 18:43:19.319  W: P: failed to allocate result
+(6472) 18:43:19.444  W: P: failed to allocate result
+(6472) 18:43:19.536  W: P: failed to allocate result
+(6472) 18:43:19.623  W: P: failed to allocate result
+(6472) 18:43:19.720  W: P: failed to allocate result
+(6472) 18:43:19.820  W: P: failed to allocate result
+(6472) 18:43:19.921  W: P: failed to allocate result
+(6472) 18:43:20.020  W: P: failed to allocate result
+(6472) 18:43:20.118  W: P: failed to allocate result
+(6472) 18:43:20.219  W: P: failed to allocate result
+(6472) 18:43:20.319  W: P: failed to allocate result
+(6472) 18:43:20.419  W: P: failed to allocate result
+(6472) 18:43:20.520  W: P: failed to allocate result
+(6472) 18:43:20.621  W: P: failed to allocate result
+(6472) 18:43:20.719  W: P: failed to allocate result
+(6472) 18:43:20.819  W: P: failed to allocate result
+(6472) 18:43:20.918  W: P: failed to allocate result
+(6472) 18:43:21.019  W: P: failed to allocate result
+(6472) 18:43:21.119  W: P: failed to allocate result
+(6472) 18:43:21.217  W: P: failed to allocate result
+(6472) 18:43:21.320  W: P: failed to allocate result
+(6472) 18:43:21.418  W: P: failed to allocate result
+(6472) 18:43:21.522  W: P: failed to allocate result
+(6472) 18:43:21.619  W: P: failed to allocate result
+(6472) 18:43:21.719  W: P: failed to allocate result
+(6472) 18:43:21.818  W: P: failed to allocate result
+(6472) 18:43:21.918  W: P: failed to allocate result
+(6472) 18:43:22.019  W: P: failed to allocate result
+(6472) 18:43:22.119  W: P: failed to allocate result
+(6472) 18:43:22.219  W: P: failed to allocate result
+(6472) 18:43:22.319  W: P: failed to allocate result
+(6472) 18:43:22.418  W: P: failed to allocate result
+(6472) 18:43:22.519  W: P: failed to allocate result
+(6472) 18:43:22.619  W: P: failed to allocate result
+(6472) 18:43:22.719  W: P: failed to allocate result
+(6472) 18:43:22.818  W: P: failed to allocate result
+(6472) 18:43:22.919  W: P: failed to allocate result
+(6472) 18:43:23.019  W: P: failed to allocate result
+(6472) 18:43:23.119  W: P: failed to allocate result
+(6472) 18:43:23.219  W: P: failed to allocate result
+(6472) 18:43:23.318  W: P: failed to allocate result
+(17996) 18:43:23.345  m: timescale: 2.000000
+(6472) 18:43:23.402  W: P: failed to allocate result
+(6472) 18:43:23.484  W: P: failed to allocate result
+(6472) 18:43:23.536  W: P: failed to allocate result
+(6472) 18:43:23.584  W: P: failed to allocate result
+(6472) 18:43:23.634  W: P: failed to allocate result
+(6472) 18:43:23.684  W: P: failed to allocate result
+(6472) 18:43:23.735  W: P: failed to allocate result
+(6472) 18:43:23.785  W: P: failed to allocate result
+(6472) 18:43:23.835  W: P: failed to allocate result
+(6472) 18:43:23.884  W: P: failed to allocate result
+(6472) 18:43:23.934  W: P: failed to allocate result
+(6472) 18:43:23.984  W: P: failed to allocate result
+(6472) 18:43:24.035  W: P: failed to allocate result
+(6472) 18:43:24.085  W: P: failed to allocate result
+(6472) 18:43:24.134  W: P: failed to allocate result
+(6472) 18:43:24.185  W: P: failed to allocate result
+(17996) 18:43:24.244  m: timescale: 4.000000
+(6472) 18:43:24.251  W: P: failed to allocate result
+(6472) 18:43:24.285  W: P: failed to allocate result
+(6472) 18:43:24.318  W: P: failed to allocate result
+(6472) 18:43:24.336  W: P: failed to allocate result
+(6472) 18:43:24.370  W: P: failed to allocate result
+(6472) 18:43:24.390  W: P: failed to allocate result
+(6472) 18:43:24.422  W: P: failed to allocate result
+(6472) 18:43:24.440  W: P: failed to allocate result
+(6472) 18:43:24.469  W: P: failed to allocate result
+(6472) 18:43:24.487  W: P: failed to allocate result
+(6472) 18:43:24.519  W: P: failed to allocate result
+(6472) 18:43:24.537  W: P: failed to allocate result
+(6472) 18:43:24.569  W: P: failed to allocate result
+(6472) 18:43:24.587  W: P: failed to allocate result
+(6472) 18:43:24.617  W: P: failed to allocate result
+(6472) 18:43:24.636  W: P: failed to allocate result
+(6472) 18:43:24.685  W: P: failed to allocate result
+(6472) 18:43:24.706  W: P: failed to allocate result
+(6472) 18:43:24.724  W: P: failed to allocate result
+(6472) 18:43:24.742  W: P: failed to allocate result
+(6472) 18:43:24.760  W: P: failed to allocate result
+(6472) 18:43:24.791  W: P: failed to allocate result
+(6472) 18:43:24.810  W: P: failed to allocate result
+(6472) 18:43:24.841  W: P: failed to allocate result
+(6472) 18:43:24.859  W: P: failed to allocate result
+(6472) 18:43:24.890  W: P: failed to allocate result
+(6472) 18:43:24.908  W: P: failed to allocate result
+(6472) 18:43:24.937  W: P: failed to allocate result
+(6472) 18:43:24.954  W: P: failed to allocate result
+(6472) 18:43:24.987  W: P: failed to allocate result
+(6472) 18:43:25.017  W: P: failed to allocate result
+(6472) 18:43:25.034  W: P: failed to allocate result
+(6472) 18:43:25.073  W: P: failed to allocate result
+(6472) 18:43:25.090  W: P: failed to allocate result
+(6472) 18:43:25.121  W: P: failed to allocate result
+(6472) 18:43:25.140  W: P: failed to allocate result
+(6472) 18:43:25.163  W: P: failed to allocate result
+(6472) 18:43:25.195  W: P: failed to allocate result
+(6472) 18:43:25.232  W: P: failed to allocate result
+(6472) 18:43:25.253  W: P: failed to allocate result
+(6472) 18:43:25.274  W: P: failed to allocate result
+(6472) 18:43:25.322  W: P: failed to allocate result
+(6472) 18:43:25.325  W: P: failed to allocate result
+(6472) 18:43:25.336  W: P: failed to allocate result
+(6472) 18:43:25.369  W: P: failed to allocate result
+(6472) 18:43:25.387  W: P: failed to allocate result
+(6472) 18:43:25.405  W: P: failed to allocate result
+(6472) 18:43:25.437  W: P: failed to allocate result
+(6472) 18:43:25.455  W: P: failed to allocate result
+(6472) 18:43:25.485  W: P: failed to allocate result
+(6472) 18:43:25.503  W: P: failed to allocate result
+(6472) 18:43:25.534  W: P: failed to allocate result
+(6472) 18:43:25.551  W: P: failed to allocate result
+(6472) 18:43:25.585  W: P: failed to allocate result
+(6472) 18:43:25.603  W: P: failed to allocate result
+(6472) 18:43:25.635  W: P: failed to allocate result
+(6472) 18:43:25.656  W: P: failed to allocate result
+(6472) 18:43:25.687  W: P: failed to allocate result
+(6472) 18:43:25.720  W: P: failed to allocate result
+(6472) 18:43:25.741  W: P: failed to allocate result
+(6472) 18:43:25.765  W: P: failed to allocate result
+(6472) 18:43:25.786  W: P: failed to allocate result
+(6472) 18:43:25.804  W: P: failed to allocate result
+(6472) 18:43:25.836  W: P: failed to allocate result
+(6472) 18:43:25.853  W: P: failed to allocate result
+(6472) 18:43:25.887  W: P: failed to allocate result
+(6472) 18:43:25.904  W: P: failed to allocate result
+(6472) 18:43:25.938  W: P: failed to allocate result
+(6472) 18:43:25.976  W: P: failed to allocate result
+(6472) 18:43:26.033  W: P: failed to allocate result
+(6472) 18:43:26.051  W: P: failed to allocate result
+(6472) 18:43:26.069  W: P: failed to allocate result
+(6472) 18:43:26.088  W: P: failed to allocate result
+(6472) 18:43:26.107  W: P: failed to allocate result
+(6472) 18:43:26.125  W: P: failed to allocate result
+(6472) 18:43:26.143  W: P: failed to allocate result
+(6472) 18:43:26.160  W: P: failed to allocate result
+(6472) 18:43:26.177  W: P: failed to allocate result
+(6472) 18:43:26.195  W: P: failed to allocate result
+(6472) 18:43:26.213  W: P: failed to allocate result
+(6472) 18:43:26.231  W: P: failed to allocate result
+(6472) 18:43:26.263  W: P: failed to allocate result
+(6472) 18:43:26.282  W: P: failed to allocate result
+(6472) 18:43:26.299  W: P: failed to allocate result
+(6472) 18:43:26.336  W: P: failed to allocate result
+(6472) 18:43:26.353  W: P: failed to allocate result
+(6472) 18:43:26.384  W: P: failed to allocate result
+(6472) 18:43:26.401  W: P: failed to allocate result
+(6472) 18:43:26.437  W: P: failed to allocate result
+(6472) 18:43:26.456  W: P: failed to allocate result
+(6472) 18:43:26.489  W: P: failed to allocate result
+(6472) 18:43:26.508  W: P: failed to allocate result
+(6472) 18:43:26.526  W: P: failed to allocate result
+(6472) 18:43:26.557  W: P: failed to allocate result
+(6472) 18:43:26.576  W: P: failed to allocate result
+(6472) 18:43:26.610  W: P: failed to allocate result
+(6472) 18:43:26.630  W: P: failed to allocate result
+(6472) 18:43:26.661  W: P: failed to allocate result
+(6472) 18:43:26.679  W: P: failed to allocate result
+(6472) 18:43:26.711  W: P: failed to allocate result
+(6472) 18:43:26.729  W: P: failed to allocate result
+(6472) 18:43:26.762  W: P: failed to allocate result
+(6472) 18:43:26.785  W: P: failed to allocate result
+(6472) 18:43:26.803  W: P: failed to allocate result
+(6472) 18:43:26.852  W: P: failed to allocate result
+(6472) 18:43:26.858  W: P: failed to allocate result
+(6472) 18:43:26.876  W: P: failed to allocate result
+(6472) 18:43:26.920  W: P: failed to allocate result
+(6472) 18:43:26.942  W: P: failed to allocate result
+(6472) 18:43:26.963  W: P: failed to allocate result
+(6472) 18:43:26.993  W: P: failed to allocate result
+(6472) 18:43:27.013  W: P: failed to allocate result
+(6472) 18:43:27.032  W: P: failed to allocate result
+(6472) 18:43:27.051  W: P: failed to allocate result
+(6472) 18:43:27.087  W: P: failed to allocate result
+(6472) 18:43:27.108  W: P: failed to allocate result
+(6472) 18:43:27.127  W: P: failed to allocate result
+(6472) 18:43:27.158  W: P: failed to allocate result
+(6472) 18:43:27.177  W: P: failed to allocate result
+(6472) 18:43:27.208  W: P: failed to allocate result
+(6472) 18:43:27.241  W: P: failed to allocate result
+(6472) 18:43:27.259  W: P: failed to allocate result
+(6472) 18:43:27.279  W: P: failed to allocate result
+(6472) 18:43:27.299  W: P: failed to allocate result
+(6472) 18:43:27.336  W: P: failed to allocate result
+(6472) 18:43:27.357  W: P: failed to allocate result
+(6472) 18:43:27.375  W: P: failed to allocate result
+(6472) 18:43:27.406  W: P: failed to allocate result
+(6472) 18:43:27.428  W: P: failed to allocate result
+(6472) 18:43:27.462  W: P: failed to allocate result
+(6472) 18:43:27.482  W: P: failed to allocate result
+(6472) 18:43:27.515  W: P: failed to allocate result
+(6472) 18:43:27.537  W: P: failed to allocate result
+(6472) 18:43:27.556  W: P: failed to allocate result
+(6472) 18:43:27.575  W: P: failed to allocate result
+(6472) 18:43:27.608  W: P: failed to allocate result
+(17996) 18:43:27.622  d: Nature map advance, A on Center targeted at 10
+(17996) 18:43:27.622  d: Nature map state, A @ 158->160->160, B @ 107->110->110
+(6472) 18:43:27.628  W: P: failed to allocate result
+(6472) 18:43:27.648  W: P: failed to allocate result
+(6472) 18:43:27.686  W: P: failed to allocate result
+(6472) 18:43:27.709  W: P: failed to allocate result
+(6472) 18:43:27.728  W: P: failed to allocate result
+(6472) 18:43:27.748  W: P: failed to allocate result
+(6472) 18:43:27.786  W: P: failed to allocate result
+(6472) 18:43:27.806  W: P: failed to allocate result
+(6472) 18:43:27.827  W: P: failed to allocate result
+(6472) 18:43:27.850  W: P: failed to allocate result
+(6472) 18:43:27.885  W: P: failed to allocate result
+(6472) 18:43:27.905  W: P: failed to allocate result
+(6472) 18:43:27.925  W: P: failed to allocate result
+(6472) 18:43:27.959  W: P: failed to allocate result
+(6472) 18:43:27.979  W: P: failed to allocate result
+(6472) 18:43:27.999  W: P: failed to allocate result
+(6472) 18:43:28.037  W: P: failed to allocate result
+(6472) 18:43:28.055  W: P: failed to allocate result
+(6472) 18:43:28.074  W: P: failed to allocate result
+(6472) 18:43:28.094  W: P: failed to allocate result
+(6472) 18:43:28.129  W: P: failed to allocate result
+(6472) 18:43:28.148  W: P: failed to allocate result
+(6472) 18:43:28.166  W: P: failed to allocate result
+(6472) 18:43:28.202  W: P: failed to allocate result
+(6472) 18:43:28.219  W: P: failed to allocate result
+(6472) 18:43:28.252  W: P: failed to allocate result
+(6472) 18:43:28.269  W: P: failed to allocate result
+(6472) 18:43:28.300  W: P: failed to allocate result
+(6472) 18:43:28.319  W: P: failed to allocate result
+(6472) 18:43:28.367  W: P: failed to allocate result
+(6472) 18:43:28.370  W: P: failed to allocate result
+(6472) 18:43:28.402  W: P: failed to allocate result
+(17996) 18:43:28.415  d: Nature map advance, B on Top targeted at 15
+(17996) 18:43:28.415  d: Nature map state, A @ 103->100->100, B @ 97->100->100
+(6472) 18:43:28.423  W: P: failed to allocate result
+(6472) 18:43:28.443  W: P: failed to allocate result
+(6472) 18:43:28.476  W: P: failed to allocate result
+(6472) 18:43:28.496  W: P: failed to allocate result
+(6472) 18:43:28.529  W: P: failed to allocate result
+(6472) 18:43:28.550  W: P: failed to allocate result
+(6472) 18:43:28.570  W: P: failed to allocate result
+(6472) 18:43:28.604  W: P: failed to allocate result
+(6472) 18:43:28.624  W: P: failed to allocate result
+(6472) 18:43:28.645  W: P: failed to allocate result
+(6472) 18:43:28.678  W: P: failed to allocate result
+(6472) 18:43:28.699  W: P: failed to allocate result
+(6472) 18:43:28.720  W: P: failed to allocate result
+(6472) 18:43:28.754  W: P: failed to allocate result
+(6472) 18:43:28.774  W: P: failed to allocate result
+(6472) 18:43:28.793  W: P: failed to allocate result
+(6472) 18:43:28.836  W: P: failed to allocate result
+(6472) 18:43:28.855  W: P: failed to allocate result
+(6472) 18:43:28.874  W: P: failed to allocate result
+(6472) 18:43:28.895  W: P: failed to allocate result
+(6472) 18:43:28.928  W: P: failed to allocate result
+(6472) 18:43:28.946  W: P: failed to allocate result
+(6472) 18:43:28.965  W: P: failed to allocate result
+(6472) 18:43:29.000  W: P: failed to allocate result
+(6472) 18:43:29.017  W: P: failed to allocate result
+(6472) 18:43:29.060  W: P: failed to allocate result
+(6472) 18:43:29.084  W: P: failed to allocate result
+(6472) 18:43:29.105  W: P: failed to allocate result
+(6472) 18:43:29.123  W: P: failed to allocate result
+(6472) 18:43:29.141  W: P: failed to allocate result
+(6472) 18:43:29.174  W: P: failed to allocate result
+(6472) 18:43:29.191  W: P: failed to allocate result
+(6472) 18:43:29.210  W: P: failed to allocate result
+(6472) 18:43:29.241  W: P: failed to allocate result
+(6472) 18:43:29.261  W: P: failed to allocate result
+(6472) 18:43:29.292  W: P: failed to allocate result
+(6472) 18:43:29.312  W: P: failed to allocate result
+(6472) 18:43:29.359  W: P: failed to allocate result
+(6472) 18:43:29.363  W: P: failed to allocate result
+(6472) 18:43:29.394  W: P: failed to allocate result
+(6472) 18:43:29.417  W: P: failed to allocate result
+(6472) 18:43:29.451  W: P: failed to allocate result
+(6472) 18:43:29.468  W: P: failed to allocate result
+(6472) 18:43:29.503  W: P: failed to allocate result
+(6472) 18:43:29.523  W: P: failed to allocate result
+(6472) 18:43:29.543  W: P: failed to allocate result
+(6472) 18:43:29.575  W: P: failed to allocate result
+(6472) 18:43:29.595  W: P: failed to allocate result
+(6472) 18:43:29.615  W: P: failed to allocate result
+(6472) 18:43:29.652  W: P: failed to allocate result
+(6472) 18:43:29.670  W: P: failed to allocate result
+(6472) 18:43:29.689  W: P: failed to allocate result
+(6472) 18:43:29.720  W: P: failed to allocate result
+(6472) 18:43:29.740  W: P: failed to allocate result
+(6472) 18:43:29.776  W: P: failed to allocate result
+(6472) 18:43:29.808  W: P: failed to allocate result
+(6472) 18:43:29.828  W: P: failed to allocate result
+(6472) 18:43:29.848  W: P: failed to allocate result
+(6472) 18:43:29.867  W: P: failed to allocate result
+(6472) 18:43:29.885  W: P: failed to allocate result
+(6472) 18:43:29.920  W: P: failed to allocate result
+(6472) 18:43:29.940  W: P: failed to allocate result
+(6472) 18:43:29.958  W: P: failed to allocate result
+(6472) 18:43:29.993  W: P: failed to allocate result
+(6472) 18:43:30.014  W: P: failed to allocate result
+(6472) 18:43:30.036  W: P: failed to allocate result
+(6472) 18:43:30.070  W: P: failed to allocate result
+(6472) 18:43:30.091  W: P: failed to allocate result
+(6472) 18:43:30.110  W: P: failed to allocate result
+(6472) 18:43:30.143  W: P: failed to allocate result
+(6472) 18:43:30.162  W: P: failed to allocate result
+(6472) 18:43:30.194  W: P: failed to allocate result
+(6472) 18:43:30.215  W: P: failed to allocate result
+(6472) 18:43:30.234  W: P: failed to allocate result
+(6472) 18:43:30.269  W: P: failed to allocate result
+(6472) 18:43:30.286  W: P: failed to allocate result
+(6472) 18:43:30.305  W: P: failed to allocate result
+(6472) 18:43:30.336  W: P: failed to allocate result
+(6472) 18:43:30.354  W: P: failed to allocate result
+(6472) 18:43:30.387  W: P: failed to allocate result
+(6472) 18:43:30.407  W: P: failed to allocate result
+(6472) 18:43:30.441  W: P: failed to allocate result
+(6472) 18:43:30.463  W: P: failed to allocate result
+(6472) 18:43:30.499  W: P: failed to allocate result
+(6472) 18:43:30.518  W: P: failed to allocate result
+(6472) 18:43:30.539  W: P: failed to allocate result
+(6472) 18:43:30.560  W: P: failed to allocate result
+(6472) 18:43:30.595  W: P: failed to allocate result
+(6472) 18:43:30.615  W: P: failed to allocate result
+(6472) 18:43:30.636  W: P: failed to allocate result
+(6472) 18:43:30.670  W: P: failed to allocate result
+(6472) 18:43:30.688  W: P: failed to allocate result
+(6472) 18:43:30.708  W: P: failed to allocate result
+(6472) 18:43:30.742  W: P: failed to allocate result
+(6472) 18:43:30.762  W: P: failed to allocate result
+(6472) 18:43:30.782  W: P: failed to allocate result
+(6472) 18:43:30.819  W: P: failed to allocate result
+(6472) 18:43:30.876  W: P: failed to allocate result
+(6472) 18:43:30.924  W: P: failed to allocate result
+(6472) 18:43:30.928  W: P: failed to allocate result
+(6472) 18:43:30.939  W: P: failed to allocate result
+(6472) 18:43:30.958  W: P: failed to allocate result
+(6472) 18:43:30.978  W: P: failed to allocate result
+(6472) 18:43:30.997  W: P: failed to allocate result
+(6472) 18:43:31.015  W: P: failed to allocate result
+(6472) 18:43:31.034  W: P: failed to allocate result
+(6472) 18:43:31.055  W: P: failed to allocate result
+(6472) 18:43:31.074  W: P: failed to allocate result
+(6472) 18:43:31.096  W: P: failed to allocate result
+(6472) 18:43:31.116  W: P: failed to allocate result
+(6472) 18:43:31.154  W: P: failed to allocate result
+(6472) 18:43:31.174  W: P: failed to allocate result
+(6472) 18:43:31.196  W: P: failed to allocate result
+(6472) 18:43:31.217  W: P: failed to allocate result
+(6472) 18:43:31.252  W: P: failed to allocate result
+(6472) 18:43:31.271  W: P: failed to allocate result
+(6472) 18:43:31.290  W: P: failed to allocate result
+(6472) 18:43:31.323  W: P: failed to allocate result
+(6472) 18:43:31.342  W: P: failed to allocate result
+(6472) 18:43:31.361  W: P: failed to allocate result
+(6472) 18:43:31.428  W: P: failed to allocate result
+(6472) 18:43:31.449  W: P: failed to allocate result
+(6472) 18:43:31.502  W: P: failed to allocate result
+(6472) 18:43:31.523  W: P: failed to allocate result
+(6472) 18:43:31.547  W: P: failed to allocate result
+(6472) 18:43:31.568  W: P: failed to allocate result
+(6472) 18:43:31.588  W: P: failed to allocate result
+(6472) 18:43:31.607  W: P: failed to allocate result
+(6472) 18:43:31.627  W: P: failed to allocate result
+(6472) 18:43:31.646  W: P: failed to allocate result
+(6472) 18:43:31.665  W: P: failed to allocate result
+(6472) 18:43:31.685  W: P: failed to allocate result
+(6472) 18:43:31.709  W: P: failed to allocate result
+(6472) 18:43:31.729  W: P: failed to allocate result
+(6472) 18:43:31.752  W: P: failed to allocate result
+(6472) 18:43:31.775  W: P: failed to allocate result
+(6472) 18:43:31.794  W: P: failed to allocate result
+(6472) 18:43:31.814  W: P: failed to allocate result
+(6472) 18:43:31.833  W: P: failed to allocate result
+(6472) 18:43:31.852  W: P: failed to allocate result
+(6472) 18:43:31.874  W: P: failed to allocate result
+(6472) 18:43:31.897  W: P: failed to allocate result
+(6472) 18:43:31.919  W: P: failed to allocate result
+(6472) 18:43:31.939  W: P: failed to allocate result
+(6472) 18:43:31.972  W: P: failed to allocate result
+(6472) 18:43:31.991  W: P: failed to allocate result
+(6472) 18:43:32.012  W: P: failed to allocate result
+(6472) 18:43:32.046  W: P: failed to allocate result
+(6472) 18:43:32.067  W: P: failed to allocate result
+(6472) 18:43:32.087  W: P: failed to allocate result
+(6472) 18:43:32.123  W: P: failed to allocate result
+(6472) 18:43:32.143  W: P: failed to allocate result
+(6472) 18:43:32.163  W: P: failed to allocate result
+(6472) 18:43:32.199  W: P: failed to allocate result
+(6472) 18:43:32.220  W: P: failed to allocate result
+(6472) 18:43:32.242  W: P: failed to allocate result
+(6472) 18:43:32.278  W: P: failed to allocate result
+(6472) 18:43:32.300  W: P: failed to allocate result
+(6472) 18:43:32.320  W: P: failed to allocate result
+(6472) 18:43:32.340  W: P: failed to allocate result
+(6472) 18:43:32.379  W: P: failed to allocate result
+(6472) 18:43:32.401  W: P: failed to allocate result
+(6472) 18:43:32.422  W: P: failed to allocate result
+(6472) 18:43:32.443  W: P: failed to allocate result
+(6472) 18:43:32.491  W: P: failed to allocate result
+(6472) 18:43:32.507  W: P: failed to allocate result
+(6472) 18:43:32.527  W: P: failed to allocate result
+(6472) 18:43:32.563  W: P: failed to allocate result
+(6472) 18:43:32.583  W: P: failed to allocate result
+(6472) 18:43:32.602  W: P: failed to allocate result
+(6472) 18:43:32.622  W: P: failed to allocate result
+(6472) 18:43:32.642  W: P: failed to allocate result
+(6472) 18:43:32.662  W: P: failed to allocate result
+(6472) 18:43:32.697  W: P: failed to allocate result
+(6472) 18:43:32.732  W: P: failed to allocate result
+(6472) 18:43:32.752  W: P: failed to allocate result
+(6472) 18:43:32.770  W: P: failed to allocate result
+(6472) 18:43:32.789  W: P: failed to allocate result
+(6472) 18:43:32.807  W: P: failed to allocate result
+(6472) 18:43:32.840  W: P: failed to allocate result
+(6472) 18:43:32.858  W: P: failed to allocate result
+(6472) 18:43:32.881  W: P: failed to allocate result
+(6472) 18:43:32.912  W: P: failed to allocate result
+(6472) 18:43:32.933  W: P: failed to allocate result
+(6472) 18:43:32.953  W: P: failed to allocate result
+(6472) 18:43:32.985  W: P: failed to allocate result
+(6472) 18:43:33.005  W: P: failed to allocate result
+(6472) 18:43:33.041  W: P: failed to allocate result
+(6472) 18:43:33.062  W: P: failed to allocate result
+(6472) 18:43:33.081  W: P: failed to allocate result
+(6472) 18:43:33.117  W: P: failed to allocate result
+(6472) 18:43:33.137  W: P: failed to allocate result
+(6472) 18:43:33.155  W: P: failed to allocate result
+(6472) 18:43:33.190  W: P: failed to allocate result
+(6472) 18:43:33.210  W: P: failed to allocate result
+(6472) 18:43:33.230  W: P: failed to allocate result
+(17996) 18:43:33.239  m: Virtual Memory Usage: 1651 mb
+(6472) 18:43:33.269  W: P: failed to allocate result
+(6472) 18:43:33.289  W: P: failed to allocate result
+(6472) 18:43:33.335  W: P: failed to allocate result
+(6472) 18:43:33.356  W: P: failed to allocate result
+(6472) 18:43:33.376  W: P: failed to allocate result
+(6472) 18:43:33.394  W: P: failed to allocate result
+(6472) 18:43:33.415  W: P: failed to allocate result
+(6472) 18:43:33.436  W: P: failed to allocate result
+(6472) 18:43:33.457  W: P: failed to allocate result
+(6472) 18:43:33.480  W: P: failed to allocate result
+(6472) 18:43:33.516  W: P: failed to allocate result
+(6472) 18:43:33.535  W: P: failed to allocate result
+(6472) 18:43:33.555  W: P: failed to allocate result
+(6472) 18:43:33.575  W: P: failed to allocate result
+(6472) 18:43:33.608  W: P: failed to allocate result
+(6472) 18:43:33.634  W: P: failed to allocate result
+(6472) 18:43:33.652  W: P: failed to allocate result
+(6472) 18:43:33.670  W: P: failed to allocate result
+(6472) 18:43:33.703  W: P: failed to allocate result
+(6472) 18:43:33.721  W: P: failed to allocate result
+(6472) 18:43:33.740  W: P: failed to allocate result
+(6472) 18:43:33.776  W: P: failed to allocate result
+(6472) 18:43:33.796  W: P: failed to allocate result
+(6472) 18:43:33.827  W: P: failed to allocate result
+(6472) 18:43:33.847  W: P: failed to allocate result
+(6472) 18:43:33.895  W: P: failed to allocate result
+(6472) 18:43:33.904  W: P: failed to allocate result
+(6472) 18:43:33.929  W: P: failed to allocate result
+(6472) 18:43:33.950  W: P: failed to allocate result
+(6472) 18:43:33.985  W: P: failed to allocate result
+(6472) 18:43:34.005  W: P: failed to allocate result
+(6472) 18:43:34.024  W: P: failed to allocate result
+(6472) 18:43:34.043  W: P: failed to allocate result
+(6472) 18:43:34.078  W: P: failed to allocate result
+(6472) 18:43:34.100  W: P: failed to allocate result
+(6472) 18:43:34.120  W: P: failed to allocate result
+(6472) 18:43:34.153  W: P: failed to allocate result
+(6472) 18:43:34.171  W: P: failed to allocate result
+(6472) 18:43:34.191  W: P: failed to allocate result
+(6472) 18:43:34.222  W: P: failed to allocate result
+(6472) 18:43:34.242  W: P: failed to allocate result
+(6472) 18:43:34.274  W: P: failed to allocate result
+(6472) 18:43:34.294  W: P: failed to allocate result
+(6472) 18:43:34.328  W: P: failed to allocate result
+(6472) 18:43:34.347  W: P: failed to allocate result
+(6472) 18:43:34.369  W: P: failed to allocate result
+(6472) 18:43:34.403  W: P: failed to allocate result
+(6472) 18:43:34.424  W: P: failed to allocate result
+(6472) 18:43:34.445  W: P: failed to allocate result
+(6472) 18:43:34.480  W: P: failed to allocate result
+(6472) 18:43:34.500  W: P: failed to allocate result
+(6472) 18:43:34.520  W: P: failed to allocate result
+(6472) 18:43:34.553  W: P: failed to allocate result
+(6472) 18:43:34.572  W: P: failed to allocate result
+(6472) 18:43:34.593  W: P: failed to allocate result
+(6472) 18:43:34.628  W: P: failed to allocate result
+(6472) 18:43:34.663  W: P: failed to allocate result
+(6472) 18:43:34.683  W: P: failed to allocate result
+(6472) 18:43:34.704  W: P: failed to allocate result
+(6472) 18:43:34.724  W: P: failed to allocate result
+(6472) 18:43:34.746  W: P: failed to allocate result
+(6472) 18:43:34.767  W: P: failed to allocate result
+(6472) 18:43:34.804  W: P: failed to allocate result
+(6472) 18:43:34.826  W: P: failed to allocate result
+(6472) 18:43:34.848  W: P: failed to allocate result
+(6472) 18:43:34.870  W: P: failed to allocate result
+(6472) 18:43:34.904  W: P: failed to allocate result
+(6472) 18:43:34.924  W: P: failed to allocate result
+(6472) 18:43:34.964  W: P: failed to allocate result
+(6472) 18:43:34.985  W: P: failed to allocate result
+(6472) 18:43:35.005  W: P: failed to allocate result
+(6472) 18:43:35.025  W: P: failed to allocate result
+(6472) 18:43:35.047  W: P: failed to allocate result
+(6472) 18:43:35.067  W: P: failed to allocate result
+(6472) 18:43:35.086  W: P: failed to allocate result
+(6472) 18:43:35.122  W: P: failed to allocate result
+(6472) 18:43:35.141  W: P: failed to allocate result
+(6472) 18:43:35.163  W: P: failed to allocate result
+(6472) 18:43:35.199  W: P: failed to allocate result
+(6472) 18:43:35.218  W: P: failed to allocate result
+(6472) 18:43:35.239  W: P: failed to allocate result
+(6472) 18:43:35.272  W: P: failed to allocate result
+(6472) 18:43:35.289  W: P: failed to allocate result
+(6472) 18:43:35.308  W: P: failed to allocate result
+(6472) 18:43:35.343  W: P: failed to allocate result
+(17996) 18:43:35.356  m: timescale: 2.000000
+(6472) 18:43:35.364  W: P: failed to allocate result
+(6472) 18:43:35.397  W: P: failed to allocate result
+(6472) 18:43:35.416  W: P: failed to allocate result
+(6472) 18:43:35.452  W: P: failed to allocate result
+(6472) 18:43:35.502  W: P: failed to allocate result
+(6472) 18:43:35.535  W: P: failed to allocate result
+(6472) 18:43:35.586  W: P: failed to allocate result
+(6472) 18:43:35.638  W: P: failed to allocate result
+(6472) 18:43:35.685  W: P: failed to allocate result
+(6472) 18:43:35.736  W: P: failed to allocate result
+(6472) 18:43:35.787  W: P: failed to allocate result
+(6472) 18:43:35.836  W: P: failed to allocate result
+(6472) 18:43:35.887  W: P: failed to allocate result
+(6472) 18:43:35.934  W: P: failed to allocate result
+(17996) 18:43:35.945  m: timescale: 1.000000
+(6472) 18:43:35.985  W: P: failed to allocate result
+(6472) 18:43:36.053  W: P: failed to allocate result
+(6472) 18:43:36.118  W: P: failed to allocate result
+(6472) 18:43:36.203  W: P: failed to allocate result
+(6472) 18:43:36.302  W: P: failed to allocate result
+(6472) 18:43:36.402  W: P: failed to allocate result
+(6472) 18:43:36.502  W: P: failed to allocate result
+(6472) 18:43:36.602  W: P: failed to allocate result
+(6472) 18:43:36.702  W: P: failed to allocate result
+(6472) 18:43:36.802  W: P: failed to allocate result
+(6472) 18:43:36.901  W: P: failed to allocate result
+(6472) 18:43:37.002  W: P: failed to allocate result
+(6472) 18:43:37.102  W: P: failed to allocate result
+(6472) 18:43:37.202  W: P: failed to allocate result
+(6472) 18:43:37.303  W: P: failed to allocate result
+(6472) 18:43:37.401  W: P: failed to allocate result
+(6472) 18:43:37.502  W: P: failed to allocate result
+(6472) 18:43:37.602  W: P: failed to allocate result
+(6472) 18:43:37.703  W: P: failed to allocate result
+(6472) 18:43:37.801  W: P: failed to allocate result
+(6472) 18:43:37.903  W: P: failed to allocate result
+(6472) 18:43:38.001  W: P: failed to allocate result
+(6472) 18:43:38.101  W: P: failed to allocate result
+(6472) 18:43:38.201  W: P: failed to allocate result
+(6472) 18:43:38.302  W: P: failed to allocate result
+(6472) 18:43:38.401  W: P: failed to allocate result
+(6472) 18:43:38.502  W: P: failed to allocate result
+(6472) 18:43:38.601  W: P: failed to allocate result
+(6472) 18:43:38.703  W: P: failed to allocate result
+(6472) 18:43:38.844  W: P: failed to allocate result
+(6472) 18:43:38.930  W: P: failed to allocate result
+(6472) 18:43:39.020  W: P: failed to allocate result
+(6472) 18:43:39.104  W: P: failed to allocate result
+(6472) 18:43:39.218  W: P: failed to allocate result
+(6472) 18:43:39.302  W: P: failed to allocate result
+(6472) 18:43:39.402  W: P: failed to allocate result
+(6472) 18:43:39.502  W: P: failed to allocate result
+(6472) 18:43:39.602  W: P: failed to allocate result
+(6472) 18:43:39.703  W: P: failed to allocate result
+(6472) 18:43:39.801  W: P: failed to allocate result
+(6472) 18:43:39.902  W: P: failed to allocate result
+(6472) 18:43:40.003  W: P: failed to allocate result
+(6472) 18:43:40.102  W: P: failed to allocate result
+(6472) 18:43:40.202  W: P: failed to allocate result
+(6472) 18:43:40.303  W: P: failed to allocate result
+(6472) 18:43:40.406  W: P: failed to allocate result
+(6472) 18:43:40.503  W: P: failed to allocate result
+(6472) 18:43:40.604  W: P: failed to allocate result
+(6472) 18:43:40.704  W: P: failed to allocate result
+(6472) 18:43:40.805  W: P: failed to allocate result
+(6472) 18:43:40.904  W: P: failed to allocate result
+(6472) 18:43:41.003  W: P: failed to allocate result
+(6472) 18:43:41.106  W: P: failed to allocate result
+(6472) 18:43:41.204  W: P: failed to allocate result
+(6472) 18:43:41.303  W: P: failed to allocate result
+(6472) 18:43:41.403  W: P: failed to allocate result
+(6472) 18:43:41.503  W: P: failed to allocate result
+(6472) 18:43:41.619  W: P: failed to allocate result
+(6472) 18:43:41.703  W: P: failed to allocate result
+(6472) 18:43:41.803  W: P: failed to allocate result
+(6472) 18:43:41.885  W: P: failed to allocate result
+(6472) 18:43:41.987  W: P: failed to allocate result
+(6472) 18:43:42.086  W: P: failed to allocate result
+(6472) 18:43:42.186  W: P: failed to allocate result
+(6472) 18:43:42.287  W: P: failed to allocate result
+(6472) 18:43:42.385  W: P: failed to allocate result
+(6472) 18:43:42.486  W: P: failed to allocate result
+(6472) 18:43:42.587  W: P: failed to allocate result
+(6472) 18:43:42.685  W: P: failed to allocate result
+(6472) 18:43:42.789  W: P: failed to allocate result
+(6472) 18:43:42.887  W: P: failed to allocate result
+(6472) 18:43:42.988  W: P: failed to allocate result
+(6472) 18:43:43.087  W: P: failed to allocate result
+(6472) 18:43:43.188  W: P: failed to allocate result
+(6472) 18:43:43.286  W: P: failed to allocate result
+(6472) 18:43:43.385  W: P: failed to allocate result
+(6472) 18:43:43.488  W: P: failed to allocate result
+(6472) 18:43:43.586  W: P: failed to allocate result
+(6472) 18:43:43.688  W: P: failed to allocate result
+(6472) 18:43:43.786  W: P: failed to allocate result
+(6472) 18:43:43.886  W: P: failed to allocate result
+(6472) 18:43:43.987  W: P: failed to allocate result
+(6472) 18:43:44.088  W: P: failed to allocate result
+(6472) 18:43:44.187  W: P: failed to allocate result
+(6472) 18:43:44.286  W: P: failed to allocate result
+(6472) 18:43:44.386  W: P: failed to allocate result
+(6472) 18:43:44.486  W: P: failed to allocate result
+(6472) 18:43:44.587  W: P: failed to allocate result
+(6472) 18:43:44.687  W: P: failed to allocate result
+(6472) 18:43:44.787  W: P: failed to allocate result
+(6472) 18:43:44.887  W: P: failed to allocate result
+(6472) 18:43:44.987  W: P: failed to allocate result
+(6472) 18:43:45.086  W: P: failed to allocate result
+(6472) 18:43:45.186  W: P: failed to allocate result
+(6472) 18:43:45.303  W: P: failed to allocate result
+(6472) 18:43:45.403  W: P: failed to allocate result
+(6472) 18:43:45.488  W: P: failed to allocate result
+(6472) 18:43:45.587  W: P: failed to allocate result
+(6472) 18:43:45.688  W: P: failed to allocate result
+(6472) 18:43:45.787  W: P: failed to allocate result
+(6472) 18:43:45.888  W: P: failed to allocate result
+(6472) 18:43:45.986  W: P: failed to allocate result
+(6472) 18:43:46.086  W: P: failed to allocate result
+(6472) 18:43:46.187  W: P: failed to allocate result
+(6472) 18:43:46.286  W: P: failed to allocate result
+(6472) 18:43:46.386  W: P: failed to allocate result
+(6472) 18:43:46.487  W: P: failed to allocate result
+(6472) 18:43:46.587  W: P: failed to allocate result
+(6472) 18:43:46.687  W: P: failed to allocate result
+(6472) 18:43:46.787  W: P: failed to allocate result
+(6472) 18:43:46.886  W: P: failed to allocate result
+(6472) 18:43:46.988  W: P: failed to allocate result
+(6472) 18:43:47.086  W: P: failed to allocate result
+(6472) 18:43:47.187  W: P: failed to allocate result
+(6472) 18:43:47.286  W: P: failed to allocate result
+(6472) 18:43:47.387  W: P: failed to allocate result
+(6472) 18:43:47.487  W: P: failed to allocate result
+(6472) 18:43:47.587  W: P: failed to allocate result
+(6472) 18:43:47.688  W: P: failed to allocate result
+(6472) 18:43:47.787  W: P: failed to allocate result
+(6472) 18:43:47.886  W: P: failed to allocate result
+(6472) 18:43:47.985  W: P: failed to allocate result
+(6472) 18:43:48.087  W: P: failed to allocate result
+(6472) 18:43:48.187  W: P: failed to allocate result
+(6472) 18:43:48.286  W: P: failed to allocate result
+(6472) 18:43:48.386  W: P: failed to allocate result
+(6472) 18:43:48.486  W: P: failed to allocate result
+(6472) 18:43:48.604  W: P: failed to allocate result
+(6472) 18:43:48.689  W: P: failed to allocate result
+(6472) 18:43:48.787  W: P: failed to allocate result
+(6472) 18:43:48.887  W: P: failed to allocate result
+(6472) 18:43:48.986  W: P: failed to allocate result
+(6472) 18:43:49.087  W: P: failed to allocate result
+(6472) 18:43:49.187  W: P: failed to allocate result
+(6472) 18:43:49.285  W: P: failed to allocate result
+(6472) 18:43:49.386  W: P: failed to allocate result
+(6472) 18:43:49.486  W: P: failed to allocate result
+(6472) 18:43:49.586  W: P: failed to allocate result
+(6472) 18:43:49.687  W: P: failed to allocate result
+(6472) 18:43:49.785  W: P: failed to allocate result
+(6472) 18:43:49.885  W: P: failed to allocate result
+(6472) 18:43:49.988  W: P: failed to allocate result
+(6472) 18:43:50.087  W: P: failed to allocate result
+(6472) 18:43:50.185  W: P: failed to allocate result
+(6472) 18:43:50.290  W: P: failed to allocate result
+(6472) 18:43:50.385  W: P: failed to allocate result
+(6472) 18:43:50.486  W: P: failed to allocate result
+(6472) 18:43:50.586  W: P: failed to allocate result
+(6472) 18:43:50.686  W: P: failed to allocate result
+(6472) 18:43:50.788  W: P: failed to allocate result
+(6472) 18:43:50.903  W: P: failed to allocate result
+(6472) 18:43:50.985  W: P: failed to allocate result
+(6472) 18:43:51.087  W: P: failed to allocate result
+(6472) 18:43:51.186  W: P: failed to allocate result
+(6472) 18:43:51.288  W: P: failed to allocate result
+(6472) 18:43:51.387  W: P: failed to allocate result
+(6472) 18:43:51.489  W: P: failed to allocate result
+(6472) 18:43:51.586  W: P: failed to allocate result
+(6472) 18:43:51.688  W: P: failed to allocate result
+(6472) 18:43:51.789  W: P: failed to allocate result
+(6472) 18:43:51.886  W: P: failed to allocate result
+(6472) 18:43:51.988  W: P: failed to allocate result
+(6472) 18:43:52.088  W: P: failed to allocate result
+(6472) 18:43:52.188  W: P: failed to allocate result
+(6472) 18:43:52.289  W: P: failed to allocate result
+(6472) 18:43:52.388  W: P: failed to allocate result
+(6472) 18:43:52.487  W: P: failed to allocate result
+(6472) 18:43:52.587  W: P: failed to allocate result
+(6472) 18:43:52.687  W: P: failed to allocate result
+(6472) 18:43:52.787  W: P: failed to allocate result
+(6472) 18:43:52.886  W: P: failed to allocate result
+(6472) 18:43:52.986  W: P: failed to allocate result
+(6472) 18:43:53.086  W: P: failed to allocate result
+(6472) 18:43:53.188  W: P: failed to allocate result
+(6472) 18:43:53.288  W: P: failed to allocate result
+(6472) 18:43:53.388  W: P: failed to allocate result
+(6472) 18:43:53.488  W: P: failed to allocate result
+(6472) 18:43:53.586  W: P: failed to allocate result
+(6472) 18:43:53.670  W: P: failed to allocate result
+(6472) 18:43:53.771  W: P: failed to allocate result
+(6472) 18:43:53.871  W: P: failed to allocate result
+(6472) 18:43:53.968  W: P: failed to allocate result
+(6472) 18:43:54.070  W: P: failed to allocate result
+(6472) 18:43:54.168  W: P: failed to allocate result
+(6472) 18:43:54.271  W: P: failed to allocate result
+(6472) 18:43:54.370  W: P: failed to allocate result
+(6472) 18:43:54.469  W: P: failed to allocate result
+(6472) 18:43:54.572  W: P: failed to allocate result
+(6472) 18:43:54.670  W: P: failed to allocate result
+(6472) 18:43:54.771  W: P: failed to allocate result
+(6472) 18:43:54.887  W: P: failed to allocate result
+(6472) 18:43:54.986  W: P: failed to allocate result
+(6472) 18:43:55.069  W: P: failed to allocate result
+(6472) 18:43:55.187  W: P: failed to allocate result
+(6472) 18:43:55.289  W: P: failed to allocate result
+(6472) 18:43:55.370  W: P: failed to allocate result
+(6472) 18:43:55.470  W: P: failed to allocate result
+(6472) 18:43:55.570  W: P: failed to allocate result
+(6472) 18:43:55.670  W: P: failed to allocate result
+(6472) 18:43:55.769  W: P: failed to allocate result
+(6472) 18:43:55.872  W: P: failed to allocate result
+(6472) 18:43:55.970  W: P: failed to allocate result
+(6472) 18:43:56.071  W: P: failed to allocate result
+(6472) 18:43:56.171  W: P: failed to allocate result
+(6472) 18:43:56.270  W: P: failed to allocate result
+(6472) 18:43:56.370  W: P: failed to allocate result
+(6472) 18:43:56.471  W: P: failed to allocate result
+(6472) 18:43:56.570  W: P: failed to allocate result
+(6472) 18:43:56.687  W: P: failed to allocate result
+(6472) 18:43:56.787  W: P: failed to allocate result
+(6472) 18:43:56.871  W: P: failed to allocate result
+(6472) 18:43:56.973  W: P: failed to allocate result
+(6472) 18:43:57.070  W: P: failed to allocate result
+(6472) 18:43:57.170  W: P: failed to allocate result
+(6472) 18:43:57.270  W: P: failed to allocate result
+(6472) 18:43:57.370  W: P: failed to allocate result
+(6472) 18:43:57.469  W: P: failed to allocate result
+(6472) 18:43:57.571  W: P: failed to allocate result
+(6472) 18:43:57.670  W: P: failed to allocate result
+(6472) 18:43:57.769  W: P: failed to allocate result
+(6472) 18:43:57.885  W: P: failed to allocate result
+(6472) 18:43:57.987  W: P: failed to allocate result
+(6472) 18:43:58.070  W: P: failed to allocate result
+(6472) 18:43:58.170  W: P: failed to allocate result
+(6472) 18:43:58.273  W: P: failed to allocate result
+(6472) 18:43:58.370  W: P: failed to allocate result
+(6472) 18:43:58.470  W: P: failed to allocate result
+(6472) 18:43:58.572  W: P: failed to allocate result
+(6472) 18:43:58.674  W: P: failed to allocate result
+(6472) 18:43:58.771  W: P: failed to allocate result
+(6472) 18:43:58.870  W: P: failed to allocate result
+(6472) 18:43:58.970  W: P: failed to allocate result
+(6472) 18:43:59.071  W: P: failed to allocate result
+(6472) 18:43:59.170  W: P: failed to allocate result
+(6472) 18:43:59.274  W: P: failed to allocate result
+(6472) 18:43:59.371  W: P: failed to allocate result
+(6472) 18:43:59.471  W: P: failed to allocate result
+(6472) 18:43:59.571  W: P: failed to allocate result
+(6472) 18:43:59.670  W: P: failed to allocate result
+(6472) 18:43:59.772  W: P: failed to allocate result
+(6472) 18:43:59.888  W: P: failed to allocate result
+(6472) 18:43:59.970  W: P: failed to allocate result
+(6472) 18:44:00.073  W: P: failed to allocate result
+(6472) 18:44:00.173  W: P: failed to allocate result
+(6472) 18:44:00.271  W: P: failed to allocate result
+(6472) 18:44:00.372  W: P: failed to allocate result
+(6472) 18:44:00.472  W: P: failed to allocate result
+(6472) 18:44:00.571  W: P: failed to allocate result
+(6472) 18:44:00.672  W: P: failed to allocate result
+(6472) 18:44:00.775  W: P: failed to allocate result
+(6472) 18:44:00.871  W: P: failed to allocate result
+(6472) 18:44:00.973  W: P: failed to allocate result
+(6472) 18:44:01.071  W: P: failed to allocate result
+(6472) 18:44:01.201  W: P: failed to allocate result
+(6472) 18:44:01.287  W: P: failed to allocate result
+(6472) 18:44:01.388  W: P: failed to allocate result
+(6472) 18:44:01.487  W: P: failed to allocate result
+(6472) 18:44:01.582  W: P: failed to allocate result
+(6472) 18:44:01.671  W: P: failed to allocate result
+(6472) 18:44:01.771  W: P: failed to allocate result
+(6472) 18:44:01.870  W: P: failed to allocate result
+(6472) 18:44:01.969  W: P: failed to allocate result
+(6472) 18:44:02.070  W: P: failed to allocate result
+(6472) 18:44:02.169  W: P: failed to allocate result
+(6472) 18:44:02.269  W: P: failed to allocate result
+(6472) 18:44:02.369  W: P: failed to allocate result
+(6472) 18:44:02.470  W: P: failed to allocate result
+(6472) 18:44:02.571  W: P: failed to allocate result
+(6472) 18:44:02.654  W: P: failed to allocate result
+(6472) 18:44:02.754  W: P: failed to allocate result
+(6472) 18:44:02.853  W: P: failed to allocate result
+(6472) 18:44:02.952  W: P: failed to allocate result
+(6472) 18:44:03.053  W: P: failed to allocate result
+(6472) 18:44:03.154  W: P: failed to allocate result
+(17996) 18:44:03.240  m: Virtual Memory Usage: 1653 mb
+(6472) 18:44:03.255  W: P: failed to allocate result
+(6472) 18:44:03.353  W: P: failed to allocate result
+(6472) 18:44:03.454  W: P: failed to allocate result
+(6472) 18:44:03.552  W: P: failed to allocate result
+(6472) 18:44:03.653  W: P: failed to allocate result
+(6472) 18:44:03.754  W: P: failed to allocate result
+(6472) 18:44:03.853  W: P: failed to allocate result
+(6472) 18:44:03.956  W: P: failed to allocate result
+(6472) 18:44:04.053  W: P: failed to allocate result
+(6472) 18:44:04.155  W: P: failed to allocate result
+(6472) 18:44:04.253  W: P: failed to allocate result
+(6472) 18:44:04.352  W: P: failed to allocate result
+(6472) 18:44:04.452  W: P: failed to allocate result
+(6472) 18:44:04.551  W: P: failed to allocate result
+(6472) 18:44:04.652  W: P: failed to allocate result
+(6472) 18:44:04.751  W: P: failed to allocate result
+(6472) 18:44:04.853  W: P: failed to allocate result
+(6472) 18:44:04.952  W: P: failed to allocate result
+(6472) 18:44:05.054  W: P: failed to allocate result
+(6472) 18:44:05.152  W: P: failed to allocate result
+(6472) 18:44:05.254  W: P: failed to allocate result
+(6472) 18:44:05.351  W: P: failed to allocate result
+(6472) 18:44:05.453  W: P: failed to allocate result
+(6472) 18:44:05.552  W: P: failed to allocate result
+(6472) 18:44:05.655  W: P: failed to allocate result
+(6472) 18:44:05.753  W: P: failed to allocate result
+(6472) 18:44:05.851  W: P: failed to allocate result
+(6472) 18:44:05.953  W: P: failed to allocate result
+(6472) 18:44:06.052  W: P: failed to allocate result
+(6472) 18:44:06.152  W: P: failed to allocate result
+(6472) 18:44:06.253  W: P: failed to allocate result
+(6472) 18:44:06.351  W: P: failed to allocate result
+(6472) 18:44:06.451  W: P: failed to allocate result
+(6472) 18:44:06.551  W: P: failed to allocate result
+(6472) 18:44:06.652  W: P: failed to allocate result
+(6472) 18:44:06.752  W: P: failed to allocate result
+(6472) 18:44:06.853  W: P: failed to allocate result
+(6472) 18:44:06.952  W: P: failed to allocate result
+(6472) 18:44:07.052  W: P: failed to allocate result
+(6472) 18:44:07.151  W: P: failed to allocate result
+(6472) 18:44:07.252  W: P: failed to allocate result
+(6472) 18:44:07.352  W: P: failed to allocate result
+(6472) 18:44:07.452  W: P: failed to allocate result
+(6472) 18:44:07.552  W: P: failed to allocate result
+(6472) 18:44:07.652  W: P: failed to allocate result
+(6472) 18:44:07.752  W: P: failed to allocate result
+(6472) 18:44:07.854  W: P: failed to allocate result
+(6472) 18:44:07.953  W: P: failed to allocate result
+(6472) 18:44:08.052  W: P: failed to allocate result
+(6472) 18:44:08.154  W: P: failed to allocate result
+(6472) 18:44:08.255  W: P: failed to allocate result
+(6472) 18:44:08.352  W: P: failed to allocate result
+(6472) 18:44:08.452  W: P: failed to allocate result
+(6472) 18:44:08.551  W: P: failed to allocate result
+(6472) 18:44:08.652  W: P: failed to allocate result
+(6472) 18:44:08.752  W: P: failed to allocate result
+(6472) 18:44:08.860  W: P: failed to allocate result
+(6472) 18:44:08.954  W: P: failed to allocate result
+(6472) 18:44:09.052  W: P: failed to allocate result
+(6472) 18:44:09.152  W: P: failed to allocate result
+(6472) 18:44:09.253  W: P: failed to allocate result
+(6472) 18:44:09.354  W: P: failed to allocate result
+(6472) 18:44:09.452  W: P: failed to allocate result
+(6472) 18:44:09.573  W: P: failed to allocate result
+(6472) 18:44:09.670  W: P: failed to allocate result
+(6472) 18:44:09.769  W: P: failed to allocate result
+(6472) 18:44:09.852  W: P: failed to allocate result
+(6472) 18:44:09.952  W: P: failed to allocate result
+(6472) 18:44:10.054  W: P: failed to allocate result
+(6472) 18:44:10.153  W: P: failed to allocate result
+(6472) 18:44:10.253  W: P: failed to allocate result
+(6472) 18:44:10.358  W: P: failed to allocate result
+(6472) 18:44:10.454  W: P: failed to allocate result
+(6472) 18:44:10.554  W: P: failed to allocate result
+(6472) 18:44:10.653  W: P: failed to allocate result
+(6472) 18:44:10.753  W: P: failed to allocate result
+(6472) 18:44:10.854  W: P: failed to allocate result
+(6472) 18:44:10.953  W: P: failed to allocate result
+(6472) 18:44:11.053  W: P: failed to allocate result
+(6472) 18:44:11.154  W: P: failed to allocate result
+(6472) 18:44:11.253  W: P: failed to allocate result
+(6472) 18:44:11.353  W: P: failed to allocate result
+(6472) 18:44:11.453  W: P: failed to allocate result
+(6472) 18:44:11.553  W: P: failed to allocate result
+(6472) 18:44:11.653  W: P: failed to allocate result
+(6472) 18:44:11.755  W: P: failed to allocate result
+(6472) 18:44:11.853  W: P: failed to allocate result
+(6472) 18:44:11.952  W: P: failed to allocate result
+(6472) 18:44:12.054  W: P: failed to allocate result
+(6472) 18:44:12.153  W: P: failed to allocate result
+(6472) 18:44:12.254  W: P: failed to allocate result
+(6472) 18:44:12.356  W: P: failed to allocate result
+(6472) 18:44:12.453  W: P: failed to allocate result
+(6472) 18:44:12.570  W: P: failed to allocate result
+(6472) 18:44:12.653  W: P: failed to allocate result
+(6472) 18:44:12.753  W: P: failed to allocate result
+(6472) 18:44:12.854  W: P: failed to allocate result
+(6472) 18:44:12.955  W: P: failed to allocate result
+(6472) 18:44:13.055  W: P: failed to allocate result
+(6472) 18:44:13.155  W: P: failed to allocate result
+(6472) 18:44:13.254  W: P: failed to allocate result
+(6472) 18:44:13.354  W: P: failed to allocate result
+(6472) 18:44:13.455  W: P: failed to allocate result
+(6472) 18:44:13.556  W: P: failed to allocate result
+(6472) 18:44:13.654  W: P: failed to allocate result
+(6472) 18:44:13.754  W: P: failed to allocate result
+(6472) 18:44:13.854  W: P: failed to allocate result
+(6472) 18:44:13.952  W: P: failed to allocate result
+(6472) 18:44:14.055  W: P: failed to allocate result
+(6472) 18:44:14.153  W: P: failed to allocate result
+(6472) 18:44:14.255  W: P: failed to allocate result
+(6472) 18:44:14.352  W: P: failed to allocate result
+(6472) 18:44:14.454  W: P: failed to allocate result
+(6472) 18:44:14.571  W: P: failed to allocate result
+(17996) 18:44:14.646  d: Nature map advance, B on Center targeted at 15
+(17996) 18:44:14.646  d: Nature map state, A @ 112->110->110, B @ 107->110->110
+(6472) 18:44:14.654  W: P: failed to allocate result
+(6472) 18:44:14.755  W: P: failed to allocate result
+(6472) 18:44:14.857  W: P: failed to allocate result
+(6472) 18:44:14.956  W: P: failed to allocate result
+(6472) 18:44:15.055  W: P: failed to allocate result
+(6472) 18:44:15.155  W: P: failed to allocate result
+(6472) 18:44:15.255  W: P: failed to allocate result
+(6472) 18:44:15.356  W: P: failed to allocate result
+(6472) 18:44:15.455  W: P: failed to allocate result
+(6472) 18:44:15.555  W: P: failed to allocate result
+(6472) 18:44:15.654  W: P: failed to allocate result
+(6472) 18:44:15.755  W: P: failed to allocate result
+(6472) 18:44:15.854  W: P: failed to allocate result
+(6472) 18:44:15.954  W: P: failed to allocate result
+(6472) 18:44:16.055  W: P: failed to allocate result
+(6472) 18:44:16.154  W: P: failed to allocate result
+(6472) 18:44:16.254  W: P: failed to allocate result
+(6472) 18:44:16.353  W: P: failed to allocate result
+(6472) 18:44:16.452  W: P: failed to allocate result
+(6472) 18:44:16.554  W: P: failed to allocate result
+(6472) 18:44:16.655  W: P: failed to allocate result
+(6472) 18:44:16.753  W: P: failed to allocate result
+(6472) 18:44:16.855  W: P: failed to allocate result
+(6472) 18:44:16.954  W: P: failed to allocate result
+(6472) 18:44:17.054  W: P: failed to allocate result
+(6472) 18:44:17.155  W: P: failed to allocate result
+(6472) 18:44:17.265  W: P: failed to allocate result
+(6472) 18:44:17.336  W: P: failed to allocate result
+(6472) 18:44:17.437  W: P: failed to allocate result
+(6472) 18:44:17.555  W: P: failed to allocate result
+(6472) 18:44:17.654  W: P: failed to allocate result
+(6472) 18:44:17.752  W: P: failed to allocate result
+(6472) 18:44:17.853  W: P: failed to allocate result
+(6472) 18:44:17.954  W: P: failed to allocate result
+(6472) 18:44:18.054  W: P: failed to allocate result
+(6472) 18:44:18.154  W: P: failed to allocate result
+(6472) 18:44:18.255  W: P: failed to allocate result
+(6472) 18:44:18.354  W: P: failed to allocate result
+(6472) 18:44:18.455  W: P: failed to allocate result
+(6472) 18:44:18.553  W: P: failed to allocate result
+(6472) 18:44:18.639  W: P: failed to allocate result
+(6472) 18:44:18.737  W: P: failed to allocate result
+(6472) 18:44:18.837  W: P: failed to allocate result
+(6472) 18:44:18.937  W: P: failed to allocate result
+(6472) 18:44:19.036  W: P: failed to allocate result
+(6472) 18:44:19.153  W: P: failed to allocate result
+(6472) 18:44:19.253  W: P: failed to allocate result
+(6472) 18:44:19.353  W: P: failed to allocate result
+(6472) 18:44:19.437  W: P: failed to allocate result
+(6472) 18:44:19.538  W: P: failed to allocate result
+(6472) 18:44:19.636  W: P: failed to allocate result
+(6472) 18:44:19.737  W: P: failed to allocate result
+(6472) 18:44:19.837  W: P: failed to allocate result
+(6472) 18:44:19.938  W: P: failed to allocate result
+(6472) 18:44:20.036  W: P: failed to allocate result
+(6472) 18:44:20.138  W: P: failed to allocate result
+(6472) 18:44:20.238  W: P: failed to allocate result
+(6472) 18:44:20.337  W: P: failed to allocate result
+(6472) 18:44:20.437  W: P: failed to allocate result
+(6472) 18:44:20.538  W: P: failed to allocate result
+(6472) 18:44:20.636  W: P: failed to allocate result
+(6472) 18:44:20.739  W: P: failed to allocate result
+(6472) 18:44:20.837  W: P: failed to allocate result
+(6472) 18:44:20.939  W: P: failed to allocate result
+(6472) 18:44:21.039  W: P: failed to allocate result
+(6472) 18:44:21.138  W: P: failed to allocate result
+(6472) 18:44:21.241  W: P: failed to allocate result
+(6472) 18:44:21.337  W: P: failed to allocate result
+(6472) 18:44:21.437  W: P: failed to allocate result
+(6472) 18:44:21.537  W: P: failed to allocate result
+(6472) 18:44:21.654  W: P: failed to allocate result
+(6472) 18:44:21.754  W: P: failed to allocate result
+(6472) 18:44:21.837  W: P: failed to allocate result
+(6472) 18:44:21.939  W: P: failed to allocate result
+(6472) 18:44:22.038  W: P: failed to allocate result
+(6472) 18:44:22.138  W: P: failed to allocate result
+(6472) 18:44:22.239  W: P: failed to allocate result
+(6472) 18:44:22.337  W: P: failed to allocate result
+(6472) 18:44:22.438  W: P: failed to allocate result
+(6472) 18:44:22.538  W: P: failed to allocate result
+(6472) 18:44:22.638  W: P: failed to allocate result
+(6472) 18:44:22.737  W: P: failed to allocate result
+(6472) 18:44:22.836  W: P: failed to allocate result
+(6472) 18:44:22.939  W: P: failed to allocate result
+(6472) 18:44:23.037  W: P: failed to allocate result
+(6472) 18:44:23.139  W: P: failed to allocate result
+(6472) 18:44:23.237  W: P: failed to allocate result
+(6472) 18:44:23.337  W: P: failed to allocate result
+(6472) 18:44:23.437  W: P: failed to allocate result
+(6472) 18:44:23.538  W: P: failed to allocate result
+(6472) 18:44:23.649  W: P: failed to allocate result
+(6472) 18:44:23.737  W: P: failed to allocate result
+(6472) 18:44:23.837  W: P: failed to allocate result
+(6472) 18:44:23.936  W: P: failed to allocate result
+(6472) 18:44:24.039  W: P: failed to allocate result
+(6472) 18:44:24.137  W: P: failed to allocate result
+(6472) 18:44:24.238  W: P: failed to allocate result
+(6472) 18:44:24.336  W: P: failed to allocate result
+(6472) 18:44:24.438  W: P: failed to allocate result
+(6472) 18:44:24.539  W: P: failed to allocate result
+(6472) 18:44:24.637  W: P: failed to allocate result
+(6472) 18:44:24.739  W: P: failed to allocate result
+(6472) 18:44:24.837  W: P: failed to allocate result
+(6472) 18:44:24.937  W: P: failed to allocate result
+(6472) 18:44:25.037  W: P: failed to allocate result
+(6472) 18:44:25.137  W: P: failed to allocate result
+(6472) 18:44:25.238  W: P: failed to allocate result
+(6472) 18:44:25.338  W: P: failed to allocate result
+(6472) 18:44:25.438  W: P: failed to allocate result
+(6472) 18:44:25.536  W: P: failed to allocate result
+(6472) 18:44:25.637  W: P: failed to allocate result
+(6472) 18:44:25.740  W: P: failed to allocate result
+(6472) 18:44:25.838  W: P: failed to allocate result
+(6472) 18:44:25.937  W: P: failed to allocate result
+(6472) 18:44:26.037  W: P: failed to allocate result
+(6472) 18:44:26.139  W: P: failed to allocate result
+(6472) 18:44:26.237  W: P: failed to allocate result
+(6472) 18:44:26.338  W: P: failed to allocate result
+(6472) 18:44:26.439  W: P: failed to allocate result
+(6472) 18:44:26.538  W: P: failed to allocate result
+(6472) 18:44:26.639  W: P: failed to allocate result
+(6472) 18:44:26.739  W: P: failed to allocate result
+(6472) 18:44:26.837  W: P: failed to allocate result
+(6472) 18:44:26.939  W: P: failed to allocate result
+(6472) 18:44:27.037  W: P: failed to allocate result
+(6472) 18:44:27.139  W: P: failed to allocate result
+(6472) 18:44:27.239  W: P: failed to allocate result
+(6472) 18:44:27.338  W: P: failed to allocate result
+(6472) 18:44:27.437  W: P: failed to allocate result
+(6472) 18:44:27.539  W: P: failed to allocate result
+(6472) 18:44:27.637  W: P: failed to allocate result
+(6472) 18:44:27.738  W: P: failed to allocate result
+(6472) 18:44:27.837  W: P: failed to allocate result
+(6472) 18:44:27.939  W: P: failed to allocate result
+(6472) 18:44:28.038  W: P: failed to allocate result
+(6472) 18:44:28.142  W: P: failed to allocate result
+(6472) 18:44:28.238  W: P: failed to allocate result
+(6472) 18:44:28.338  W: P: failed to allocate result
+(6472) 18:44:28.438  W: P: failed to allocate result
+(6472) 18:44:28.538  W: P: failed to allocate result
+(6472) 18:44:28.638  W: P: failed to allocate result
+(6472) 18:44:28.736  W: P: failed to allocate result
+(6472) 18:44:28.836  W: P: failed to allocate result
+(6472) 18:44:28.937  W: P: failed to allocate result
+(6472) 18:44:29.041  W: P: failed to allocate result
+(6472) 18:44:29.137  W: P: failed to allocate result
+(6472) 18:44:29.238  W: P: failed to allocate result
+(6472) 18:44:29.337  W: P: failed to allocate result
+(6472) 18:44:29.438  W: P: failed to allocate result
+(6472) 18:44:29.538  W: P: failed to allocate result
+(6472) 18:44:29.638  W: P: failed to allocate result
+(6472) 18:44:29.737  W: P: failed to allocate result
+(6472) 18:44:29.838  W: P: failed to allocate result
+(6472) 18:44:29.938  W: P: failed to allocate result
+(6472) 18:44:30.038  W: P: failed to allocate result
+(6472) 18:44:30.139  W: P: failed to allocate result
+(6472) 18:44:30.238  W: P: failed to allocate result
+(6472) 18:44:30.338  W: P: failed to allocate result
+(6472) 18:44:30.439  W: P: failed to allocate result
+(6472) 18:44:30.538  W: P: failed to allocate result
+(6472) 18:44:30.639  W: P: failed to allocate result
+(6472) 18:44:30.736  W: P: failed to allocate result
+(6472) 18:44:30.838  W: P: failed to allocate result
+(6472) 18:44:30.939  W: P: failed to allocate result
+(6472) 18:44:31.039  W: P: failed to allocate result
+(6472) 18:44:31.138  W: P: failed to allocate result
+(6472) 18:44:31.237  W: P: failed to allocate result
+(6472) 18:44:31.336  W: P: failed to allocate result
+(6472) 18:44:31.442  W: P: failed to allocate result
+(6472) 18:44:31.536  W: P: failed to allocate result
+(6472) 18:44:31.641  W: P: failed to allocate result
+(6472) 18:44:31.738  W: P: failed to allocate result
+(6472) 18:44:31.837  W: P: failed to allocate result
+(6472) 18:44:31.942  W: P: failed to allocate result
+(6472) 18:44:32.038  W: P: failed to allocate result
+(6472) 18:44:32.139  W: P: failed to allocate result
+(6472) 18:44:32.238  W: P: failed to allocate result
+(6472) 18:44:32.340  W: P: failed to allocate result
+(6472) 18:44:32.440  W: P: failed to allocate result
+(6472) 18:44:32.555  W: P: failed to allocate result
+(6472) 18:44:32.638  W: P: failed to allocate result
+(6472) 18:44:32.738  W: P: failed to allocate result
+(6472) 18:44:32.841  W: P: failed to allocate result
+(6472) 18:44:32.938  W: P: failed to allocate result
+(6472) 18:44:33.039  W: P: failed to allocate result
+(6472) 18:44:33.138  W: P: failed to allocate result
+(6472) 18:44:33.239  W: P: failed to allocate result
+(17996) 18:44:33.247  m: Virtual Memory Usage: 1657 mb
+(6472) 18:44:33.337  W: P: failed to allocate result
+(6472) 18:44:33.437  W: P: failed to allocate result
+(6472) 18:44:33.538  W: P: failed to allocate result
+(6472) 18:44:33.639  W: P: failed to allocate result
+(6472) 18:44:33.743  W: P: failed to allocate result
+(6472) 18:44:33.837  W: P: failed to allocate result
+(6472) 18:44:33.939  W: P: failed to allocate result
+(6472) 18:44:34.038  W: P: failed to allocate result
+(6472) 18:44:34.138  W: P: failed to allocate result
+(6472) 18:44:34.237  W: P: failed to allocate result
+(6472) 18:44:34.338  W: P: failed to allocate result
+(6472) 18:44:34.437  W: P: failed to allocate result
+(6472) 18:44:34.538  W: P: failed to allocate result
+(6472) 18:44:34.639  W: P: failed to allocate result
+(6472) 18:44:34.737  W: P: failed to allocate result
+(6472) 18:44:34.837  W: P: failed to allocate result
+(6472) 18:44:34.937  W: P: failed to allocate result
+(6472) 18:44:35.039  W: P: failed to allocate result
+(6472) 18:44:35.139  W: P: failed to allocate result
+(6472) 18:44:35.238  W: P: failed to allocate result
+(17996) 18:44:35.334  d: Nature map advance, B on Center targeted at 20
+(17996) 18:44:35.334  d: Nature map state, A @ 112->110->110, B @ 158->160->160
+(6472) 18:44:35.339  W: P: failed to allocate result
+(6472) 18:44:35.439  W: P: failed to allocate result
+(6472) 18:44:35.539  W: P: failed to allocate result
+(6472) 18:44:35.639  W: P: failed to allocate result
+(6472) 18:44:35.738  W: P: failed to allocate result
+(6472) 18:44:35.839  W: P: failed to allocate result
+(6472) 18:44:35.940  W: P: failed to allocate result
+(6472) 18:44:36.040  W: P: failed to allocate result
+(6472) 18:44:36.139  W: P: failed to allocate result
+(6472) 18:44:36.239  W: P: failed to allocate result
+(6472) 18:44:36.342  W: P: failed to allocate result
+(6472) 18:44:36.439  W: P: failed to allocate result
+(6472) 18:44:36.539  W: P: failed to allocate result
+(6472) 18:44:36.640  W: P: failed to allocate result
+(6472) 18:44:36.740  W: P: failed to allocate result
+(6472) 18:44:36.856  W: P: failed to allocate result
+(6472) 18:44:36.940  W: P: failed to allocate result
+(6472) 18:44:37.039  W: P: failed to allocate result
+(6472) 18:44:37.122  W: P: failed to allocate result
+(6472) 18:44:37.220  W: P: failed to allocate result
+(6472) 18:44:37.321  W: P: failed to allocate result
+(6472) 18:44:37.439  W: P: failed to allocate result
+(6472) 18:44:37.537  W: P: failed to allocate result
+(6472) 18:44:37.640  W: P: failed to allocate result
+(6472) 18:44:37.724  W: P: failed to allocate result
+(6472) 18:44:37.821  W: P: failed to allocate result
+(6472) 18:44:37.922  W: P: failed to allocate result
+(6472) 18:44:38.023  W: P: failed to allocate result
+(6472) 18:44:38.122  W: P: failed to allocate result
+(6472) 18:44:38.222  W: P: failed to allocate result
+(6472) 18:44:38.321  W: P: failed to allocate result
+(6472) 18:44:38.423  W: P: failed to allocate result
+(6472) 18:44:38.523  W: P: failed to allocate result
+(6472) 18:44:38.622  W: P: failed to allocate result
+(6472) 18:44:38.721  W: P: failed to allocate result
+(6472) 18:44:38.830  W: P: failed to allocate result
+(6472) 18:44:38.924  W: P: failed to allocate result
+(6472) 18:44:39.022  W: P: failed to allocate result
+(6472) 18:44:39.140  W: P: failed to allocate result
+(6472) 18:44:39.251  W: P: failed to allocate result
+(6472) 18:44:39.356  W: P: failed to allocate result
+(6472) 18:44:39.455  W: P: failed to allocate result
+(6472) 18:44:39.539  W: P: failed to allocate result
+(6472) 18:44:39.634  W: P: failed to allocate result
+(6472) 18:44:39.715  W: P: failed to allocate result
+(6472) 18:44:39.812  W: P: failed to allocate result
+(6472) 18:44:39.905  W: P: failed to allocate result
+(6472) 18:44:40.005  W: P: failed to allocate result
+(6472) 18:44:40.112  W: P: failed to allocate result
+(17996) 18:44:40.181  m: timescale: 2.000000
+(6472) 18:44:40.205  W: P: failed to allocate result
+(6472) 18:44:40.293  W: P: failed to allocate result
+(6472) 18:44:40.341  W: P: failed to allocate result
+(6472) 18:44:40.389  W: P: failed to allocate result
+(6472) 18:44:40.439  W: P: failed to allocate result
+(17996) 18:44:40.450  m: timescale: 4.000000
+(6472) 18:44:40.489  W: P: failed to allocate result
+(6472) 18:44:40.522  W: P: failed to allocate result
+(6472) 18:44:40.555  W: P: failed to allocate result
+(6472) 18:44:40.574  W: P: failed to allocate result
+(6472) 18:44:40.608  W: P: failed to allocate result
+(6472) 18:44:40.628  W: P: failed to allocate result
+(6472) 18:44:40.648  W: P: failed to allocate result
+(6472) 18:44:40.680  W: P: failed to allocate result
+(6472) 18:44:40.702  W: P: failed to allocate result
+(6472) 18:44:40.741  W: P: failed to allocate result
+(6472) 18:44:40.765  W: P: failed to allocate result
+(6472) 18:44:40.787  W: P: failed to allocate result
+(6472) 18:44:40.806  W: P: failed to allocate result
+(6472) 18:44:40.827  W: P: failed to allocate result
+(6472) 18:44:40.858  W: P: failed to allocate result
+(6472) 18:44:40.877  W: P: failed to allocate result
+(6472) 18:44:40.897  W: P: failed to allocate result
+(6472) 18:44:40.928  W: P: failed to allocate result
+(6472) 18:44:40.949  W: P: failed to allocate result
+(6472) 18:44:40.978  W: P: failed to allocate result
+(6472) 18:44:40.997  W: P: failed to allocate result
+(6472) 18:44:41.030  W: P: failed to allocate result
+(6472) 18:44:41.051  W: P: failed to allocate result
+(6472) 18:44:41.084  W: P: failed to allocate result
+(6472) 18:44:41.103  W: P: failed to allocate result
+(6472) 18:44:41.123  W: P: failed to allocate result
+(6472) 18:44:41.158  W: P: failed to allocate result
+(6472) 18:44:41.178  W: P: failed to allocate result
+(6472) 18:44:41.200  W: P: failed to allocate result
+(6472) 18:44:41.239  W: P: failed to allocate result
+(6472) 18:44:41.258  W: P: failed to allocate result
+(6472) 18:44:41.276  W: P: failed to allocate result
+(6472) 18:44:41.298  W: P: failed to allocate result
+(6472) 18:44:41.333  W: P: failed to allocate result
+(6472) 18:44:41.354  W: P: failed to allocate result
+(6472) 18:44:41.376  W: P: failed to allocate result
+(6472) 18:44:41.410  W: P: failed to allocate result
+(6472) 18:44:41.432  W: P: failed to allocate result
+(6472) 18:44:41.451  W: P: failed to allocate result
+(6472) 18:44:41.491  W: P: failed to allocate result
+(6472) 18:44:41.513  W: P: failed to allocate result
+(6472) 18:44:41.535  W: P: failed to allocate result
+(6472) 18:44:41.558  W: P: failed to allocate result
+(6472) 18:44:41.580  W: P: failed to allocate result
+(6472) 18:44:41.604  W: P: failed to allocate result
+(6472) 18:44:41.627  W: P: failed to allocate result
+(6472) 18:44:41.667  W: P: failed to allocate result
+(6472) 18:44:41.690  W: P: failed to allocate result
+(6472) 18:44:41.711  W: P: failed to allocate result
+(6472) 18:44:41.734  W: P: failed to allocate result
+(6472) 18:44:41.756  W: P: failed to allocate result
+(6472) 18:44:41.781  W: P: failed to allocate result
+(6472) 18:44:41.807  W: P: failed to allocate result
+(6472) 18:44:41.832  W: P: failed to allocate result
+(6472) 18:44:41.854  W: P: failed to allocate result
+(6472) 18:44:41.878  W: P: failed to allocate result
+(6472) 18:44:41.902  W: P: failed to allocate result
+(6472) 18:44:41.929  W: P: failed to allocate result
+(6472) 18:44:41.954  W: P: failed to allocate result
+(6472) 18:44:41.977  W: P: failed to allocate result
+(6472) 18:44:42.000  W: P: failed to allocate result
+(6472) 18:44:42.042  W: P: failed to allocate result
+(6472) 18:44:42.066  W: P: failed to allocate result
+(6472) 18:44:42.088  W: P: failed to allocate result
+(6472) 18:44:42.109  W: P: failed to allocate result
+(6472) 18:44:42.130  W: P: failed to allocate result
+(6472) 18:44:42.151  W: P: failed to allocate result
+(6472) 18:44:42.173  W: P: failed to allocate result
+(6472) 18:44:42.221  W: P: failed to allocate result
+(6472) 18:44:42.233  W: P: failed to allocate result
+(6472) 18:44:42.253  W: P: failed to allocate result
+(6472) 18:44:42.273  W: P: failed to allocate result
+(6472) 18:44:42.305  W: P: failed to allocate result
+(6472) 18:44:42.324  W: P: failed to allocate result
+(6472) 18:44:42.342  W: P: failed to allocate result
+(6472) 18:44:42.375  W: P: failed to allocate result
+(6472) 18:44:42.394  W: P: failed to allocate result
+(6472) 18:44:42.427  W: P: failed to allocate result
+(6472) 18:44:42.450  W: P: failed to allocate result
+(6472) 18:44:42.474  W: P: failed to allocate result
+(6472) 18:44:42.508  W: P: failed to allocate result
+(6472) 18:44:42.571  W: P: failed to allocate result
+(6472) 18:44:42.592  W: P: failed to allocate result
+(6472) 18:44:42.619  W: P: failed to allocate result
+(6472) 18:44:42.640  W: P: failed to allocate result
+(6472) 18:44:42.661  W: P: failed to allocate result
+(6472) 18:44:42.682  W: P: failed to allocate result
+(6472) 18:44:42.703  W: P: failed to allocate result
+(6472) 18:44:42.723  W: P: failed to allocate result
+(6472) 18:44:42.742  W: P: failed to allocate result
+(6472) 18:44:42.764  W: P: failed to allocate result
+(6472) 18:44:42.797  W: P: failed to allocate result
+(6472) 18:44:42.816  W: P: failed to allocate result
+(6472) 18:44:42.835  W: P: failed to allocate result
+(6472) 18:44:42.854  W: P: failed to allocate result
+(6472) 18:44:42.875  W: P: failed to allocate result
+(6472) 18:44:42.894  W: P: failed to allocate result
+(6472) 18:44:42.913  W: P: failed to allocate result
+(6472) 18:44:42.935  W: P: failed to allocate result
+(6472) 18:44:42.953  W: P: failed to allocate result
+(6472) 18:44:42.973  W: P: failed to allocate result
+(6472) 18:44:43.006  W: P: failed to allocate result
+(6472) 18:44:43.026  W: P: failed to allocate result
+(6472) 18:44:43.046  W: P: failed to allocate result
+(6472) 18:44:43.081  W: P: failed to allocate result
+(6472) 18:44:43.101  W: P: failed to allocate result
+(6472) 18:44:43.121  W: P: failed to allocate result
+(6472) 18:44:43.153  W: P: failed to allocate result
+(6472) 18:44:43.174  W: P: failed to allocate result
+(6472) 18:44:43.193  W: P: failed to allocate result
+(6472) 18:44:43.227  W: P: failed to allocate result
+(6472) 18:44:43.248  W: P: failed to allocate result
+(6472) 18:44:43.270  W: P: failed to allocate result
+(6472) 18:44:43.307  W: P: failed to allocate result
+(6472) 18:44:43.325  W: P: failed to allocate result
+(6472) 18:44:43.344  W: P: failed to allocate result
+(6472) 18:44:43.377  W: P: failed to allocate result
+(6472) 18:44:43.411  W: P: failed to allocate result
+(6472) 18:44:43.432  W: P: failed to allocate result
+(6472) 18:44:43.450  W: P: failed to allocate result
+(6472) 18:44:43.469  W: P: failed to allocate result
+(6472) 18:44:43.504  W: P: failed to allocate result
+(6472) 18:44:43.523  W: P: failed to allocate result
+(6472) 18:44:43.539  W: P: failed to allocate result
+(6472) 18:44:43.571  W: P: failed to allocate result
+(6472) 18:44:43.589  W: P: failed to allocate result
+(6472) 18:44:43.622  W: P: failed to allocate result
+(6472) 18:44:43.640  W: P: failed to allocate result
+(6472) 18:44:43.672  W: P: failed to allocate result
+(6472) 18:44:43.690  W: P: failed to allocate result
+(6472) 18:44:43.723  W: P: failed to allocate result
+(6472) 18:44:43.742  W: P: failed to allocate result
+(6472) 18:44:43.776  W: P: failed to allocate result
+(6472) 18:44:43.794  W: P: failed to allocate result
+(6472) 18:44:43.814  W: P: failed to allocate result
+(6472) 18:44:43.848  W: P: failed to allocate result
+(6472) 18:44:43.867  W: P: failed to allocate result
+(6472) 18:44:43.899  W: P: failed to allocate result
+(6472) 18:44:43.920  W: P: failed to allocate result
+(6472) 18:44:43.937  W: P: failed to allocate result
+(6472) 18:44:43.989  W: P: failed to allocate result
+(6472) 18:44:44.006  W: P: failed to allocate result
+(6472) 18:44:44.026  W: P: failed to allocate result
+(6472) 18:44:44.045  W: P: failed to allocate result
+(6472) 18:44:44.066  W: P: failed to allocate result
+(6472) 18:44:44.097  W: P: failed to allocate result
+(6472) 18:44:44.117  W: P: failed to allocate result
+(6472) 18:44:44.137  W: P: failed to allocate result
+(6472) 18:44:44.173  W: P: failed to allocate result
+(6472) 18:44:44.192  W: P: failed to allocate result
+(6472) 18:44:44.211  W: P: failed to allocate result
+(6472) 18:44:44.242  W: P: failed to allocate result
+(6472) 18:44:44.261  W: P: failed to allocate result
+(6472) 18:44:44.292  W: P: failed to allocate result
+(6472) 18:44:44.310  W: P: failed to allocate result
+(6472) 18:44:44.340  W: P: failed to allocate result
+(6472) 18:44:44.358  W: P: failed to allocate result
+(6472) 18:44:44.388  W: P: failed to allocate result
+(6472) 18:44:44.405  W: P: failed to allocate result
+(6472) 18:44:44.454  W: P: failed to allocate result
+(6472) 18:44:44.471  W: P: failed to allocate result
+(6472) 18:44:44.489  W: P: failed to allocate result
+(6472) 18:44:44.510  W: P: failed to allocate result
+(6472) 18:44:44.542  W: P: failed to allocate result
+(6472) 18:44:44.560  W: P: failed to allocate result
+(6472) 18:44:44.591  W: P: failed to allocate result
+(6472) 18:44:44.611  W: P: failed to allocate result
+(6472) 18:44:44.640  W: P: failed to allocate result
+(6472) 18:44:44.658  W: P: failed to allocate result
+(6472) 18:44:44.690  W: P: failed to allocate result
+(6472) 18:44:44.708  W: P: failed to allocate result
+(6472) 18:44:44.739  W: P: failed to allocate result
+(6472) 18:44:44.758  W: P: failed to allocate result
+(6472) 18:44:44.789  W: P: failed to allocate result
+(6472) 18:44:44.821  W: P: failed to allocate result
+(6472) 18:44:44.839  W: P: failed to allocate result
+(6472) 18:44:44.871  W: P: failed to allocate result
+(6472) 18:44:44.889  W: P: failed to allocate result
+(6472) 18:44:44.906  W: P: failed to allocate result
+(6472) 18:44:44.937  W: P: failed to allocate result
+(6472) 18:44:44.954  W: P: failed to allocate result
+(6472) 18:44:44.988  W: P: failed to allocate result
+(6472) 18:44:45.006  W: P: failed to allocate result
+(6472) 18:44:45.037  W: P: failed to allocate result
+(6472) 18:44:45.054  W: P: failed to allocate result
+(6472) 18:44:45.088  W: P: failed to allocate result
+(6472) 18:44:45.105  W: P: failed to allocate result
+(6472) 18:44:45.138  W: P: failed to allocate result
+(6472) 18:44:45.156  W: P: failed to allocate result
+(6472) 18:44:45.187  W: P: failed to allocate result
+(6472) 18:44:45.203  W: P: failed to allocate result
+(6472) 18:44:45.236  W: P: failed to allocate result
+(6472) 18:44:45.255  W: P: failed to allocate result
+(17996) 18:44:45.284  d: Nature map advance, B on Top targeted at 21
+(17996) 18:44:45.285  d: Nature map state, A @ 103->100->100, B @ 157->160->160
+(6472) 18:44:45.290  W: P: failed to allocate result
+(6472) 18:44:45.310  W: P: failed to allocate result
+(6472) 18:44:45.340  W: P: failed to allocate result
+(6472) 18:44:45.360  W: P: failed to allocate result
+(6472) 18:44:45.391  W: P: failed to allocate result
+(6472) 18:44:45.410  W: P: failed to allocate result
+(6472) 18:44:45.443  W: P: failed to allocate result
+(6472) 18:44:45.464  W: P: failed to allocate result
+(6472) 18:44:45.486  W: P: failed to allocate result
+(6472) 18:44:45.524  W: P: failed to allocate result
+(6472) 18:44:45.549  W: P: failed to allocate result
+(6472) 18:44:45.571  W: P: failed to allocate result
+(6472) 18:44:45.591  W: P: failed to allocate result
+(6472) 18:44:45.611  W: P: failed to allocate result
+(6472) 18:44:45.645  W: P: failed to allocate result
+(6472) 18:44:45.693  W: P: failed to allocate result
+(6472) 18:44:45.697  W: P: failed to allocate result
+(6472) 18:44:45.719  W: P: failed to allocate result
+(6472) 18:44:45.740  W: P: failed to allocate result
+(6472) 18:44:45.760  W: P: failed to allocate result
+(6472) 18:44:45.790  W: P: failed to allocate result
+(6472) 18:44:45.807  W: P: failed to allocate result
+(6472) 18:44:45.838  W: P: failed to allocate result
+(6472) 18:44:45.855  W: P: failed to allocate result
+(6472) 18:44:45.887  W: P: failed to allocate result
+(6472) 18:44:45.905  W: P: failed to allocate result
+(6472) 18:44:45.938  W: P: failed to allocate result
+(6472) 18:44:45.955  W: P: failed to allocate result
+(6472) 18:44:45.989  W: P: failed to allocate result
+(6472) 18:44:46.008  W: P: failed to allocate result
+(6472) 18:44:46.042  W: P: failed to allocate result
+(6472) 18:44:46.060  W: P: failed to allocate result
+(6472) 18:44:46.079  W: P: failed to allocate result
+(6472) 18:44:46.110  W: P: failed to allocate result
+(6472) 18:44:46.127  W: P: failed to allocate result
+(6472) 18:44:46.158  W: P: failed to allocate result
+(6472) 18:44:46.177  W: P: failed to allocate result
+(6472) 18:44:46.205  W: P: failed to allocate result
+(6472) 18:44:46.238  W: P: failed to allocate result
+(6472) 18:44:46.257  W: P: failed to allocate result
+(6472) 18:44:46.289  W: P: failed to allocate result
+(6472) 18:44:46.306  W: P: failed to allocate result
+(6472) 18:44:46.340  W: P: failed to allocate result
+(6472) 18:44:46.358  W: P: failed to allocate result
+(6472) 18:44:46.389  W: P: failed to allocate result
+(6472) 18:44:46.408  W: P: failed to allocate result
+(6472) 18:44:46.439  W: P: failed to allocate result
+(6472) 18:44:46.458  W: P: failed to allocate result
+(6472) 18:44:46.488  W: P: failed to allocate result
+(6472) 18:44:46.507  W: P: failed to allocate result
+(6472) 18:44:46.539  W: P: failed to allocate result
+(6472) 18:44:46.556  W: P: failed to allocate result
+(6472) 18:44:46.588  W: P: failed to allocate result
+(6472) 18:44:46.606  W: P: failed to allocate result
+(6472) 18:44:46.639  W: P: failed to allocate result
+(6472) 18:44:46.658  W: P: failed to allocate result
+(6472) 18:44:46.689  W: P: failed to allocate result
+(6472) 18:44:46.708  W: P: failed to allocate result
+(6472) 18:44:46.740  W: P: failed to allocate result
+(6472) 18:44:46.759  W: P: failed to allocate result
+(6472) 18:44:46.789  W: P: failed to allocate result
+(6472) 18:44:46.806  W: P: failed to allocate result
+(6472) 18:44:46.838  W: P: failed to allocate result
+(17996) 18:44:46.850  d: Nature map advance, A on Top targeted at 15
+(17996) 18:44:46.850  d: Nature map state, A @ 103->100->100, B @ 103->100->100
+(6472) 18:44:46.857  W: P: failed to allocate result
+(6472) 18:44:46.891  W: P: failed to allocate result
+(6472) 18:44:46.912  W: P: failed to allocate result
+(6472) 18:44:46.947  W: P: failed to allocate result
+(6472) 18:44:46.968  W: P: failed to allocate result
+(6472) 18:44:46.989  W: P: failed to allocate result
+(6472) 18:44:47.010  W: P: failed to allocate result
+(6472) 18:44:47.043  W: P: failed to allocate result
+(6472) 18:44:47.063  W: P: failed to allocate result
+(6472) 18:44:47.111  W: P: failed to allocate result
+(6472) 18:44:47.119  W: P: failed to allocate result
+(6472) 18:44:47.138  W: P: failed to allocate result
+(6472) 18:44:47.158  W: P: failed to allocate result
+(6472) 18:44:47.194  W: P: failed to allocate result
+(6472) 18:44:47.214  W: P: failed to allocate result
+(6472) 18:44:47.236  W: P: failed to allocate result
+(6472) 18:44:47.272  W: P: failed to allocate result
+(6472) 18:44:47.291  W: P: failed to allocate result
+(6472) 18:44:47.313  W: P: failed to allocate result
+(6472) 18:44:47.334  W: P: failed to allocate result
+(6472) 18:44:47.366  W: P: failed to allocate result
+(6472) 18:44:47.384  W: P: failed to allocate result
+(6472) 18:44:47.400  W: P: failed to allocate result
+(6472) 18:44:47.430  W: P: failed to allocate result
+(6472) 18:44:47.447  W: P: failed to allocate result
+(6472) 18:44:47.489  W: P: failed to allocate result
+(6472) 18:44:47.510  W: P: failed to allocate result
+(6472) 18:44:47.542  W: P: failed to allocate result
+(6472) 18:44:47.560  W: P: failed to allocate result
+(6472) 18:44:47.577  W: P: failed to allocate result
+(6472) 18:44:47.598  W: P: failed to allocate result
+(6472) 18:44:47.631  W: P: failed to allocate result
+(6472) 18:44:47.651  W: P: failed to allocate result
+(6472) 18:44:47.683  W: P: failed to allocate result
+(6472) 18:44:47.701  W: P: failed to allocate result
+(6472) 18:44:47.731  W: P: failed to allocate result
+(6472) 18:44:47.751  W: P: failed to allocate result
+(6472) 18:44:47.779  W: P: failed to allocate result
+(6472) 18:44:47.800  W: P: failed to allocate result
+(6472) 18:44:47.830  W: P: failed to allocate result
+(6472) 18:44:47.855  W: P: failed to allocate result
+(6472) 18:44:47.888  W: P: failed to allocate result
+(6472) 18:44:47.907  W: P: failed to allocate result
+(6472) 18:44:47.926  W: P: failed to allocate result
+(6472) 18:44:47.950  W: P: failed to allocate result
+(6472) 18:44:47.985  W: P: failed to allocate result
+(6472) 18:44:48.023  W: P: failed to allocate result
+(6472) 18:44:48.045  W: P: failed to allocate result
+(6472) 18:44:48.066  W: P: failed to allocate result
+(6472) 18:44:48.089  W: P: failed to allocate result
+(6472) 18:44:48.112  W: P: failed to allocate result
+(6472) 18:44:48.133  W: P: failed to allocate result
+(6472) 18:44:48.154  W: P: failed to allocate result
+(6472) 18:44:48.173  W: P: failed to allocate result
+(6472) 18:44:48.194  W: P: failed to allocate result
+(6472) 18:44:48.231  W: P: failed to allocate result
+(6472) 18:44:48.254  W: P: failed to allocate result
+(6472) 18:44:48.273  W: P: failed to allocate result
+(6472) 18:44:48.293  W: P: failed to allocate result
+(6472) 18:44:48.327  W: P: failed to allocate result
+(6472) 18:44:48.349  W: P: failed to allocate result
+(6472) 18:44:48.371  W: P: failed to allocate result
+(6472) 18:44:48.406  W: P: failed to allocate result
+(6472) 18:44:48.428  W: P: failed to allocate result
+(6472) 18:44:48.452  W: P: failed to allocate result
+(6472) 18:44:48.472  W: P: failed to allocate result
+(6472) 18:44:48.495  W: P: failed to allocate result
+(6472) 18:44:48.516  W: P: failed to allocate result
+(6472) 18:44:48.536  W: P: failed to allocate result
+(6472) 18:44:48.574  W: P: failed to allocate result
+(6472) 18:44:48.599  W: P: failed to allocate result
+(6472) 18:44:48.623  W: P: failed to allocate result
+(6472) 18:44:48.644  W: P: failed to allocate result
+(17996) 18:44:48.657  d: Nature map advance, B on Center targeted at 15
+(17996) 18:44:48.657  d: Nature map state, A @ 112->110->110, B @ 112->110->110
+(6472) 18:44:48.667  W: P: failed to allocate result
+(6472) 18:44:48.709  W: P: failed to allocate result
+(6472) 18:44:48.747  W: P: failed to allocate result
+(6472) 18:44:48.771  W: P: failed to allocate result
+(6472) 18:44:48.794  W: P: failed to allocate result
+(6472) 18:44:48.818  W: P: failed to allocate result
+(6472) 18:44:48.841  W: P: failed to allocate result
+(6472) 18:44:48.863  W: P: failed to allocate result
+(6472) 18:44:48.886  W: P: failed to allocate result
+(6472) 18:44:48.908  W: P: failed to allocate result
+(6472) 18:44:48.930  W: P: failed to allocate result
+(6472) 18:44:48.950  W: P: failed to allocate result
+(6472) 18:44:48.971  W: P: failed to allocate result
+(6472) 18:44:48.992  W: P: failed to allocate result
+(6472) 18:44:49.015  W: P: failed to allocate result
+(6472) 18:44:49.050  W: P: failed to allocate result
+(6472) 18:44:49.073  W: P: failed to allocate result
+(6472) 18:44:49.096  W: P: failed to allocate result
+(6472) 18:44:49.118  W: P: failed to allocate result
+(6472) 18:44:49.139  W: P: failed to allocate result
+(6472) 18:44:49.161  W: P: failed to allocate result
+(6472) 18:44:49.181  W: P: failed to allocate result
+(6472) 18:44:49.201  W: P: failed to allocate result
+(6472) 18:44:49.239  W: P: failed to allocate result
+(6472) 18:44:49.257  W: P: failed to allocate result
+(6472) 18:44:49.276  W: P: failed to allocate result
+(6472) 18:44:49.310  W: P: failed to allocate result
+(6472) 18:44:49.342  W: P: failed to allocate result
+(6472) 18:44:49.361  W: P: failed to allocate result
+(6472) 18:44:49.383  W: P: failed to allocate result
+(6472) 18:44:49.404  W: P: failed to allocate result
+(6472) 18:44:49.425  W: P: failed to allocate result
+(6472) 18:44:49.474  W: P: failed to allocate result
+(6472) 18:44:49.480  W: P: failed to allocate result
+(6472) 18:44:49.498  W: P: failed to allocate result
+(6472) 18:44:49.532  W: P: failed to allocate result
+(6472) 18:44:49.553  W: P: failed to allocate result
+(6472) 18:44:49.572  W: P: failed to allocate result
+(6472) 18:44:49.606  W: P: failed to allocate result
+(6472) 18:44:49.625  W: P: failed to allocate result
+(6472) 18:44:49.644  W: P: failed to allocate result
+(6472) 18:44:49.677  W: P: failed to allocate result
+(6472) 18:44:49.697  W: P: failed to allocate result
+(6472) 18:44:49.729  W: P: failed to allocate result
+(6472) 18:44:49.750  W: P: failed to allocate result
+(6472) 18:44:49.768  W: P: failed to allocate result
+(6472) 18:44:49.801  W: P: failed to allocate result
+(6472) 18:44:49.820  W: P: failed to allocate result
+(6472) 18:44:49.857  W: P: failed to allocate result
+(6472) 18:44:49.876  W: P: failed to allocate result
+(6472) 18:44:49.896  W: P: failed to allocate result
+(6472) 18:44:49.928  W: P: failed to allocate result
+(6472) 18:44:49.947  W: P: failed to allocate result
+(6472) 18:44:49.967  W: P: failed to allocate result
+(6472) 18:44:49.998  W: P: failed to allocate result
+(6472) 18:44:50.019  W: P: failed to allocate result
+(6472) 18:44:50.050  W: P: failed to allocate result
+(6472) 18:44:50.069  W: P: failed to allocate result
+(6472) 18:44:50.107  W: P: failed to allocate result
+(6472) 18:44:50.127  W: P: failed to allocate result
+(6472) 18:44:50.145  W: P: failed to allocate result
+(6472) 18:44:50.175  W: P: failed to allocate result
+(6472) 18:44:50.194  W: P: failed to allocate result
+(6472) 18:44:50.224  W: P: failed to allocate result
+(6472) 18:44:50.242  W: P: failed to allocate result
+(6472) 18:44:50.273  W: P: failed to allocate result
+(6472) 18:44:50.292  W: P: failed to allocate result
+(6472) 18:44:50.323  W: P: failed to allocate result
+(6472) 18:44:50.341  W: P: failed to allocate result
+(6472) 18:44:50.373  W: P: failed to allocate result
+(6472) 18:44:50.391  W: P: failed to allocate result
+(6472) 18:44:50.422  W: P: failed to allocate result
+(6472) 18:44:50.471  W: P: failed to allocate result
+(6472) 18:44:50.474  W: P: failed to allocate result
+(6472) 18:44:50.491  W: P: failed to allocate result
+(6472) 18:44:50.527  W: P: failed to allocate result
+(6472) 18:44:50.547  W: P: failed to allocate result
+(6472) 18:44:50.581  W: P: failed to allocate result
+(6472) 18:44:50.613  W: P: failed to allocate result
+(6472) 18:44:50.632  W: P: failed to allocate result
+(6472) 18:44:50.652  W: P: failed to allocate result
+(6472) 18:44:50.672  W: P: failed to allocate result
+(6472) 18:44:50.690  W: P: failed to allocate result
+(6472) 18:44:50.723  W: P: failed to allocate result
+(6472) 18:44:50.743  W: P: failed to allocate result
+(6472) 18:44:50.762  W: P: failed to allocate result
+(6472) 18:44:50.794  W: P: failed to allocate result
+(6472) 18:44:50.816  W: P: failed to allocate result
+(6472) 18:44:50.848  W: P: failed to allocate result
+(6472) 18:44:50.867  W: P: failed to allocate result
+(6472) 18:44:50.899  W: P: failed to allocate result
+(6472) 18:44:50.934  W: P: failed to allocate result
+(6472) 18:44:50.953  W: P: failed to allocate result
+(6472) 18:44:50.972  W: P: failed to allocate result
+(6472) 18:44:50.992  W: P: failed to allocate result
+(6472) 18:44:51.026  W: P: failed to allocate result
+(6472) 18:44:51.044  W: P: failed to allocate result
+(6472) 18:44:51.078  W: P: failed to allocate result
+(6472) 18:44:51.099  W: P: failed to allocate result
+(6472) 18:44:51.117  W: P: failed to allocate result
+(6472) 18:44:51.138  W: P: failed to allocate result
+(6472) 18:44:51.172  W: P: failed to allocate result
+(6472) 18:44:51.194  W: P: failed to allocate result
+(6472) 18:44:51.216  W: P: failed to allocate result
+(6472) 18:44:51.236  W: P: failed to allocate result
+(6472) 18:44:51.273  W: P: failed to allocate result
+(6472) 18:44:51.293  W: P: failed to allocate result
+(6472) 18:44:51.311  W: P: failed to allocate result
+(6472) 18:44:51.330  W: P: failed to allocate result
+(6472) 18:44:51.376  W: P: failed to allocate result
+(6472) 18:44:51.396  W: P: failed to allocate result
+(6472) 18:44:51.415  W: P: failed to allocate result
+(6472) 18:44:51.435  W: P: failed to allocate result
+(6472) 18:44:51.469  W: P: failed to allocate result
+(6472) 18:44:51.489  W: P: failed to allocate result
+(6472) 18:44:51.509  W: P: failed to allocate result
+(6472) 18:44:51.532  W: P: failed to allocate result
+(6472) 18:44:51.568  W: P: failed to allocate result
+(6472) 18:44:51.588  W: P: failed to allocate result
+(6472) 18:44:51.608  W: P: failed to allocate result
+(6472) 18:44:51.644  W: P: failed to allocate result
+(6472) 18:44:51.670  W: P: failed to allocate result
+(6472) 18:44:51.692  W: P: failed to allocate result
+(6472) 18:44:51.713  W: P: failed to allocate result
+(6472) 18:44:51.733  W: P: failed to allocate result
+(6472) 18:44:51.772  W: P: failed to allocate result
+(6472) 18:44:51.793  W: P: failed to allocate result
+(6472) 18:44:51.813  W: P: failed to allocate result
+(6472) 18:44:51.831  W: P: failed to allocate result
+(6472) 18:44:51.867  W: P: failed to allocate result
+(6472) 18:44:51.890  W: P: failed to allocate result
+(6472) 18:44:51.910  W: P: failed to allocate result
+(6472) 18:44:51.930  W: P: failed to allocate result
+(6472) 18:44:51.968  W: P: failed to allocate result
+(6472) 18:44:51.989  W: P: failed to allocate result
+(6472) 18:44:52.008  W: P: failed to allocate result
+(6472) 18:44:52.030  W: P: failed to allocate result
+(6472) 18:44:52.070  W: P: failed to allocate result
+(6472) 18:44:52.092  W: P: failed to allocate result
+(6472) 18:44:52.114  W: P: failed to allocate result
+(6472) 18:44:52.136  W: P: failed to allocate result
+(6472) 18:44:52.171  W: P: failed to allocate result
+(6472) 18:44:52.195  W: P: failed to allocate result
+(6472) 18:44:52.230  W: P: failed to allocate result
+(6472) 18:44:52.253  W: P: failed to allocate result
+(6472) 18:44:52.273  W: P: failed to allocate result
+(6472) 18:44:52.294  W: P: failed to allocate result
+(6472) 18:44:52.315  W: P: failed to allocate result
+(6472) 18:44:52.335  W: P: failed to allocate result
+(6472) 18:44:52.357  W: P: failed to allocate result
+(6472) 18:44:52.378  W: P: failed to allocate result
+(6472) 18:44:52.418  W: P: failed to allocate result
+(6472) 18:44:52.440  W: P: failed to allocate result
+(6472) 18:44:52.461  W: P: failed to allocate result
+(6472) 18:44:52.485  W: P: failed to allocate result
+(6472) 18:44:52.533  W: P: failed to allocate result
+(6472) 18:44:52.536  W: P: failed to allocate result
+(6472) 18:44:52.576  W: P: failed to allocate result
+(6472) 18:44:52.601  W: P: failed to allocate result
+(6472) 18:44:52.624  W: P: failed to allocate result
+(6472) 18:44:52.663  W: P: failed to allocate result
+(6472) 18:44:52.689  W: P: failed to allocate result
+(6472) 18:44:52.712  W: P: failed to allocate result
+(6472) 18:44:52.749  W: P: failed to allocate result
+(6472) 18:44:52.772  W: P: failed to allocate result
+(6472) 18:44:52.798  W: P: failed to allocate result
+(6472) 18:44:52.821  W: P: failed to allocate result
+(6472) 18:44:52.847  W: P: failed to allocate result
+(6472) 18:44:52.871  W: P: failed to allocate result
+(6472) 18:44:52.896  W: P: failed to allocate result
+(6472) 18:44:52.924  W: P: failed to allocate result
+(6472) 18:44:52.948  W: P: failed to allocate result
+(6472) 18:44:52.988  W: P: failed to allocate result
+(6472) 18:44:53.016  W: P: failed to allocate result
+(6472) 18:44:53.040  W: P: failed to allocate result
+(6472) 18:44:53.062  W: P: failed to allocate result
+(6472) 18:44:53.086  W: P: failed to allocate result
+(6472) 18:44:53.110  W: P: failed to allocate result
+(6472) 18:44:53.137  W: P: failed to allocate result
+(6472) 18:44:53.158  W: P: failed to allocate result
+(6472) 18:44:53.180  W: P: failed to allocate result
+(6472) 18:44:53.206  W: P: failed to allocate result
+(6472) 18:44:53.229  W: P: failed to allocate result
+(6472) 18:44:53.255  W: P: failed to allocate result
+(6472) 18:44:53.279  W: P: failed to allocate result
+(6472) 18:44:53.304  W: P: failed to allocate result
+(6472) 18:44:53.327  W: P: failed to allocate result
+(6472) 18:44:53.350  W: P: failed to allocate result
+(6472) 18:44:53.375  W: P: failed to allocate result
+(6472) 18:44:53.401  W: P: failed to allocate result
+(6472) 18:44:53.426  W: P: failed to allocate result
+(6472) 18:44:53.452  W: P: failed to allocate result
+(6472) 18:44:53.478  W: P: failed to allocate result
+(6472) 18:44:53.509  W: P: failed to allocate result
+(6472) 18:44:53.548  W: P: failed to allocate result
+(6472) 18:44:53.573  W: P: failed to allocate result
+(6472) 18:44:53.599  W: P: failed to allocate result
+(6472) 18:44:53.622  W: P: failed to allocate result
+(6472) 18:44:53.647  W: P: failed to allocate result
+(6472) 18:44:53.705  W: P: failed to allocate result
+(6472) 18:44:53.739  W: P: failed to allocate result
+(6472) 18:44:53.763  W: P: failed to allocate result
+(6472) 18:44:53.791  W: P: failed to allocate result
+(6472) 18:44:53.818  W: P: failed to allocate result
+(6472) 18:44:53.856  W: P: failed to allocate result
+(6472) 18:44:53.880  W: P: failed to allocate result
+(6472) 18:44:53.904  W: P: failed to allocate result
+(6472) 18:44:53.943  W: P: failed to allocate result
+(6472) 18:44:53.969  W: P: failed to allocate result
+(6472) 18:44:53.994  W: P: failed to allocate result
+(6472) 18:44:54.020  W: P: failed to allocate result
+(6472) 18:44:54.042  W: P: failed to allocate result
+(6472) 18:44:54.066  W: P: failed to allocate result
+(6472) 18:44:54.089  W: P: failed to allocate result
+(6472) 18:44:54.114  W: P: failed to allocate result
+(6472) 18:44:54.162  W: P: failed to allocate result
+(6472) 18:44:54.173  W: P: failed to allocate result
+(6472) 18:44:54.195  W: P: failed to allocate result
+(6472) 18:44:54.216  W: P: failed to allocate result
+(6472) 18:44:54.238  W: P: failed to allocate result
+(6472) 18:44:54.260  W: P: failed to allocate result
+(6472) 18:44:54.283  W: P: failed to allocate result
+(6472) 18:44:54.306  W: P: failed to allocate result
+(6472) 18:44:54.327  W: P: failed to allocate result
+(6472) 18:44:54.349  W: P: failed to allocate result
+(6472) 18:44:54.372  W: P: failed to allocate result
+(6472) 18:44:54.395  W: P: failed to allocate result
+(6472) 18:44:54.416  W: P: failed to allocate result
+(6472) 18:44:54.439  W: P: failed to allocate result
+(6472) 18:44:54.460  W: P: failed to allocate result
+(6472) 18:44:54.482  W: P: failed to allocate result
+(6472) 18:44:54.504  W: P: failed to allocate result
+(6472) 18:44:54.524  W: P: failed to allocate result
+(6472) 18:44:54.545  W: P: failed to allocate result
+(6472) 18:44:54.564  W: P: failed to allocate result
+(6472) 18:44:54.600  W: P: failed to allocate result
+(6472) 18:44:54.637  W: P: failed to allocate result
+(6472) 18:44:54.730  W: P: failed to allocate result
+(6472) 18:44:54.756  W: P: failed to allocate result
+(6472) 18:44:54.778  W: P: failed to allocate result
+(6472) 18:44:54.802  W: P: failed to allocate result
+(6472) 18:44:54.824  W: P: failed to allocate result
+(6472) 18:44:54.845  W: P: failed to allocate result
+(6472) 18:44:54.866  W: P: failed to allocate result
+(6472) 18:44:54.887  W: P: failed to allocate result
+(6472) 18:44:54.906  W: P: failed to allocate result
+(6472) 18:44:54.925  W: P: failed to allocate result
+(6472) 18:44:54.944  W: P: failed to allocate result
+(6472) 18:44:54.963  W: P: failed to allocate result
+(6472) 18:44:54.984  W: P: failed to allocate result
+(6472) 18:44:55.002  W: P: failed to allocate result
+(6472) 18:44:55.021  W: P: failed to allocate result
+(6472) 18:44:55.048  W: P: failed to allocate result
+(6472) 18:44:55.069  W: P: failed to allocate result
+(6472) 18:44:55.095  W: P: failed to allocate result
+(6472) 18:44:55.116  W: P: failed to allocate result
+(6472) 18:44:55.157  W: P: failed to allocate result
+(6472) 18:44:55.180  W: P: failed to allocate result
+(6472) 18:44:55.229  W: P: failed to allocate result
+(6472) 18:44:55.233  W: P: failed to allocate result
+(6472) 18:44:55.248  W: P: failed to allocate result
+(6472) 18:44:55.273  W: P: failed to allocate result
+(6472) 18:44:55.335  W: P: failed to allocate result
+(6472) 18:44:55.358  W: P: failed to allocate result
+(6472) 18:44:55.381  W: P: failed to allocate result
+(6472) 18:44:55.406  W: P: failed to allocate result
+(6472) 18:44:55.427  W: P: failed to allocate result
+(6472) 18:44:55.455  W: P: failed to allocate result
+(6472) 18:44:55.480  W: P: failed to allocate result
+(6472) 18:44:55.504  W: P: failed to allocate result
+(6472) 18:44:55.525  W: P: failed to allocate result
+(6472) 18:44:55.545  W: P: failed to allocate result
+(6472) 18:44:55.567  W: P: failed to allocate result
+(6472) 18:44:55.590  W: P: failed to allocate result
+(6472) 18:44:55.610  W: P: failed to allocate result
+(6472) 18:44:55.647  W: P: failed to allocate result
+(6472) 18:44:55.671  W: P: failed to allocate result
+(6472) 18:44:55.695  W: P: failed to allocate result
+(6472) 18:44:55.718  W: P: failed to allocate result
+(17996) 18:44:56.504  d: [ResourceCollection] destroyed
+(6472) 18:44:56.961  d: P: finish
+(17996) 18:44:57.003  d: ~DumyFemaleMaleAssistEffectFlashConnection()
+(17996) 18:44:57.004  d: ~DumyFemaleMaleAssistEffectFlashConnection()
+(17996) 18:44:57.716  d: Start HwInput::~HwInput
+(17996) 18:44:57.716  d: ComPtr: Free 14ef6d4 DEC
+(17996) 18:44:57.717  d: ComPtr: Free 14f975c DEC
+(17996) 18:44:57.719  d: ComPtr: Free 14f829c DEC
+(17996) 18:44:57.720  d: Start HwInput::~HwInput OK
+(17996) 18:44:57.736  d: [ResourceCollection] destroyed
+(17996) 18:44:58.764  d: NotifyDeviceLost
+(17996) 18:44:58.764  d: NotifyDeviceDelete
+(17996) 18:44:58.764  d: releasing renderer...
+now we are NOT able to render  :)
+
